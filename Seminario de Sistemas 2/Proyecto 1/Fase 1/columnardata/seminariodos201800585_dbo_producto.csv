@@ -1,0 +1,251 @@
+idProducto,codigo,nombre,marca,categoria
+1,AC00003,Queso Camembert kaserei champiñón ,MONTICELLO,Charcutería
+2,AC00004,Servilletas familia acolcha max  decor dulce hogar ,ZORBA,Limpieza de cocina
+3,AC00005,Cerveza Hofbrau Munchen Dunkel botella ,ZENU,Vinos y Licores
+4,AC00006,Vino gato blanco ,CREM HELADO,Vinos y Licores
+5,AC00007,Caiman Shock moka moa mini ,UBL,Belleza
+6,AC00008,Cerveza paulaner weissbier botella ,ZENU,Vinos y Licores
+7,AC00009,Vino espumoso barón de rothberg Brut ,SINFONIA,Vinos y Licores
+8,AC00010,"Gaseosa Postobon uva cero calorías 1,5 litros",COCA COLA,Bebidas
+9,AC00012,Ambientador Bonaire concentrado tropical breeze ,BON AIRE,Aseo de hogar
+10,AC00013,Pina colada Jonnyki ,COLOMBINA,Vinos y Licores
+11,AC00014,Cerveza Miller Genuine Draft Bot. ,ZENU,Vinos y Licores
+12,AC00017,Papel Zeux aluminio esterilizado ,ZORBA,Limpieza de cocina
+13,AC00018,Gaseosa Pepsi light ,BRETANA,Bebidas
+14,AC00019,Lavalozas Líquido Dawn Ultra aroma original ,PASCO,Limpieza de cocina
+15,AC00021,Cerveza liefmans fruitesse botella,ZENU,Vinos y Licores
+16,AC00022,Lavaplatos Líquido Axion Limón Espuma Activa 1500ml,PASCO,Limpieza de cocina
+17,AC00023,Aguardiente sin azúcar vidrio ,MIMOS,Vinos y Licores
+18,AC00024,Queso crema con pimienta rosa quescrem,LA FACTORIA,Charcutería
+19,AC00026,Pimentón ahumado Ulas ,VILASECA,Charcutería
+20,AC00028,Caucho Shock beige surtido ,UBL,Belleza
+21,AC00029,Toallas Húmedas Desinfectantes Familia Hogar Repuesto Lavanda ,ETERNA,Limpieza de cocina
+22,AC00031,Lavaloza Top Terra hogar ecodrops liquido doypack ,PARMALAT,Limpieza de cocina
+23,AC00032,Vino Finca nueva rioja botella ,CREM HELADO,Vinos y Licores
+24,AC00033,Velvet Shock caucho blister ,TRIM,Belleza
+25,AC00034,Filtro Stilocafe papel no.2 ,COLANTA,Limpieza de cocina
+26,AC00038,Gaseosa Postobon surtida ,COCA COLA,Bebidas
+27,AC00039,Cepillo Shock plástico pastel cojín sirena,UBL,Belleza
+28,AC00040,Aguardiente Néctar Club tetra pack ,CREM HELADO,Vinos y Licores
+29,AC00042,Salsa de ciruela Ulas ,KOLLER,Charcutería
+30,AC00043,Paté de Queso ,LA FACTORIA,Charcutería
+31,AC00044,Cerveza Club Colombia Negra Botella ,RAPIYUCA,Vinos y Licores
+32,AC00046,Gaseosa Pepsi Jumbo ,7 UP,Bebidas
+33,AC00047,Gaseosa uva Fanta ,COLOMBIANA,Bebidas
+34,AC00048,Vino espumoso blanco Anna Codorniu brut botella ,SINFONIA,Vinos y Licores
+35,AC00050,Servilletas Familia AcolchaMAX Famitaco Medianas ,FINESSE,Limpieza de cocina
+36,AC00051,Cerveza Club Colombia trigo raíces ,PAPAFACIL,Vinos y Licores
+37,AC00053,Cerveza Lager 5% Puls En Lata Bandeja ,PASTICHELI,Vinos y Licores
+38,AC00055,Coctel Carinoso tinto verano botella. ,MIMOS,Vinos y Licores
+39,AC00056,Queso crema natural quescrem,KOLLER,Charcutería
+40,AC00057,Queso Azul Danés Centurion Premium ,DINARDI,Charcutería
+41,AC00060,Caiman Shock Premium animal print,UBL,Belleza
+42,AC00061,Cerveza Kostritzer Schwarzber Lata ,PASTICHELI,Vinos y Licores
+43,AC00062,Crema al queso azul ,DELIPAVO,Charcutería
+44,AC00064,Ambientador Spray Frescura Ambiental Frutos Rojos Bonaire ,BONAIRE,Aseo de hogar
+45,AC00065,Pack 3 sabores surtidos  gatorade 500 ml,POSTOBON,Bebidas
+46,AC00066,Aromatizante De Ambiente En Aerosol Campos De Lavanda Rociado Fácil Glade,GLADE,Aseo de hogar
+47,AC00068,Cauchos pretty citrus combinados ,FREESTYLE,Belleza
+48,AC00069,Queso Crema de emmental reny picot,NOEL,Charcutería
+49,AC00071,Toalla Familia acolchamax mega rollo ,YOX,Limpieza de cocina
+50,AC00072,Ambientador Spray Frescura Ambiental Baby Fresh Bonaire ,GLADE,Aseo de hogar
+51,AC00074,Lavaplatos Líquido Axion Fusión de Limpieza Bicarbonato y Toronja 750ml,PASCO,Limpieza de cocina
+52,AC00075,Aperitivo Amaretto Convier ,MIMOS,Vinos y Licores
+53,AC00076,Papel aluminio domingo repuesto 7 m,YOX,Limpieza de cocina
+54,AC00078,Powerade Ion 4 Muntainblast ,FANTA,Bebidas
+55,AC00079,Vino moscatel Los Monjes ,RAPIPAPA,Vinos y Licores
+56,AC00080,Cerveza Miller Lite Lata ,ZENU,Vinos y Licores
+57,AC00081,Base coctel Master Of Mixes margarita ,MIMOS,Vinos y Licores
+58,AC00082,Cerveza rubia premium lager BBC ,FRUTOS DELMAIPO,Vinos y Licores
+59,AC00083,Cerveza Leffe blonde rubia ,ZENU,Vinos y Licores
+60,AC00084,Ambientador Varitas Frescura Vainilla Bonaire ,BONAIRE,Aseo de hogar
+61,AC00085,Cerveza roja Monserrate BBC ,PESQUERA DEL MAR,Vinos y Licores
+62,AC00086,Cerveza Sol botella ,MC CAIN,Vinos y Licores
+63,AC00087,Lonchitas de queso cheddar centurion green line ,DELIPAVO,Charcutería
+64,AC00088,Vino espumoso Barón de Rothberg rose ,SINFONIA,Vinos y Licores
+65,AC00089,Paño Scott duramax 3D semidesechables ,COLACTEOS,Limpieza de cocina
+66,AC00090,Bebida carbonatada Bretaña ,POSTOBON,Bebidas
+67,AC00091,Concentrado Finest Call fruta granadina ,COLOMBINA,Vinos y Licores
+68,AC00092,Aromatizante Air Wick pure flores de magnolia,AIR WICK,Aseo de hogar
+69,AC00093,Cerveza Premium Heineken lager botella ,AVANTI,Vinos y Licores
+70,AC00094,Paté de La Maison de Paté por 2 unds,NICO JAMONES,Charcutería
+71,AC00096,Ambientador Bon Aire electra oíl vainilla ,BONAIRE,Aseo de hogar
+72,AC00098,Paté de aves porción ,NICO JAMONES,Charcutería
+73,AC00099,Caiman Shock texas ,UBL,Belleza
+74,AC00100,Ambientador Bon Aire toque único fantasía floral ,BONAIRE,Aseo de hogar
+75,AC00102,Queso brie Rosenborg ,CENTURION FOODS,Charcutería
+76,AC00103,Cerveza Stella Artois Botella ,MC CAIN,Vinos y Licores
+77,AC00104,Ambientador Glade automático precio especial ,GLADE,Aseo de hogar
+78,AC00106,Cerveza Aguila original en lata ,FARAH,Vinos y Licores
+79,AC00107,Brandy don pedro bot ,COLOMBINA,Vinos y Licores
+80,AC00108,Cerveza Paulaner weissbier lata ,ROMAGNOLA,Vinos y Licores
+81,AC00110,Cerveza Apóstol bock ,FARAH,Vinos y Licores
+82,AC00111,Toallas de Cocina Familia Practi-diarias Jumbo Pack ,BON YURT,Limpieza de cocina
+83,AC00112,Queso de untar jamón Eru ,VILASECA,Charcutería
+84,AC00115,Toalla de cocina Favorita ,YOX,Limpieza de cocina
+85,AC00117,Bebida gaseosa Postobón uva ,SCHWEPPES,Bebidas
+86,AC00120,Pepino agridulce Ulas,CENTURION FOODS,Charcutería
+87,EP00001,Cerveza Club Colombia Sixpack Botella ,PATATOS,Vinos y Licores
+88,EP00004,Coctel la celebración daiquiri sin alcohol ,MIMOS,Vinos y Licores
+89,EP00008,Squash ,POSTOBON,Bebidas
+90,EP00009,Cerveza Chelarte raquel pale ale ,RAPIYUCA,Vinos y Licores
+91,EP00011,Paño Scott duramax 3d semidesechable ,SUPERIOR,Limpieza de cocina
+92,EP00012,Cerveza negra erdinger pikantus bot ,PASTICHELI,Vinos y Licores
+93,EP00013,Aperitivo Fernet branca ,MIMOS,Vinos y Licores
+94,EP00014,Aromatizante Air Wick Pure suave aparato + repuesto,AIR WICK,Aseo de hogar
+95,EP00016,Ambientador Bonaire Varitas Frutos Rojosx80mlx2Und,BONAIRE,Aseo de hogar
+96,EP00017,Tomates Cheika Secos en Aceite de Oliva ,MONTICELLO,Charcutería
+97,EP00018,Gaseosa Sprite ,COCA COLA,Bebidas
+98,EP00019,Piña colada Tahití botella ,POPSY,Vinos y Licores
+99,EP00020,Bloque pulidor blanco,SOPRETTY,Belleza
+100,EP00021,Cerveza Lager 5% Puls En Lata Sixpack,ZENU,Vinos y Licores
+101,EP00023,Bebida hidratante Gatorade active fresa-kiwi  ,PEPSI,Bebidas
+102,EP00024,Pina colada convier aperitivo ,SINFONIA,Vinos y Licores
+103,EP00025,Gaseosa Sr.Toronjo Pet. ,COCA COLA,Bebidas
+104,EP00030,Cerveza negra chapinero BBC ,ULAS,Vinos y Licores
+105,EP00033,Cerveza baltika 7 export lager botella ,MISTER TRU,Vinos y Licores
+106,EP00034,Cerveza Baltika 7 export lager ,FILLODOUGH,Vinos y Licores
+107,EP00036,Lavaplatos Líquido Axion Fusión de Limpieza Bicarbonato y Toronja 1.5L,SAN MARTIN,Limpieza de cocina
+108,EP00037,Vino Nieto Senetier reserva especial cabernet sauvignon ,PATATOS,Vinos y Licores
+109,EP00038,Powerade Ion 4 Frutas tropicales ,POSTOBON,Bebidas
+110,EP00041,Bebida gaseosa Pepsi light ,CANADA DRY,Bebidas
+111,EP00042,Cerveza Bitburger Drive 0.0% Botella ,MCCAIN,Vinos y Licores
+112,EP00043,Kit Ginmix botánicos gin tonic ,COLOMBINA,Vinos y Licores
+113,EP00044,Película transparente domingo repuesto ,ZORBA,Limpieza de cocina
+114,EP00045,Promo Lavaplatos Crema Axion Limón Espuma Activa 450g Pack 2und,SKETOS,Limpieza de cocina
+115,EP00046,Cerveza Miller Genuine Draft Lata ,ZENU,Vinos y Licores
+116,EP00048,Ambientador Varitas Frescura Citronela Bonaire ,BONAIRE,Aseo de hogar
+117,EP00050,Crema du camembert 125g,DELIPAVO,Charcutería
+118,EP00051,Coctel la celebración margarita sin alcohol ,MIMOS,Vinos y Licores
+119,EP00052,Vino Panul blanco chardonnay clásico botella ,RAPIPAPA,Vinos y Licores
+120,EP00053,Caiman Shock animal print,FREESTYLE,Belleza
+121,EP00054,Ambientador Bonaire vainilla fresa ,BON AIRE,Aseo de hogar
+122,EP00057,Tomate a la florentina Ulas ,VILASECA,Charcutería
+123,EP00058,Gaseosa quatro toronja ,COCA COLA,Bebidas
+124,EP00061,Aromatizante Air Wick Pure repuesto suavidad,AIR WICK,Aseo de hogar
+125,EP00062,Cran-Grape Juice Grape ,COLOMBIANA,Bebidas
+126,EP00063,Cerveza Benediktiner Weissbier Botella ,ZENU,Vinos y Licores
+127,EP00064,Queso alpina gruyere cuna ,LA PARISIENNE,Charcutería
+128,EP00065,Gaseosa postobon manzana ,COCA COLA,Bebidas
+129,EP00066,Aromatizante De Ambiente En Aerosol Paraiso Azul Rociado Fácil Glade ,GLADE,Aseo de hogar
+130,EP00067,Cerveza Club Colombia Dorada Lata ,RAPIYUCA,Vinos y Licores
+131,EP00068,Ambientador Bonaire vainilla seducción + repuesto ,BONAIRE,Aseo de hogar
+132,EP00070,Vino estancia mendoza malbec roble ,SINFONIA,Vinos y Licores
+133,EP00071,Ambientador En Gel De Bolsa Para Espacios Pequeños Manzana y Canela Glade ,GLADE,Aseo de hogar
+134,EP00073,Caiman Shock ohio ,SOPRETTY,Belleza
+135,EP00076,Vino navarro colección priv. Trivarietal ,PATATOS,Vinos y Licores
+136,EP00077,Cerveza Chelarte pamela summer ale ,MCCAIN,Vinos y Licores
+137,EP00079,Toalla de Cocina decorada Favorita rollo ,YOGO YOGO,Limpieza de cocina
+138,EP00080,Absorbe olores Dr Beckman refrigerador bicarbonato ,SKETOS,Limpieza de cocina
+139,EP00085,Bebida San Pellegrino carbonatada naranja en lata ,HIPINTO,Bebidas
+140,EP00087,Gaseosa six Pack 7 Up ,COCA COLA,Bebidas
+141,EP00088,Queso crema light quescrem  ,VILASECA,Charcutería
+142,EP00090,Vino de manzana Cariñoso ,SINFONIA,Vinos y Licores
+143,OP00001,Agua tónica Juniper natural quinua botella ,PEPSI,Bebidas
+144,OP00002,Queso alpina Tilsit natural cuna ,VILASECA,Charcutería
+145,OP00003,Gaseosa Soda Schweppes ,COCA COLA,Bebidas
+146,OP00004,Cream cheese Pauly ,DELIPAVO,Charcutería
+147,OP00005,Paté De Hígado Premium ,NICO JAMONES,Charcutería
+148,OP00006,Brandy domecq fco ,SINFONIA,Vinos y Licores
+149,OP00007,Alimento líquido Ades soya jugo naranja ,BRETANA,Bebidas
+150,OP00008,Paño Scott Duramax 3d semi desechable ,COLANTA,Limpieza de cocina
+151,OP00011,Queso Camembert ,LA FACTORIA,Charcutería
+152,OP00012,Gaseosa Postobon Bretaña ,CANADA DRY,Bebidas
+153,OP00014,Gatorade Maracuyá Pet ,POSTOBON,Bebidas
+154,OP00015,Crema de café De la Corte ,POLET,Vinos y Licores
+155,OP00016,Vino Finca La Escondida malbec ,SINFONIA,Vinos y Licores
+156,OP00017,Aromatizante De Ambiente En Aerosol Manzana y Canela Rociado Fácil Glade,GLADE,Aseo de hogar
+157,OP00018,Cerveza Apóstol Dubeel ,K-LISTO,Vinos y Licores
+158,OP00019,Aromatizante Air Wick Pure aerosol fresco ,AIR WICK,Aseo de hogar
+159,OP00020,Aperitivo Aperol botella ,MIMOS,Vinos y Licores
+160,OP00021,Ambientador Spray Frescura Ambiental Surtido Bonaire 3 und ,BONAIRE,Aseo de hogar
+161,OP00022,Pimentones cheika ,BOADAS,Charcutería
+162,OP00023,Soda schweppes ,COLOMBIANA,Bebidas
+163,OP00025,Cerveza Club Colombia Roja Bot ,PATATOS,Vinos y Licores
+164,OP00027,Cerveza Heineken Sixpack Lata ,ZENU,Vinos y Licores
+165,OP00028,Vino Frontera Carmenere ,CREM HELADO,Vinos y Licores
+166,OP00029,Servilletas Familia Ultra ,COLANTA,Limpieza de cocina
+167,OP00034,Toallas de Cocina Familia AcolchaMAX Megarollo Decoradas de 120 Hojas,YOX,Limpieza de cocina
+168,OP00035,Ambientador Auto Spray Carro Nuevo Bonaire ,BONAIRE,Aseo de hogar
+169,OP00037,Servilletas Familia AcolchaMAX Normal Famitaco ,ALPINA,Limpieza de cocina
+170,OP00039,Gaseosa Postobon Colombiana ,CANADA DRY,Bebidas
+171,OP00040,Cerveza hofbrau munchen original bot.x500ml,ZENU,Vinos y Licores
+172,OP00041,Ambientador Varitas Frescura Pomelo Bonaire ,BONAIRE,Aseo de hogar
+173,OP00043,Vino Norton Varietal Merlot ,MC CAIN,Vinos y Licores
+174,OP00045,Queso classic smooth & nutty fol epi,VILASECA,Charcutería
+175,OP00046,Queso crema con ajo y finas hierbas quescrem  ,RICA RONDO,Charcutería
+176,OP00048,Vino Panul tinto cabernet sauvignon clásico botella ,ROMAGNOLA,Vinos y Licores
+177,OP00049,Aceite Bon Aire eléctrico perfume flores ,BONAIRE,Aseo de hogar
+178,OP00050,Ambientador Glade toque manzana+ repuestox 2 und ,GLADE,Aseo de hogar
+179,OP00051,Ambientador delicias vailla pltos Brizze ,BRIZZE,Aseo de hogar
+180,OP00052,Crema de café cappuccino San Marino ,CREM HELADO,Vinos y Licores
+181,OP00053,Queso crema bio natural quescrem ,LA FACTORIA,Charcutería
+182,OP00054,Servilletas Familia AcolchaMAX Decorada ,ZORBA,Limpieza de cocina
+183,OP00055,Vino Navarro Correas espumoso brut malbec rose ,PATATOS,Vinos y Licores
+184,OP00056,Cerveza Poker lata ,AVANTI,Vinos y Licores
+185,OP00057,Cerveza Hofbrau Munchen Weisse botella ,LISTA,Vinos y Licores
+186,OP00058,Cerveza paulaner dunkel bot. ,ULAS,Vinos y Licores
+187,OP00060,Pate de lenteja y berenjena ,PIETRAN,Charcutería
+188,OP00061,Aguardiente Nectar sin azúcar ,POPSY,Vinos y Licores
+189,OP00063,Lavaplatos Axión limón ,PASCO,Limpieza de cocina
+190,OP00066,Lavaplatos Axión poderoso plástico ,SAN MARTIN,Limpieza de cocina
+191,OP00067,Vino moscatel dulce Casa Grajales ,MC CAIN,Vinos y Licores
+192,OP00069,Hojas Domingo foil aluminio ,COLANTA,Limpieza de cocina
+193,OP00070,Toallas de Cocina Familia AcolchaMAX ExtraGrande Decorada de 80 Hojas,YOX,Limpieza de cocina
+194,OP00071,Queso de untar Kids Eru  ,DINARDI,Charcutería
+195,OP00072,Vino Español pesquera ,SINFONIA,Vinos y Licores
+196,OP00073,"Gaseosa quatro toronja 1,5 Litros",COCA COLA,Bebidas
+197,OP00074,Gaseosa Uva ,COLOMBIANA,Bebidas
+198,OP00075,Aperitivo Jagermeister botella ,MIMOS,Vinos y Licores
+199,OP00077,Caimanes Scunci pequeño ,ZAFHIRS,Belleza
+200,OP00078,Cerveza rubia Cajica BBC ,MC CAIN,Vinos y Licores
+201,OP00080,Queso colby - jack cheese crescent valley ,BRASILENA,Charcutería
+202,OP00081,Bebida hidratante Gatorade active mandarina,PEPSI,Bebidas
+203,OP00084,Queso camembert Rosenborg ,LA FACTORIA,Charcutería
+204,OP00086,Vino Morande Vitisterra cabernet botella ,RAPIPAPA,Vinos y Licores
+205,OP00087,Gaseosa Pepsi + Seven Up,COCA COLA,Bebidas
+206,OP00088,Paño Scott duramax 3d semi desechables rollo ,COLANTA,Limpieza de cocina
+207,OP00089,Gatorade Mandarina Pet ,FANTA,Bebidas
+208,OP00091,Toallas Húmedas Desinfectantes Familia Hogar Pote ,ALPINA,Limpieza de cocina
+209,OP00092,Ambientador Glade alegría floral líquido repuesto ,GLADE,Aseo de hogar
+210,OP00093,Pate de aves bandeja Bon pate ,MONTICELLO,Charcutería
+211,OP00098,Cerveza baltika 9 strong lata ,ZENU,Vinos y Licores
+212,OP00099,Queso alpina Tilsit ahumado cuna ,LA PARISIENNE,Charcutería
+213,OP00100,Gatorade Frutas Tropicales Pet ,KOLA ROMAN,Bebidas
+214,OP00101,Aromatizante Air Wick pure repuesto suavidad algodón ,AIR WICK,Aseo de hogar
+215,OP00102,Aperitivo manischewitz uvax1500cm3,MIMOS,Vinos y Licores
+216,OP00103,Sangria fiesta ,POPSY,Vinos y Licores
+217,OP00104,Servilleta Familia acolchamax ultra ,ZORBA,Limpieza de cocina
+218,P00001,Brochas UBL maquillaje ,TRIM,Belleza
+219,P00002,Gaseosa postobon Uva ,COCA COLA,Bebidas
+220,P00003,Caucho Shock ondas ,FREESTYLE,Belleza
+221,P00006,Lavaloza Maxima limón crema ,PARMALAT,Limpieza de cocina
+222,P00007,Cerveza Apóstol Premium surtida ,MARCA BLANCA,Vinos y Licores
+223,P00010,Alimento liquido Ades jugo surtido,PEPSI,Bebidas
+224,P00011,Caiman Shock tampa ,UBL,Belleza
+225,P00012,Cerveza Hollandia botella ,LISTA,Vinos y Licores
+226,P00015,Toallas Húmedas Desinfectantes Familia Hogar Repuesto ,ETERNA,Limpieza de cocina
+227,P00016,Ambientador Spray Frescura Ambiental Canela Bonaire ,BONAIRE,Aseo de hogar
+228,P00017,Caiman Shock night,SHOCK,Belleza
+229,P00019,Queso de cabra Rocinante cuna ,LA PARISIENNE,Charcutería
+230,P00020,Vino frontera sauvignon blanc ,CREM HELADO,Vinos y Licores
+231,P00021,Vino Frontera merlot ,CREM HELADO,Vinos y Licores
+232,P00022,Salsa Bolognesa Ulas ,LA FACTORIA,Charcutería
+233,P00023,Vino finca la linda blanco high vines sauvignon ,CREM HELADO,Vinos y Licores
+234,P00025,Ambientador Bonaire frutos rojos ,BON AIRE,Aseo de hogar
+235,P00026,Cepillo freestyle DSH 230,FREESTYLE,Belleza
+236,P00027,Aromatizante De Ambiente En Aerosol Automático 3 En 1 Hawaiian Breeze Glade 1 Aparato + 1 Repuesto ,AIR WICK,Aseo de hogar
+237,P00028,Cerveza rubia Erdinger botella ,MC CAIN,Vinos y Licores
+238,P00029,Brocha freestyle rubor pequeña,SOPRETTY,Belleza
+239,P00031,Queso Emmental Alpina ,VILASECA,Charcutería
+240,P00032,Vino Faustino vii blanco viura rioja botella ,SINFONIA,Vinos y Licores
+241,P00033,Vino Frontera cabernet sauvignon ,CREM HELADO,Vinos y Licores
+242,P00035,Aguardiente Nectar gfa ,COLOMBINA,Vinos y Licores
+243,P00037,Cepillo cojín ovalado,UBL,Belleza
+244,P00038,Cerveza Miller Lite Sixpack Lata,PASTICHELI,Vinos y Licores
+245,P00039,Servilletas Familia Cafetería ,GLORIA,Limpieza de cocina
+246,P00041,Aguardiente Real 1493 silver sin azúcar ,GOGOS,Vinos y Licores
+247,P00042,Caiman Shock Barcelona,ZAFHIRS,Belleza
+248,P00043,Caiman Shock premium new york ,UBL,Belleza
+249,P00044,Cran-Raspberry Juice ,POSTOBON,Bebidas
+250,P00045,Caimán moka mini ,ZAFHIRS,Belleza

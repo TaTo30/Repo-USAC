@@ -1,0 +1,13 @@
+.texto{
+    color:white
+}
+
+.poligono{
+    padding: 50px; 
+}
+
+.primera{
+    max-height: 300px;
+    overflow:auto;
+    overflow-x:hidden
+}

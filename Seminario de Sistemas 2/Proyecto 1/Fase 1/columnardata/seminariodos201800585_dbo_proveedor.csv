@@ -1,0 +1,331 @@
+idProveedor,codigo,nombre,direccion,numero,web
+1,P0001,CESAR ADRIAN GERONIS ROMERO,"10 avenida 4-54 zona 12,",42022451,true
+2,P0002,"AGILENT TECHNOLOGIES MEXICO, S. DE R.L. DE C.V.","17 calle y 19 avenida, bodega 3, zona 10,",41927426,false
+3,P0003,ABELLA Y VALENCIA SA DE CV,"""6 avenida 8-08 apartamento """"a"""" zona 10,""",30913908,true
+4,P0004,ANA IRENE TREJO LEON,"2 avenida 15-98 colonia primero de julio, zona 5 de ,",26976829,true
+5,P0005,"KAY-SER GROUP, S.A. DE C.V.","km. 14 carretera a el salvador, santa catarina pinula,",33945532,true
+6,P0006,"GBC SCIENTIFIC EQUIPMENT DE MEXICO, S.A. DE C.V.","0 calle 22-70 zona 15, vista hermosa ii,",33213529,true
+7,P0007,"SCSILAV, S.A. DE C. V.","calzada roosevelt  38-39 zona 11 colonia toledo,",50045486,false
+8,P0008,ODO CONSTRUCCIONES SA DE CV,"diagonal 6, 10-65 zona 10, centro gerencial las margaritas torre i, nivel 9, oficina 901a,",52675164,false
+9,P0009,"GAB COMERCIALIZACION, CONSTRUCCION Y MANTENIMIENTO SA DE CV","37 avenida 0-63 zona 7,",36729704,false
+10,P0010,DESARROLLO INTEGRAL DE ESTUDIOS Y PROYECTOS DE INGENIERIA CIVIL SA DE CV,"33 calle 8-95 zona 8,",33686317,false
+11,P0011,GEORGINA VILLEDA RAMIREZ,"calzada aguilar batres 30-61 zona 12, 01012",54005177,true
+12,P0012,"STRATTON HOFFMAN INTERNATIONAL, SAPI DE CV","km. 26 carretera a amatitlan,",52919793,false
+13,P0013,COMERCIALIZADORA DE BIENES Y SERVICIOS BANDALA SA DE CV,"41 calle 6-27 zona 8,",26490856,true
+14,P0014,"PARADOXIA, S.A. DE C.V.","lotificacion los tanques lote 55, san jose ,",41874760,false
+15,P0015,REYNA MARTINEZ PEREZ,"6 avenida 5-50 zona 2,",38971939,true
+16,P0016,CAMPAS EQUIPOS SA DE CV,"lote 3, manzana f, sector 5, san cristobal, zona 8, ,",37250053,false
+17,P0017,LAURA CASTAÑEDA GARCIA,"7a. avenida 10-40 zona 9,  y  de",54441489,true
+18,P0018,EVARMEX SA DE CV,"kilometro 20 carretera al pacifico, parque industrial unisur, local no. 1, delta barcenas,",33597925,false
+19,P0019,JAIME GOMEZ ORTIZ,"kilometro 18.5 a san juan sacatepequez, colonia avance de serramonte, # 26, zona 6,  de ,  de",29029042,false
+20,P0020,"RODHONITE CONSTRUCCIONES, S.A. DE C.V.","12 calle 1-25 zona 10, edificio geminis, torre sur, oficina 1510,  y  de guatemla",43294005,false
+21,P0021,"CONSULTORES ESPECIALIZADOS EN TECNOLOGÍA DE INFORMACIÓN, S.A. DE C.V.","17 calle 11-24, zona 2,  y  de",54493259,false
+22,P0022,PROMOCION Y DISTRIBUCION CINCO SA DE CV,"""lote 12 """"a"""" jardines de san lucas 2, san lucas sacatepequez, sacatepequez""",39051967,true
+23,P0023,CONTRASYS S.A DE C.V.,"10 calle 9-68 zona 1, edificio rosanca oficina 413,",31663015,true
+24,P0024,NUESTRO SITE DE MÉXICO S.A. DE C.V.,"6 avenida 9-80 zona 1, edificio plaza vivar 4 nivel oficina 5-4,",28467756,true
+25,P0025,DOMISA PROVEEDORES DE MEXICO SA DE CV,"3 avenida 4-64 zona 2,",27179810,true
+26,P0026,MEDISALUD MLR S DE RL DE CV,"km. 16 carretera interamericana  zona 1, ,",34166077,false
+27,P0027,"NYCE SOCIEDAD INTERNACIONAL DE GESTIÓN Y EVALUACIÓN, S.C.","avenida la americas, 18-81 zona 14, edificio columbus center nivel 6,",44437460,false
+28,P0028,MERCADAM S.A DE C.V.,"29 calle 7-07 zona 12, colonia el carmen,",34257868,false
+29,P0029,JOHANA DE JESUS ALLEGRE QUEZADA,"km. 249.5 carretera  - tecun uman, san marcos",39925798,true
+30,P0030,"ARLOESI GROUP, SA DE CV","calzada miguel garcía granados zona 14,  y  de",29398065,false
+31,P0031,"FEDERACIÓN MEXICANA DE COMUNIDADES TERAPEUTICAS, A.C.","29 avenida 8-30 finca el naranjo, zona 4,",56737215,true
+32,P0032,ACCESORIOS PARA EQUIPOS DE COMPUTO Y OFICINA S.A DE C.V,"avenida hincapie 18-05 zona 13 hangar n-5 interior aeropuerto la aurora,",38247491,false
+33,P0034,"COMERCIALIZADORA Y DISTRIBUIDORA EMPRESARIAL ROAD, S.A. DE C.V.","12 calle 1-25 zona 10 edificio geminis 10 torre sur 602,",48031323,true
+34,P0035,FOTOGENIA SA DE CV,"manzana q casa no. 7 villas de arcangel zona 2,  de chinautla,",40345652,false
+35,P0036,JULIO CESAR GOMEZ FUENTES,"1a. avenida 10-31 barrio ingenio,  de amatitlan,  de",47196807,false
+36,P0037,MAZARS AUDITORES S DE RL DE CV.,"diagonal 6, 10-01 zona 10, edificio las margaritas torre 2, nivel 19, ,",43084231,false
+37,P0038,JOSE LUIS VELAZQUEZ RODRIGUEZ,"""10 calle 6-48 """"a"""" zona 9,""",40359771,true
+38,P0039,DEGOCHA S.A. DE C.V.,"19 calle 5-72 zona 10,",49932259,false
+39,P0040,JOSE JUAN GUZMAN REYES,"calzada atanasio tzul 19-97 zona 12, empresarial el cortijo, interior 504, ,",58560310,true
+40,P0041,HAINZER SUPPLY SA DE CV,"14 calle 3-51 zona 10, edificio murano center, oficina 1001,",30178664,false
+41,P0042,"EURO PROYECTOS ASOCIADOS, S.A. DE C.V.","9a. calle 12-36 zona 11, colonia roosevelt",36794174,true
+42,P0043,"SINERGECIA MEXICANA, S.A. DE C.V.","km. 30.5 carretera al pacifico parques del lago amatitlan, amatitlan,",36806794,true
+43,P0044,JOSE LUIS GARCIA HERNANDEZ,"1a. calle 1-65, zona 9,  y  de",44291729,true
+44,P0045,CONSTRUCTORA CAPTSA SA DE CV,"14 calle 12-34 zona 7 residenciales petapa, san miguel petapa,",40170087,true
+45,P0046,"SANIPROF OPERADORA, S.A. DE C.V.","calzada roosevelt 33-86 zona 7, edificio ilumina oficina 401, 4to nivel",32972709,false
+46,P0047,PETRICI S.A. DE C.V.,"calzada aguilar batres 35-35 zona 12,",41580849,false
+47,P0048,"COMERCIALIZADORA MUNRRO, S.A. DE C.V.","13 calle 3-40 zona 10 edificio atlantis nivel 12 oficina 1202,",28114829,false
+48,P0049,MARCO ANTONIO SALAS SALINAS,"17 avenida 7-35 zona 11, colonia miraflores,",58772145,false
+49,P0050,GRUPO RAN-CEL  SA DE CV,"diagonal 6, 10-65 zona 10, centro gerencial las margaritas torre i, oficina 601,",35043182,true
+50,P0051,"GRUPO COMERCIAL KASTOR, S.A.DE C.V.","calzada atanasio tzul 22-00 zona 12, el cortijo ii, bodega 319,",50718263,false
+51,P0052,"UNIVERSIDAD DEL CLAUSTRO DE SOR JUANA, A.C.","17 avenida 9-43 zona 14,",44610421,true
+52,P0053,PROVEEDORA INTEGRAL EN COMERCIO TERCER MILENIO S.A. DE C.V.,"29 avenida 31-47 zona 5,",46438726,false
+53,P0054,"ROSSBACH DE MEXICO, S.A. DE.C.V.","33 avenida 11-00 colonia justo rufino barrios z0na 21,  y d e",47262824,true
+54,P0055,"DEWIMED, S.A.","4 calle 28-30 zona 15 colonia san lazaro, casa no.3,",27683866,false
+55,P0056,DIAGNOSTICO INTEGRAL EN SISTEMAS DE AIRE SA DE CV,"km 15 carretera a pacifico,  01064,",31405224,true
+56,P0057,JOEL ADRIAN SUMANO CRUZ,"boulevard liberacion 4-21 zona 9,",57505144,false
+57,P0058,AIRBUS SLC SA DE CV,"""12 avenida """"a"""" 11-35 zona 2,  nueva, 01002""",59582294,false
+58,P0059,VEL DESARROLLADORA S.A. DE C.V.,"""9 calle """"a"""" 3-44 zona 1,""",58656763,false
+59,P0060,JUAN JOSE ASTORGA RUIZ DEL HOYO,"km. 6.5 zona 17 rutal al atlantico,",36811707,false
+60,P0062,CONSULTORES IBIZ SA DE CV,"diagonal 20, 6-79 zona 11, colonia mariscal,",36310174,true
+61,P0063,CORPORATIVO INTEGRAL LUEMA S.A. DE C.V.,"9 calle 21-50 zona 12, 01012",45212600,true
+62,P0064,EDIFICACIONES Y DESARROLLOS ARQUITECTONICOS SA DE CV,"avendia hincapie 14-47 zona 13,",26668183,true
+63,P0065,"CONSTRUCTORA E INMOBILIARIA LEVIUD, S.A. DE C.V.","4 avenida 8-58 zona 11 colonia el progreso,",22256312,false
+64,P0066,FRANCISCO JORGE GENCHI,"calzada aguilar batres 17-58 zona 11,",40367857,false
+65,P0067,LABORATORIOSMIRAMONTES S.A. DE C.V.,"calzada aguilar batres, 31 calle 0-53 zona 12,",46009441,false
+66,P0068,ACCASI S.A. DE C.V.,"1 calle 7-69 zona 9,",37210356,true
+67,P0069,MIGUEL ANGEL AGUILAR MARTINEZ,"kilometro 37.5 carretera al  de palín ,",45686488,false
+68,P0070,CORPORATIVO PIARI S.A. DE C.V.,"16 calle 4-53 zona 10, edificio marbella, oficina 4, 1er. nivel,",45549071,true
+69,P0071,"UNIFOFT, S.A. DE C.V.","12 calle 5-05 zona 5 colonia enriqueta, ,",47346780,false
+70,P0072,SOLUCIONES INTEGRALES TECNOMTY S.A. DE C.V.,"avenida la americas, 18-81 zona 14, nivel 12,",33963619,true
+71,P0073,"INOVACION EN BOMBEO Y DESAZOLVE, S.A. DE C.V.","molino de las flores, ,",54516783,true
+72,P0074,CONSTRUCTORA JBE SA DE CV,"km. 16 carretera a el salvador, san jose pinula,",28794663,false
+73,P0075,COLTOMEX SA DE CV,"kilometro 15.6 carretera al pacífico, ,",30496805,false
+74,P0076,GABRIEL OCTAVIO URBINA CADENAS,"km. 14.5 ruta a san miguel petapa,",49904343,false
+75,P0077,JUAN CARLOS PATIÑO ALMARAZ,"5ta avenida 5-55 zona 14 eutoplaza world businnes center nivel 9 oficina 1208,",39764861,true
+76,P0078,TRABAJOS ESPECIALIZADOS GRUPO ELITE  SA DE CV,"11 avenida final y 39 calle, el roble 1, zona 11, casa 32 las charcas,",50129828,false
+77,P0079,MICRO-DIVERSA S.A. DE C.V.,"avenida las americas 7-20 local 17, zona 13,",32420119,true
+78,P0081,AEI-JJ FOREST SA DE CV,"11 calle 12-28 zona 11 colonia roosevelt,",58016665,true
+79,P0082,"ZH TECNOLOGIA, SAS DE C.V.","6 avenida 0-60 zona 4, torre ii, 7 nivel, oficina 705,",41740044,true
+80,P0083,PASARFLOR SA DE CV,"5a. avenida 5-55 zona 14, edificio europlaza world business center, torre 4, nivel 12,",44241774,true
+81,P0084,NOVITECH S.A. DE C.V.,"39 calle 18-45 zona 12,",37785925,true
+82,P0085,"SIPRO SOLUCIONES INTEGRALES PROFESIONALES, S.A. DE C.V.","6 avenida 1-36 zona 14, edificio los arcos, 4 nivel,",33425072,false
+83,P0086,"DAIMLER VEHICULOS COMERCIALES MEXICO, S DE R.L. DE C.V.","calzada aguilar batres final 57-51 zona 12 condominio flexibodegas bodega # 20, ,",27271199,false
+84,P0087,PATRICIA BAUTISTA AVILA,"10 avenida 0-19 zona 7,",47939763,false
+85,P0088,"SOCIEDAD INDUSTRIAL DE CONSTRUCCIONES ELÉCTRICAS, S.A. DE C.V.","4 calle 0-74 zona 13, 01013",29308195,false
+86,P0089,MAXICOPIAS SA DE CV,"20 calle 10-66 zona 10,",47537228,true
+87,P0090,FACTOTUM CAPITAL S.A. DE C.V.,"""9 calle """"a"""" 1-33 zona 1,""",36380514,false
+88,P0091,LILIANA JUANITA MARTINEZ CORONEL,"30 avenida 10-10 zona 11,",31639350,true
+89,P0092,INSTITUTO DE TERAPIA FAMILIAR A.C.,"12 calle 2-04 zona 9, edificio plaza del sol, 4 nivel oficina 405,",42547242,false
+90,P0093,ZITUM DESARROLLADORES SA DE CV,"12 av 16-66 zona 10,",50137334,true
+91,P0094,"MAC COMPUTADORAS DE MORELOS, S.A. DE C.V.","avenida la reforma 1-50 zona 9, 10° nivel, edificio reformador,",35666573,false
+92,P0095,"GLOBAL OPPORTUNITIES CONSULTING, S.A. DE C.V","26 avenida 2-28 zona 14, ,",34829630,true
+93,P0096,ECOBLUE DE MÉXICO S.A. DE C.V.,"avenida atanasio tzul 19-97 zona 12, centro empresarial el cortijo i, interior 506",43937750,false
+94,P0097,CIMENTACIONES MEXICANAS S.A. DE C.V.,"2 calle 20-15 zona 15, vista hermosa i,",54561205,false
+95,P0098,ANA ELENA VERA BALTAZAR,"43 calle 7-51 zona 12 monte maria iii, 01012",36848077,false
+96,P0099,MIGUEL ANGEL VÉRTIZ GALVÁN,"6a. calle 5-28 zona 9, edificio torre cristal, oficina 602,  y  de",33267206,false
+97,P0100,FUNDACION ELENA PONIATOWSKA AMOR AC,"30 calle 9-61 zona 11, condominio san antonio las charcas,",31928741,true
+98,P0101,ARIAS ASIAIN ASOCIADOS EN INVESTIGACION SC,recepcion: municipalidad de,48296191,true
+99,P0102,SONIA ROJAS GARCIA,"calzada roosevelt 40-14 zona 7,",59632133,true
+100,P0104,"CENTRO DE INSTRUMENTACION Y REGISTRO SISMICO, A.C.","av. reforma 13-70, zona 9 3er. nivel",49077913,false
+101,P0106,HD IDEAS S DE RL DE CV,"5 avenida 4-75 zona 6, lotificacion los alamos, san miguel petapa,",50557931,false
+102,P0107,"MANUFACTURAS JUMA, S.A. DE C.V.","14 avenida 15-56 zona 1,",32583964,true
+103,P0108,"PAPELERIA LOZANO HERMANOS,S.A. DE C,V,","la danta, pasaco, jutiapa",46623739,false
+104,P0109,EDUARDO BENITEZ BLASIO,"4 calle 9-30 zona 12, 01012",55222503,true
+105,P0110,"FUMYCON, S.A. DE C.V.","6 avenida y 18 calle, puerto barrios, izabal",44497999,false
+106,P0111,"BALANCE ECOURBANISMO Y MANEJO DE RESIDUOS, S.A. DE C.V.","2da avenida 7-28 zona 1,",43701796,true
+107,P0112,"BUFETE DE INGENIERIA EN TELECOMUNICACIONES Y SISTEMAS, S.A. DE C.V.","10 calle 4-67 zona 10 local 5,",46859163,true
+108,P0113,RADIACIÓN APLICADA A LA INDUSTRIA S.A. DE C.V.,"12 calle 1-48 zona 10 nivel 2,",26521942,false
+109,P0114,"PROFESSIONAL TECHNICIAN SERVICES, S.A. DE C.V.","anillo periferico 29-98 zona 11,",40472479,false
+110,P0115,"CENTRO DE ABASTECIMIENTOS INDUSTRIALES CASA, S.A. DE C.V.","anillo periferico 17-36 zona 11, 01011",31707094,false
+111,P0116,MARÍA LETICIA PÉREZ HERNÁNDEZ,"avenida las  americas 18-81, z. 14, edificio columbus center nivel 11 ala sur,",33786273,true
+112,P0117,CAPRIMEX SA DE CV,"kilometro 60 carretera a taxisco,",40085420,false
+113,P0118,CORPORACIÓN SICMA S.A. DE C.V.,"9a. avenida 14-78 zona 10,",57432457,true
+114,P0119,ELMECA S.A. DE C.V.,"kilometro 60 carretera a taxisco,  y  de",38148855,true
+115,P0120,ARTURO GARCIA REYNA,"km 60 carretera a taxisco,",36665403,false
+116,P0121,REVOLUTION FILM FEST AC,"""19 avenida """"a"""" 7-34, sector 8, condominio las orquídeas, alamedas de santa clara, zona 3, ,""",59566554,true
+117,P0122,TREE ARROW S.A. DE C.V.,"km. 44.5 carretera de palin,",37972933,true
+118,P0123,JASEV COMPUTACIÓN S.A. DE C.V.,"calzada atanasio tzul 22-00, zona 12, empresa cortijo ii, ofibodega 117,",43128001,true
+119,P0124,"PROFESIONALES EN ENSEÑANZA ADIESTRAMIENTO Y CAPACITACIÓN DE EXCELENCIA PEACE, S.C.","km. 46.5 colonia bellos horizontes, lote 5, sumpango, sacatepequez",32149385,false
+120,P0125,"FUMIGACIONES ECOLÓGICAS, S.A. DE C.V.","9a. avenida 2-47 zona 13, ribera del rio, san miguel petapa,",46616026,false
+121,P0126,"DISTRIBUCIÓN Y OPERACIONES VEPECO, S.A. DE C.V.","3a. calle 6-00 zona 15 valles de vista hermosa,",40432187,false
+122,P0127,CONSORCIO CARROCERO EURO SA DE CV,"3 avenida norte final interior, finca el zapote zona 2, 01002,",49452882,false
+123,P0128,FACTOR VANGUARDIA SA DE CV,"boulevar liberacion 1-87 zona 9,",47404563,true
+124,P0130,MUNDO SOLO IMAGINA S.A. DE C.V.,"7a. avenida 8-65 zona 4, 01004,",35523639,true
+125,P0132,SIEE INNOVANDO LA INDUSTRIA ELECTRICA SA DE CV,"avenida hincapie y 18 calle,  zona 13",49426202,true
+126,P0133,TRANSPORTE COMERCIAL TERRESTRE KUUM KUMI S.A DE C.V.,"diagonal 6, 11-94 zona 10, edificio inter-naciones, oficina 800,",40241330,false
+127,P0134,"ADAMANTIUM PRIVATE SECURITY SERVICES, S. DE R.L. DE C.V.","diagonal 6, 10-01 zona 10, centro gerencial las margaritas torre 2, nivel 19,",29014646,true
+128,P0135,GRUPO LAMASH S.A. DE C.V.,"10 calle 13-71 zona 1,",32871537,false
+129,P0136,"GUTIERREZ DIAZ VAZQUEZ CONSULTING, SOCIEDAD CIVIL","3 calle 5-49 zona 9,",55579379,false
+130,P0137,TODOBIEN ESTUDIO S.A. DE C.V.,"4ta. avenida 4-24 sector a-5  san cristobal zona 8, ,",39727122,false
+131,P0138,"PULSO DESIGN MX, S.A. DE C.V.","6 calle 17-31 zona 15, colonia el maestro,",56010399,false
+132,P0139,HUGO OMAR SÁNCHEZ BARBOSA,"""4 avenida """"a"""" 13-24 zona 9,""",29932302,true
+133,P0140,PAN ROL SA DE CV,"""avenida petapa 38-79 local """"b"""" zona 12,""",36069526,true
+134,P0141,INGENIERIA EN NEGOCIOS DE SANEAMIENTO Y CONSTRUCCION S. DE R.L. DE C.V.,"calzada roosevelt 22-43 torre sol, zona 11, tikal futura, nivel 6-c",50556925,true
+135,P0142,CONSTRUCTORA NAAXA INTERNACIONAL SA DE CV,"11 calle 5-19 zona 1, retalhuleu",49006879,true
+136,P0143,INDUSTRIA LUMIPARR SA DE CV,"5 avenida 5-55 zona 14 edificio euro plaza torre 2 oficina 403,",53796500,false
+137,P0144,COMERCIALIZADORA FRAMGANG SA DE CV,"km 173.5 carretera al pacifico, finca clavellinas, santa cruz mulua, retalhuleu",45545274,false
+138,P0145,COMERCIALIZADORA IKOVAH S.A.S DE C.V.,"calzada aguilar batres 54-41 zona 12, 01012",32466842,false
+139,P0146,AGENCIA N PARTNERS SAS DE CV,"6 calle 17-31 zona 15, colonia el maestro ii,",34871900,true
+140,P0147,PROGRESS FIVE SISTEMAS DE NEGOCIOS SA DE CV,"12 calle 1-25 zona 10, edif. geminis 10, torre norte, of. 513,",29924390,false
+141,P0148,"VAZQUEZ NAVA CONSULTORES Y ABOGADOS, S.C.","calzada aguilar batres 30-53 zona 12,",33009964,true
+142,P0149,MANUFACTURAS G FIRE TRUCKS SA DE CV,"5 ave 19-56 zona 5, primero de julio, ,",57888255,false
+143,P0151,"CONSORCIO INTERAMERICANO DE COMUNICACIÓN, S.A. DE C.V.","3a. calle 9-54 zona 3, nueva monserrat, ,",45281745,true
+144,P0152,MARECO RSU DEL GRUPO ECOFENIX SA DE CV,"calle real 10-78 san jose ,",35818971,false
+145,P0153,LUIS ALBERTO NIETO VELAZQUEZ,"boulevard liberacion 3-52 zona 13 edificio plaza profesional, 4 nivel oficina 4c,",40274287,false
+146,P0154,SOLUCIONES EN ELECTRÓNICA ESPECIALIZADA Y DE POTENCIA SA DE CV,"13 avenida 17-28 zona 10,  y  de",28176689,false
+147,P0155,CONSTRUCCION E INGENIERIA BEGA S.A. DE C.V.,"8 calle 6-60 zona 4, 01004",27012422,true
+148,P0156,INDUSTRIAS DE HULE GALGO SA DE CV,"ruta 7, 4-32 zona 4,",55287850,false
+149,P0157,DAVID ARTURO GARCIA LIRA,"diagonal 6, 11-97, zona 10, oficina 801",41955220,true
+150,P0158,"MEDICINA PUBLICIDAD Y MERCADOTECNIA, S.A. DE C.V.","""6 avenida 3-51 """"b"""" zona 9,""",27206651,false
+151,P0159,MEGACABLE COMUNICACIONES DE MEXICO SA DE CV,"2 calle 32-77 zona 7, ofi-bodegas san mateo,",52220710,true
+152,P0160,INDUSTRIAS SOLA BASIC S.A. DE C.V.,"24 calle 15-69 zona 13,",28172698,true
+153,P0161,COMERCIALIZADORA OLIFRAN S.A. DE C.V.,"11 calle 6-75 la fontana,  de  y  de",44265181,true
+154,P0162,IMAGEN RADIO COMERCIAL S.A DE C.V.,"avenida reforma 3-07 zona 10,",55007674,true
+155,P0163,GABRIEL CRUZ HERNANDEZ,"3 avenida 8-16 zona 9,",45362713,false
+156,P0164,ELVIRA ZARATE GARCIA,"calzada aguilar batres 53-04  zona 11, colonia castañas,",53293900,false
+157,P0165,YESSICA GRACIELA GARCIA LIRA,"11 avenida 13-63 zona 1,",38361273,false
+158,P0166,MARIA DEL ROSARIO GONZALEZ CORTES,"5ta. avenida 5-55 zona 14 torre 3, nivel 12 edificio europlaza world business center oficina 1201 a 1204,",31416132,false
+159,P0167,EQUIPOS Y MAQUINAS HIBERTIM SA DE CV,"2a. calle 37-01, zonma 11 local a,",58134867,true
+160,P0168,"SEGURITECH PRIVADA, S.A. DE C.V.","13 avenida 22-01 zona 1,",48440155,false
+161,P0169,KAREN VIRIDIANA MARQUEZ MONCADA,"avenida reforma, 8-60 zona 9 edificio galerias reforma torre 1, oficina 413,",57332288,true
+162,P0170,"LIMASA, S.A. DE C.V.","kilometro 14.5 carretera a el salvador, centro comercial gran plaza, interior, bodega 121,  de santa catarina pinula,  de",29466363,false
+163,P0171,MABI EXPORTACIONES S. DE R.L DE C.V,"1 avenida 31-21 zona 12, colonia el carmen,",36885527,true
+164,P0172,SECURE WITNESS DE MEXICO S. DE R.L. DE C.V.,"3 calle 9-59 zona 11, 01011",27347627,false
+165,P0173,TALLER PUNTOCERO ARQUITECTURA Y URBANISMO S.A. DE C.V.,"km 9.2 carretera al atlantico,",32099984,true
+166,P0174,CACOMIXTLE MEDIOS DIGITALES S.A. DE C.V.,"diagonal 6, 10-65 zona 10 torre 1 oficina 802 centro gerencial las margaritas,",48384821,false
+167,P0175,"NICHO SUSTENTABILIDAD URBANA, S.A. DE C.V.","""12 calle """"a"""" 12-47 zona 1,""",52797052,false
+168,P0176,"GROWING COMPANY, S.A. DE C.V.","finca el coco, san miguel petapa",36331630,false
+169,P0177,"CONJUNTO INDUSTRIAL MONTERREY, S.A. DE C.V.","km. 97.3 carretera a puerto quetzal,",51435752,false
+170,P0178,"INAR-JASA ASOCIADAS, S.A. DE C.V.","ruta 6, 7-19 zona 4,",41285517,true
+171,P0179,"CONSORCIO INDUSTRIAL ALO - MAR, S.A. DE C.V.","""7a. calle final 17-00 """"a"""" zona 1,  y  de""",56335871,true
+172,P0180,PROMOTORA DEPORTIVA CULTURAL Y DE ESPECTÁCULOS PDL SA DE CV,"10 calle 0-34 zona 9,",53946439,true
+173,P0181,COMERCIALIZADORA Y SERVICIOS EN GAS L.P. SEGAS S.A. DE C.V.,"4 ave 4-24 sector a-5, san cristobal zona 8, ,",53946796,true
+174,P0182,ENRIQUE PANTOJA LOPEZ,"altura del kilómetro 242.50 carretera al pacífico, pajapita, san marcos",46370028,false
+175,P0183,CONCENTRADORA DE RESIDUOS MEXICANA SA DE CV,"3a. calle 4-45 zona 2, estanzuela,",41343427,false
+176,P0184,RESPUESTAS INMEDIATAS ESTRATEGICAS  SA DE CV,"3a. avenida 13-74 zona 3, col el rosario bodega no. 17, ,",32089745,false
+177,P0185,ARGENTO  NATIONAL  DUTY  SERVICES  S.A. DE C.V.,"calzada aguilar batres 27-98 zona 11,",56361306,true
+178,P0186,LUZ MARIA MORALES RAMIREZ,"km. 18.5 carretera al mayan golf, ,",56210906,false
+179,P0187,"IMPRENSEL, S.A. DE C.V.","km. 19.5 carretera panamericana, lote 7, lo de coy,",33206318,true
+180,P0188,GRUPO CAPPA INTERNACIONAL S.C,"10a. avenida 31-71 zona 5,  y  de",31694252,false
+181,P0189,"GLAU, S.A. DE C.V.","16 avenida 08-08 zona 4,  --",36368153,true
+182,P0190,"GRUPO CORPORATIVO KRI-DAF, S.A. DE C.V.","14 calle 7-26 de la zona 1, apartamento 5, nivel 2,",56189695,true
+183,P0191,ALTERNATIVAS Y SOLUCIONES PLP SA DE CV,"11 calle 6-10, zona 9",30845037,false
+184,P0192,"INSTITUTO DE INTEGRACIÓN HUMANA, S.C.","3a. calle 6-24 zona 9,  y  de",50735981,false
+185,P0193,AROD SA DE CV,"""19 avenida """"a"""" 7-30 zona 3, sector i, las orquídeas, alamedas de santa clara, ,""",52106598,false
+186,P0194,"NETWORKS CONSULTING AND INFORMATION SECURITY, SA DE CV","""16 avenida 19-76 zona 12 edificio petapa local """"c"""",""",52716203,true
+187,P0195,INDAPRODUCTOS Y SERVICIOS SA DE CV,"10 ave 25-63 zona 13, interior 9 y 10,",58749645,false
+188,P0196,ABATUR RECONSTRUCCIONES SC DE RL DE CV.,"boulevard los proceres 15 avenida 17-55 zona 10, 01010",55674703,true
+189,P0197,"DESARROLLADORA DE ESTACIONAMIENTOS PRIVADOS, S.A. DE C.V.","12 calle 1-25 zona 10  edificio geminis 10, torre sur, nivel 10, oficina 1003, 01010",52508922,false
+190,P0198,LUIS EDUARDO HERNÁNDEZ CRUZ,"9a. calle 0-27 zona 3,",41984608,true
+191,P0199,LA MAGDALENA 100% NATURAL S DE RL DE CV,"3 calle 8-49 zona 15, colonia trinidad, 01015",50210787,true
+192,P0200,"BEKA INGENIERIA, SERVICIO ELECTROMECANICO Y CONSTRUCCION S.A. DE C.V.","calzada roosevelt 11-76 zona 7,",59009708,true
+193,P0201,COMERCIALIZADORA DEL ESTE S DE RL DE CV,"18 calle 24-69 zonza 10, empresarial zona 10 pradera, torre iii nivel 12 ofi 1208",50975831,true
+194,P0202,ABASTECEDORA DE INSUMOS PARA LA SALUD SA DE CV,"ruta 6,  4-34 zona 4,",51318015,false
+195,P0203,"ABASTO Y SERVICIOS INTEGRADOS, S.A. DE C.V.","13 calle 1-60 zona 9,",57631197,false
+196,P0204,DISTRIBUIDORA MACEDO MARKETING SA DE CV,"3a. calle 6-79 zona 1,  de ,  de",59865946,false
+197,P0205,SOLUCIONES DE PLANEACIÓN EMPRESARIAL S.C. DE R.L. DE C.V.,"6 avenida 4-17 zona 10, edificio bouganvilia oficina 1g,",40796269,false
+198,P0206,VIRGINIA TREJO ROJAS,"8a. avenida 21-90 zona 7,  --",40099935,true
+199,P0207,ACCESORIOS PARA LABORATORIOS S.A. DE C.V.,"20 calle 7-64 zona 11, colonia mariscal,",43737453,false
+200,P0208,TRACTO CAMIONES AGUIRRE SA DE CV,"5 avenida 12-31 zona 9 edificio cortez, 4 nivel, ala norte,",58364629,true
+201,P0209,CONSTRUCTORA U5 SA DE CV,"via 3, 5-27 z4,",53209031,false
+202,P0210,COSTO POR PROCEDIMIENTO SA DE CV,"18 avenida 0-50 zona 15 vista hermosa ii, las jacarandas, casa no 4,",41758847,true
+203,P0211,SERVENTEK SA DE CV,"avenida ferrocarril 19-97 zona 12 centro empresaeial el cortijo, bodega 703,",37358462,false
+204,P0212,UNIVERSIDAD DE LA TRANSPARENCIA AC,"boulevard los próceres 19-08 zona 10, ,",49063543,true
+205,P0213,KAAB MANTENIMIENTO Y SERVICIOS S.A DE C.V,"16 avenida 4-11 zona 4, colonia valle del sol, ,",41465077,false
+206,P0214,ROSALBA ITZEL CASTELLANOS ROJO,"10 avenida 19-28 zona 11, colonia mariscal,",41568067,false
+207,P0215,GENERAL SPORTS S.A DE C.V.,"1a. avenida, casa 144, residenciales el valle zona 11, ,",34562403,false
+208,P0216,SISTEMAS INMERSIVOS DIGITALES S DE RL DE CV,"1ra. calle 15-20 zona 12, local 25 centro comercial plaza magdalena, coban, alta verapaz",27669936,false
+209,P0217,"""""""AUTOMATIZACIÓN Y LOGISTICA FEICHTNER"""", SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE""","avenida reforma 15-45 zona 10,",52980607,true
+210,P0218,PROVEEDORA MEDICA SAMPERIO S.A. DE C.V.,"2 avenida y 10 calle 1-04, zona 3 local 2 barrio san francisco, coatepeque,",39692373,true
+211,P0219,GRUPO CORPORATIVO GLEZ VAR SA DE CV,"7 calle 25-74 kaminal juyu i,  ,",45848473,true
+212,P0220,"REQUERIMIENTOS GLOBALES ROSAL, S.A. DE C.V.","calzada san juan 13-90 zona 7, centro comercial la quinta, local 38,",33308079,true
+213,P0221,OPENSYS TECHNOLOGIES DE MEXICO S.A. DE C.V,10a. avenida 31-71 zona 5,49459933,false
+214,P0222,ROSA HERRERA GONZALEZ,"10 calle 0-52 zona 9,",41029330,false
+215,P0223,EUROAMERICA PUBLICIDAD Y RELACIONES PUBLICAS SA DE CV,"47 calle 4-53, zona 12",36155620,false
+216,P0224,METACOMERCIO S.A. DE C.V.,"15 calle 1-95, zona 10",26789908,true
+217,P0226,"DIGAMANIC, S.A. DE C.V.","calzada aguilar batres, 21 calle 00-29 zona 12, ,",49923369,true
+218,P0227,COMERCIALIZADORA INDUSTRIAL Y DE NEGOCIOS DBR. S.A. DE C.V.,"5a. avenida sur número 30, ,  de antigua ,  de sacatepéquez",32273276,false
+219,P0228,CONSTRUCCIONES NANACA SA DE CV,"14 avenida 18-00 centro logistica el naranjo, el naranjo zona 4 de ,",43823422,true
+220,P0229,"VICASOEN, S.A.P.I. DE C.V.","calle mariscal 13-13 zona 11, villas la joya, ,",41948696,true
+221,P0230,"CONSTRUCTORA E INMOBILIARIA JECH, S.A. DE C.V.","37 avenida 2-15 zona 7 colonia el rodeo,",56367729,false
+222,P0231,DISTRIBUIDORA COMPUTACIONAL JERB SA DE CV,"11 calle 3-06 zona 9,  y  de",29260629,false
+223,P0232,COMERCIALIZADORA INTERNACIONAL MMXVII S.A. DE C.V.,"""av. lotificación pantaleoncito, lote 87 """"a"""", los eucaliptos, santa lucia cotzumalguapa,""",33763761,false
+224,P0233,"COMERCIALIZADORA MIDLAND, S.A. DE C.V.","5a. calle 3-58 zona 9,",28741254,true
+225,P0235,EDGAR RODRIGO CORONEL NAVARRO,"18 calle 6-05 zona 11, colonia mariscal,",29754563,true
+226,P0236,"EMOCION IMPRESA, S.A. DE C.V.","1a. calle 1-25 zona 4, ,",52941607,false
+227,P0237,EURO ESTUDIOS S.A. DE C.V.,"23 callle 0-21 zona 1,",46835899,true
+228,P0238,GIM COMPAÑÍA EDITORIAL SA DE CV,"3 avenida 8-92 lotificacion el rosario zona 3, ,",45709619,true
+229,P0239,POLMHERD TECHNOLOGIES SA DE CV,"finca las mercedes, sta. rosita, acatan zona 16,",56058016,true
+230,P0240,VEGA MEASUREMENT MEXICO S DE RL DE CV,"avenida reforma, 7-62, zona 9, edificio aristos reforma,",48702006,true
+231,P0241,ICKER ALEXIS COGORDAN MENDIZABAL,"1a. calle, lote b9, sector i, colonia tierra verde,  de siquinala,",59264162,false
+232,P0242,VDS COMERCIALIZADORA SA DE CV,"calzada roosevelt 22-43 torre sol, zona 11, tikal futura, nivel 15, ofic 15c,",42620807,false
+233,P0243,ND NEGOCIOS DIGITALES SA DE CV,"31 calle 25-83 colonia santa elisa zona 12, 01012,",36953633,false
+234,P0244,EDIFICACIONES HERVI S.A. DE C.V.,"1era. avenida 7-25 zona 1,",48026291,false
+235,P0246,VICTOR RAFAEL AGUILAR MOLINA,"12 calle 1-25 zona 10, edificio geminis 10, torre sur, nivel 15 oficina 1510,",41389629,false
+236,P0247,"LATTE CONSULTING, S.A DE C.V","11 avenida 38-60 zona 11, las charcas,",44209914,true
+237,P0248,RIO TUERTO SA DE CV,"2a. avenida 15-12, zona 14 oficina 2, edificio real america, gautemala",52548701,false
+238,P0249,COMERCIALIZADORA INTERNACIONAL ZARHUE S.A DE C.V,"km 37.5 carretera al pacifico,  de palin,  de",34310541,true
+239,P0250,"ENRECO CONSTRUCCION Y REMODELACION, S.A. DE C.V.","12 calle 1-25 zona 10, edificio geminis 10, torre sur,",49867408,false
+240,P0251,"VALUE, EVENTS AND MARKETING, S.A. DE C.V.","27 av. 8-26 zona 4, , colonia el naranjo,",43695951,true
+241,P0252,SALVADOR MONTEJANO Y ZURITA,"""avenida petapa 22-27 centro comercial del sur, local """"a"""" zona 12,  y  de""",58598429,false
+242,P0253,SUMINISTROS ELECTROMECANICOS Y REPRESENTACIONES TECNICAS S.A DE C.V.,"14 avenida 17-57 zona 11 villas de mariscal,",224258774,false
+243,P0254,"TECNOGRAPHICS, S.A. DE C.V.","calzada aguilar batres 45-54 zona 11, empresariales monte maría, oficina 221, ,",40199519,false
+244,P0255,CIUDAD CHILANGO S.A. DE C.V.,"avenida las ameircas 18-81 zona 14, edificio columbus center, oficina 903-904,  y  de",27722294,false
+245,P0256,"MURGUIA CONSULTORES AGENTE DE SEGUROS Y DE FIANZAS, S.A DE C.V","8 avenida 3-80 zona 14, edificio la ramble ii, 4° nivel oficina 4-2",53844598,true
+246,P0257,LIDIA ESTRELLA HERNANDEZ,"km. 257.5 calzada kaibil balam zona 11, huehuetenango",27812009,true
+247,P0258,"UMBRELLA COMPAÑIA DE SEGUROS, S.A. DE C.V.","2a. calle 8-01 zona 14, edificio las conchas,",54138216,true
+248,P0259,ESTELA HERNANDEZ DIAZ,"kilometro 126.5 ruta al pacífico,  de rio bravo,  de suchitepéquez",33322090,true
+249,P0261,M STUDIO PRODUCCIONES Y SERVICIOS CREATIVOS S.A. DE C.V.,"17 calle 12-08 zona 10,",27680926,false
+250,P0263,JULIAN AVILA ORTIZ,"2a. avenida 8-35, zona 9, ,",45701900,true
+251,P0264,SALUD ANIMAL MEXICANA SA DE CV,6 avenida 20-25 zona 10 edificio plaza maritima 4 nivel oficina 4-2,49082668,false
+252,P0265,J. EUQUIMIO RAMIREZ RODRIGUEZ,"6a. avenida 0-60, 10o. nivel de la torre profesional uno. centro comercial de la zona 4,",55636714,true
+253,P0266,RICARDO PAQUINI VEGA,"19 avenida 1-11 zona 15 vista hermosa 2,",43600918,false
+254,P0267,DATUAK CONSULTORES S DE RL DE CV,"km. 16 carretera al pacifico,",49107288,true
+255,P0268,CARLOS GONZALEZ GUTIERREZ,"10a. avenida 5-23, zona 15",30576874,true
+256,P0269,DYNATEST COLOMBIA SAS,"boulevard liberación 16-43 zona 8,  y  de",45544444,false
+257,P0270,LANDER SIMULATION & TRAINING SOLUTIONS S.A.,"24 avenida 35-81 zona 12, colonia santa elisa,",53605954,false
+258,P0271,GLIFO COMUNICACIONES Y DIGITALIZACION S.A. DE C.V.,"12 avenida 1-16 pinares de san cristobal zona 8, ,",28389558,false
+259,P0272,"SOLIIT SOLUCIONES, S.A. DE C.V.",5a. calle 5-19  zona 9,29691552,true
+260,P0273,IRMA CARRILLO GARCIA,"km. 19.5 carretera a amatitlan, zona 10, parque empresarial naciones unidas, bodegas 32 y 33, ,",35857973,false
+261,P0274,DISTRIBUIDORA MEGAMAK S.A. DE C.V.,"5a. ave 5-55 z.14 europlaza world bussines center, torre 4 nivel 12,",48252870,true
+262,P0275,MARIA DEL CARMEN VERGARA MONROY,"24 calle 1-27 reformita, zona 12,",57713445,false
+263,P0276,OFFROADMOTORS SA DE CV,"10 avenida 2-18 colonia lourdes, zona 17,",36840242,true
+264,P0277,"VOCES CONTRA EL SILENCIO, VIDEO INDEPENDIENTE, A.C.","calzada aguilar batres 19-23 zona 12,",47928891,true
+265,P0279,LUIS URIEL ZERTUCHE CANIZO,"3a. calle 32-74 zona 11, utatlan ii,",27680865,true
+266,P0280,IGNACIO LEON JAIME,"kilómetro 32 carretera al pacífico, parque industrial flor del campo, bodegas g-h, amatitlan",53423141,false
+267,P0281,GIMOSA SA DE CV,"11 calle 0-30 zona 3,",33932545,false
+268,P0282,AVANCE EN DISEÑO Y CONSTRUCCION TALHUD SA DE CV,"aldea el pajón, santa catarina pinula,",41312880,false
+269,P0283,TECH STORM SA DE CV,"""8 avenida """"a"""" 7-58 zona 2, 01002""",32960980,false
+270,P0284,COMPAÑIA MEXICANA DE TRASLADO DE VALORES SA DE CV,"avenida petapa 22-29 zona 12, comercial sur, local 12,",47535987,true
+271,P0285,LAPSOLITE DIVISION PRODUCTOS QUIMICOS S.A. DE C.V.,"3 calle 3-60 zona 9,",30873266,false
+272,P0287,BIOGEMINIS SA DE CV,"3 avenida 12-93 zona 13 lomas de pamplona,",58282749,false
+273,P0288,MRD GROUP CONSTRUCTORA S.A. DE C.V.,"8 calle 11-13 zona 1, oficina 301, edificio recinos,",59541794,true
+274,P0289,"COMERCIALIZADORA Y DISTRIBUIDORA CLAASS, S.A. DE C.V.","8 avenida 26-50 colonia valle dorado,  san cristobal, zona 8, ,",45178368,false
+275,P0290,TRANSPORTES ESPECIALIZADOS DE DESECHOS INDUSTRIALES SA DE CV,"""avenida reforma 12-01 zona 10 edificio reforma montufar oficina 502, torre """"a""""""",45824397,true
+276,P0291,"DEPORTES MORALES, S.A. DE C.V.","11 calle 6-49, zona 9",48289149,false
+277,P0293,SERGIO CAMPOS ARIAS,"11 calle 6-49, zona 9,  de",34680787,false
+278,P0294,"AL-TEC SOLUCIONES PARA CROMATOGRAFÍA, S.A. DE C.V.","carretera a amatitlan, kilometro 17.5",30743075,false
+279,P0295,LMCH SA DE CV,"3a. calle 9-80 zona 11, colonia roosevelt,",39177951,true
+280,P0296,PROMOCIONES ZANFER SA DE CV,km. 30.5 carretera ca-9 interior zona franca parque industrial zeta la union s.a.,56830483,true
+281,P0297,"INDUSTRIAL ARUCE MEXICO SAPI DE CV,","canton elena, mataqu, jalapa",33679951,true
+282,P0298,RUBEN POMPA TOVAR,"""25 avenida """"a"""" 3-30 condominio el refugio, casa 6a, vista hermosa i, zona 15,""",39720487,true
+283,P0299,MEDICAL RECOVERY S.A. DE C.V.,"diagonal 6, 10-01 zona 10 centro gerencial las margaritas torre ii, oficina 1101,",57055132,false
+284,P0301,MALACATES Y REFACCIONES PARA DESAZOLVE SA DE CV,"29 calle 7-07 zona 12 colonia el carmen, 01012",39534499,false
+285,P0302,"OGUN SOLUCIONES EN TI, S.A. DE C.V.","avenida reforma 6-64 zona 9, plaza corporativa edificio plaza jardin, oficina j-3,",56369259,true
+286,P0303,SILVERIO FUENTES LOPEZ,"ruta 3, 2-70 zona 4, 3o. nivel, oficina 2,  y  de",56950657,false
+287,P0304,CESAR RODRIGUEZ CERVANTES,"4a. calle 0-72 zona 3,",40808587,true
+288,P0305,"MMJAJ OPERACIONES Y MEDIACIONES DE EXCELENCIA, S.A. DE C.V.","""3 avenida """"a"""" 14-96 zona 13, lomas de pamplona,""",43476871,false
+289,P0306,RAUL ABRAHAM COMPAGNY ROBLEDO,"3a. avenida 3-32 zona 9,  de",46644850,true
+290,P0307,GRUPO RT MIJE S.A. DE C.V.,"5 calle 35-22 zona 11, colonia utatlan ii,",36940286,false
+291,P0308,ACCION QUIMICA SA DE CV,"diagonal 14, 20-01 zona 5,",46079248,false
+292,P0309,FERNANDO MURILLO HERNANDEZ,"7 avenida 14-44 zona 9, 5 nivel, torre sur edificio la galeria",37536446,false
+293,P0310,Q TECH NOW SA DE CV,"2da. avenida 10-37 zona 10,",37766061,false
+294,P0311,"COMUNICALO DE MEXICO, S.A. DE C.V.","11 avenida 23-48 zona 11, 01011",37031233,true
+295,P0312,BRENDA DEL CARMEN VAZQUEZ OLVERA,"colonia san patricio, camino a trojes lote 137, zona 0, amatitlan,",29073557,true
+296,P0313,MAYAR DE MEXICO S.A. DE C.V.,"8 calle 3-38 zona 14, 01014",32008163,true
+297,P0314,LUIS ROA VEGA,"12 calle 6-16 zona 10, 01010,",34253438,true
+298,P0315,PSICOSMART MEXICO SC,"2a. avenida 1-37 zona 3, colonia el recreo,  y  de",59977312,false
+299,P0316,DANIEL AMBROSIO RUIZ,"1 calle 16-39 zona 15, colonia el maestro,",30345188,false
+300,P0317,SERVICIOS DINAMICOS INTELIGENTES S.A DE C.V,"13 calle 2-60 zona 10 edificio topacio azul, nivel 3 oficina 305,",39518341,false
+301,P0318,AGRECON SA DE CV,"2 calle 37-01 colonia toledo zona 11,",28327981,true
+302,P0319,ARCA JOM CONSTRUCCIONES SA DE CV,"calzada san juan 11-09 z7,",58873713,false
+303,P0320,SERVIGAS DEL VALLE SA DE CV,"""10 avenida """"a"""" 7-03 zona 1, ,""",42328144,true
+304,P0321,ROSA SILVIA DELGADO BENITEZ,"20 calle 8-01 z11, col mariscal,",28682481,true
+305,P0322,SOLUCIONES INTEGRALES E INNOVACION TECNOLOGICA SUSTENTABLE SA DE CV,"4 avenida 10-46 zona 10,",32966086,false
+306,P0323,"ACCURANCE IT, S.A. DE C.V.","km 37 carretera a san vicente pacaya, palin,",49843104,false
+307,P0325,EDITORA LA PRENSA SA DE CV,"3 avenida 17-48 zona 12,",28930228,true
+308,P0327,GRUPO PERALEZA S.A. DE C.V.,"12 calle 1-25 zona 10 edificio geminis 10 torre norte, nivel 15.",59592159,true
+309,P0328,"LA CRONICA DIARIA, S.A. DE C.V.","""4a. calle """"a"""" 3-04 zona  2, molina de las flores iii,  de ,  de""",56973359,false
+310,P0329,VESTA ENTERTAINMENT S DE RL DE CV,"boulevard industrial del norte, no. 440 zona 4 de , bodega no. 7,",41867079,true
+311,P0330,CONSTRUCCION Y SERVICIOS GAFCSA SA DE CV,"32 avenida 1-09 zona 7, utatlan i,",51990861,false
+312,P0331,MENSAJERIA Y SERVICIOS ARROBA S.A. DE C.V.,"12 calle 4-54 zona 9,",59450603,false
+313,P0332,RICARDO SINUHE MACIAS ESTEBAN,"13 calle final 18-30 zona 12, colonia la reformita,  y  de la",30060035,false
+314,P0334,RECNO SERVICIOS DE COMPUTACION S.A. DE C.V.,"31 calle 20-20 zona 5,",28631117,false
+315,P0335,"MULTI SOLUCIONES LAZHER, S.A. DE C.V.","""15 avenida """"a"""" 18-34 zona 13,""",52419498,true
+316,P0336,"MACROCARD COMPUTACION, S.A. DE C.V.","16 ave 14-53 zona 1, barrio gerona,",52484876,false
+317,P0337,INDUSTRIAS SANDOVAL S.A. DE C.V.,"""9a. avenida """"b""""colonia la brigada zona 7,  de ,  de""",34634041,true
+318,P0338,SEGUROS AFIRME S.A. DE C.V. AFIRME GRUPO FINANCIERO,"proyecto villa zapotitlan lote no. 74, finca santa rosa, san francisco zapotitlan, suchitepéquez",39443743,false
+319,P0339,"CONSTRUCCIONES ELECTRONICAS, OPERADORA Y DISEÑO, S.A. DE C.V.","5ta. avenida 4-50 zona 1,  y  de retalhuleu",51111902,false
+320,P0340,QUALITAS COMPANIA DE SEGUROS SA DE CV,"""1 avenida """"a"""" 7-27 local a, zona 10,""",27763641,false
+321,P0341,SERVICIOS ESPECIALES PARA LA CONSTRUCCION COFRADIA S.A DE C.V,"1a. calle 37-11 zona 11 colonia toledo, ,",29992571,false
+322,P0342,GOSSLER SOCIEDAD CIVIL,"4a. calle 1-15 zona 10,  y  de",29999546,true
+323,P0343,"GEMINIS MOTORS, S.A. DE C.V.","19 avenida 12-20 zona 11, colonia el mirador ii,",30006521,true
+324,P0345,CORPORACIÓN MERCANTIL VERGUER SAPI DE CV,"1 avenida 10-81 zona 10 edificio inexsa, nivel 2,",30020471,true
+325,P0346,PROHABIBI SA DE CV,"calzada aguilar batres 25-29 zona 12,  de",30027446,false
+326,P0347,"CONSTRUFIDER, S.A. DE C.V.","2da calle 3-16 z9, local no.5,",30034421,false
+327,P0348,JOSE JUAN REYES ARROYO,"18 calle 14-30 zona 13,",30041396,false
+328,P0349,"INVESTIGACIÓN Y DESARROLLO CR, S.A.DE C.V.","33 calle 8-95 zona 8,  de",30048371,true
+329,P0350,MARTINEZ VILLEGAS S.A. DE C.V.,"3da calle 3-22 z9, local no.5,",30055346,false
+330,P0351,"GRUPO DELMEX, S.A. DE C.V.",12a. avenida 9-22 zona 2,63669651,true

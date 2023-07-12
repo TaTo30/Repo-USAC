@@ -1,0 +1,8102 @@
+[
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "12-Jul-1966",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Hungría",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "13-Jul-1966",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Brasil",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "15-Jul-1966",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "16-Jul-1966",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Brasil",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "19-Jul-1966",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "20-Jul-1966",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Corea del Norte",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "12-Jul-1966",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Chile",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "13-Jul-1966",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Corea del Norte",
+    "seleccion_b": "Chile",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "15-Jul-1966",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Italia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "16-Jul-1966",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Corea del Norte",
+    "seleccion_b": "Italia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "19-Jul-1966",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Chile",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "20-Jul-1966",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Uruguay",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "23-Jul-1966",
+    "grupo": "Cuartos",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Argentina",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "23-Jul-1966",
+    "grupo": "Cuartos",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Corea del Norte",
+    "goles_a": 5,
+    "goles_b": 3,
+    "fecha": "23-Jul-1966",
+    "grupo": "Cuartos",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Hungría",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "23-Jul-1966",
+    "grupo": "Cuartos",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "URSS",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "25-Jul-1966",
+    "grupo": "Semis",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Portugal",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "26-Jul-1966",
+    "grupo": "Semis",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "URSS",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "28-Jul-1966",
+    "grupo": "3er Puesto",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 4,
+    "goles_b": 2,
+    "fecha": "30-Jul-1966",
+    "grupo": "Final",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Suiza",
+    "seleccion_b": "Ecuador",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "15-Jun-2014",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Honduras",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "15-Jun-2014",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Suiza",
+    "seleccion_b": "Francia",
+    "goles_a": 2,
+    "goles_b": 5,
+    "fecha": "20-Jun-2014",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Honduras",
+    "seleccion_b": "Ecuador",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "20-Jun-2014",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Honduras",
+    "seleccion_b": "Suiza",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "25-Jun-2014",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Ecuador",
+    "seleccion_b": "Francia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "25-Jun-2014",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Portugal",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "16-Jun-2014",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Ghana",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "16-Jun-2014",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Ghana",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "21-Jun-2014",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "Portugal",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "22-Jun-2014",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "Alemania",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "26-Jun-2014",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Ghana",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "26-Jun-2014",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Argelia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "17-Jun-2014",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Rusia",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "17-Jun-2014",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Rusia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "22-Jun-2014",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "Argelia",
+    "goles_a": 2,
+    "goles_b": 4,
+    "fecha": "22-Jun-2014",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "Bélgica",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "26-Jun-2014",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Argelia",
+    "seleccion_b": "Rusia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "26-Jun-2014",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Colombia",
+    "seleccion_b": "Grecia",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "14-Jun-2014",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Costa de Marfil",
+    "seleccion_b": "Japón",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "14-Jun-2014",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Colombia",
+    "seleccion_b": "Costa de Marfil",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "19-Jun-2014",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Japón",
+    "seleccion_b": "Grecia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "19-Jun-2014",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Japón",
+    "seleccion_b": "Colombia",
+    "goles_a": 1,
+    "goles_b": 4,
+    "fecha": "24-Jun-2014",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Grecia",
+    "seleccion_b": "Costa de Marfil",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "24-Jun-2014",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Costa Rica",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "14-Jun-2014",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Italia",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "14-Jun-2014",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "19-Jun-2014",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Costa Rica",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "20-Jun-2014",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Uruguay",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "24-Jun-2014",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Costa Rica",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "24-Jun-2014",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Chile",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "28-Jun-2014",
+    "grupo": "Octavos",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Colombia",
+    "seleccion_b": "Uruguay",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "28-Jun-2014",
+    "grupo": "Octavos",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "México",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "29-Jun-2014",
+    "grupo": "Octavos",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Costa Rica",
+    "seleccion_b": "Grecia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "29-Jun-2014",
+    "grupo": "Octavos",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Nigeria",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "30-Jun-2014",
+    "grupo": "Octavos",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Argelia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "30-Jun-2014",
+    "grupo": "Octavos",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Suiza",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "01-Jul-2014",
+    "grupo": "Octavos",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "01-Jul-2014",
+    "grupo": "Octavos",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Colombia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "04-Jul-2014",
+    "grupo": "Cuartos",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Alemania",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "04-Jul-2014",
+    "grupo": "Cuartos",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Costa Rica",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "05-Jul-2014",
+    "grupo": "Cuartos",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Bélgica",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "05-Jul-2014",
+    "grupo": "Cuartos",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Alemania",
+    "goles_a": 1,
+    "goles_b": 7,
+    "fecha": "08-Jul-2014",
+    "grupo": "Semis",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Argentina",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "09-Jul-2014",
+    "grupo": "Semis",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Holanda",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "12-Jul-2014",
+    "grupo": "3er Puesto",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Argentina",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "13-Jul-2014",
+    "grupo": "Final",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Bosnia-Herzegovina",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "15-Jun-2014",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Irán",
+    "seleccion_b": "Nigeria",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "16-Jun-2014",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Irán",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "21-Jun-2014",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Nigeria",
+    "seleccion_b": "Bosnia-Herzegovina",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "21-Jun-2014",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Nigeria",
+    "seleccion_b": "Argentina",
+    "goles_a": 2,
+    "goles_b": 3,
+    "fecha": "25-Jun-2014",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Bosnia-Herzegovina",
+    "seleccion_b": "Irán",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "25-Jun-2014",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Holanda",
+    "goles_a": 1,
+    "goles_b": 5,
+    "fecha": "13-Jun-2014",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "Australia",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "13-Jun-2014",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Chile",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "18-Jun-2014",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Australia",
+    "seleccion_b": "Holanda",
+    "goles_a": 2,
+    "goles_b": 3,
+    "fecha": "18-Jun-2014",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Australia",
+    "seleccion_b": "España",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "23-Jun-2014",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Chile",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "23-Jun-2014",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "19-Jun-1958",
+    "grupo": "Cuartos",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Gales",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "19-Jun-1958",
+    "grupo": "Cuartos",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Irlanda del Norte",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "19-Jun-1958",
+    "grupo": "Cuartos",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "URSS",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "19-Jun-1958",
+    "grupo": "Cuartos",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Suecia",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "24-Jun-1958",
+    "grupo": "Semis",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Brasil",
+    "goles_a": 2,
+    "goles_b": 5,
+    "fecha": "24-Jun-1958",
+    "grupo": "Semis",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Francia",
+    "goles_a": 3,
+    "goles_b": 6,
+    "fecha": "28-Jun-1958",
+    "grupo": "3er Puesto",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Brasil",
+    "goles_a": 2,
+    "goles_b": 5,
+    "fecha": "29-Jun-1958",
+    "grupo": "Final",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "08-Jun-1958",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Irlanda del Norte",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "08-Jun-1958",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "11-Jun-1958",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Irlanda del Norte",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "11-Jun-1958",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Irlanda del Norte",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "15-Jun-1958",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Checoslovaquia",
+    "seleccion_b": "Argentina",
+    "goles_a": 6,
+    "goles_b": 1,
+    "fecha": "15-Jun-1958",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Irlanda del Norte",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "17-Jun-1958",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Austria",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "08-Jun-1958",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "08-Jun-1958",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "11-Jun-1958",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Austria",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "11-Jun-1958",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "URSS",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "15-Jun-1958",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Austria",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "15-Jun-1958",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "17-Jun-1958",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Paraguay",
+    "goles_a": 7,
+    "goles_b": 3,
+    "fecha": "08-Jun-1958",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Escocia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "08-Jun-1958",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Paraguay",
+    "seleccion_b": "Escocia",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "11-Jun-1958",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Francia",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "11-Jun-1958",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Escocia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "15-Jun-1958",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Paraguay",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 3,
+    "goles_b": 3,
+    "fecha": "15-Jun-1958",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Gales",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "08-Jun-1958",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "México",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "08-Jun-1958",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Gales",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "11-Jun-1958",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Hungría",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "12-Jun-1958",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "México",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "15-Jun-1958",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Gales",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "15-Jun-1958",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Gales",
+    "seleccion_b": "Hungría",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "17-Jun-1958",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1958
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "14-Jun-1970",
+    "grupo": "Cuartos",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Perú",
+    "goles_a": 4,
+    "goles_b": 2,
+    "fecha": "14-Jun-1970",
+    "grupo": "Cuartos",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "México",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "14-Jun-1970",
+    "grupo": "Cuartos",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "URSS",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "14-Jun-1970",
+    "grupo": "Cuartos",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 4,
+    "goles_b": 3,
+    "fecha": "17-Jun-1970",
+    "grupo": "Semis",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Brasil",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "17-Jun-1970",
+    "grupo": "Semis",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "20-Jun-1970",
+    "grupo": "3er Puesto",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Italia",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "21-Jun-1970",
+    "grupo": "Final",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "España",
+    "goles_a": 3,
+    "goles_b": 3,
+    "fecha": "15-Jun-2018",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Marruecos",
+    "seleccion_b": "Irán",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "15-Jun-2018",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Marruecos",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "20-Jun-2018",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Irán",
+    "seleccion_b": "España",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "20-Jun-2018",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Irán",
+    "seleccion_b": "Portugal",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "25-Jun-2018",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Marruecos",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "25-Jun-2018",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Islandia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "16-Jun-2018",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Croacia",
+    "seleccion_b": "Nigeria",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "16-Jun-2018",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Croacia",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "21-Jun-2018",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Nigeria",
+    "seleccion_b": "Islandia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "22-Jun-2018",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Nigeria",
+    "seleccion_b": "Argentina",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "26-Jun-2018",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Islandia",
+    "seleccion_b": "Croacia",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "26-Jun-2018",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Portugal",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "30-Jun-2018",
+    "grupo": "Octavos",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Argentina",
+    "goles_a": 4,
+    "goles_b": 3,
+    "fecha": "30-Jun-2018",
+    "grupo": "Octavos",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Rusia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "01-Jul-2018",
+    "grupo": "Octavos",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Croacia",
+    "seleccion_b": "Dinamarca",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "01-Jul-2018",
+    "grupo": "Octavos",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "México",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "02-Jul-2018",
+    "grupo": "Octavos",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Japón",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "02-Jul-2018",
+    "grupo": "Octavos",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Suiza",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "03-Jul-2018",
+    "grupo": "Octavos",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Colombia",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "03-Jul-2018",
+    "grupo": "Octavos",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Francia",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "06-Jul-2018",
+    "grupo": "Cuartos",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Bélgica",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "06-Jul-2018",
+    "grupo": "Cuartos",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Rusia",
+    "seleccion_b": "Croacia",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "07-Jul-2018",
+    "grupo": "Cuartos",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "07-Jul-2018",
+    "grupo": "Cuartos",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Bélgica",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "10-Jul-2018",
+    "grupo": "Semis",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Croacia",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "11-Jul-2018",
+    "grupo": "Semis",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "14-Jul-2018",
+    "grupo": "3er Puesto",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Croacia",
+    "goles_a": 4,
+    "goles_b": 2,
+    "fecha": "15-Jul-2018",
+    "grupo": "Final",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Suiza",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "17-Jun-2018",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Costa Rica",
+    "seleccion_b": "Serbia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "17-Jun-2018",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Costa Rica",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "22-Jun-2018",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Serbia",
+    "seleccion_b": "Suiza",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "22-Jun-2018",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Serbia",
+    "seleccion_b": "Brasil",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "27-Jun-2018",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Suiza",
+    "seleccion_b": "Costa Rica",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "27-Jun-2018",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Senegal",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "19-Jun-2018",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Colombia",
+    "seleccion_b": "Japón",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "19-Jun-2018",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Colombia",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "24-Jun-2018",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Japón",
+    "seleccion_b": "Senegal",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "24-Jun-2018",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Japón",
+    "seleccion_b": "Polonia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "28-Jun-2018",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Senegal",
+    "seleccion_b": "Colombia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "28-Jun-2018",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "México",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "17-Jun-2018",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "18-Jun-2018",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Suecia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "23-Jun-2018",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "México",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "23-Jun-2018",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "Alemania",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "27-Jun-2018",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Suecia",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "27-Jun-2018",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Australia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "16-Jun-2018",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Perú",
+    "seleccion_b": "Dinamarca",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "16-Jun-2018",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Perú",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "21-Jun-2018",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Dinamarca",
+    "seleccion_b": "Australia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "21-Jun-2018",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Dinamarca",
+    "seleccion_b": "Francia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "26-Jun-2018",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Australia",
+    "seleccion_b": "Perú",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "26-Jun-2018",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Panama",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "18-Jun-2018",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Túnez",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "18-Jun-2018",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Túnez",
+    "goles_a": 5,
+    "goles_b": 2,
+    "fecha": "23-Jun-2018",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Panama",
+    "goles_a": 6,
+    "goles_b": 1,
+    "fecha": "24-Jun-2018",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Bélgica",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "28-Jun-2018",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Panama",
+    "seleccion_b": "Túnez",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "28-Jun-2018",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "13-Jun-1974",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Zaire",
+    "seleccion_b": "Escocia",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "14-Jun-1974",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Escocia",
+    "seleccion_b": "Brasil",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "18-Jun-1974",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Zaire",
+    "goles_a": 9,
+    "goles_b": 0,
+    "fecha": "18-Jun-1974",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Zaire",
+    "seleccion_b": "Brasil",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "22-Jun-1974",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Escocia",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "22-Jun-1974",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Suecia",
+    "goles_a": 7,
+    "goles_b": 1,
+    "fecha": "09-Jul-1950",
+    "grupo": "Grupo Final Ronda Final",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "España",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "09-Jul-1950",
+    "grupo": "Grupo Final Ronda Final",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "España",
+    "goles_a": 6,
+    "goles_b": 1,
+    "fecha": "13-Jul-1950",
+    "grupo": "Grupo Final Ronda Final",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Suecia",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "13-Jul-1950",
+    "grupo": "Grupo Final Ronda Final",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "España",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "16-Jul-1950",
+    "grupo": "Grupo Final Ronda Final",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Brasil",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "16-Jul-1950",
+    "grupo": "Grupo Final Ronda Final",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Bolivia",
+    "goles_a": 8,
+    "goles_b": 0,
+    "fecha": "02-Jul-1950",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "25-Jun-1950",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Chile",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "25-Jun-1950",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Chile",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "29-Jun-1950",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "29-Jun-1950",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 5,
+    "goles_b": 2,
+    "fecha": "02-Jul-1950",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "02-Jul-1950",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Italia",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "25-Jun-1950",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Paraguay",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "29-Jun-1950",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Paraguay",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "02-Jul-1950",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "México",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "24-Jun-1950",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Suiza",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "25-Jun-1950",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Suiza",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "28-Jun-1950",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "México",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "28-Jun-1950",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "01-Jul-1950",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Suiza",
+    "seleccion_b": "México",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "02-Jul-1950",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1950
+  },
+  {
+    "sleccion_a": "Rusia",
+    "seleccion_b": "Arabia Saudita",
+    "goles_a": 5,
+    "goles_b": 0,
+    "fecha": "14-Jun-2018",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Egipto",
+    "seleccion_b": "Uruguay",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "15-Jun-2018",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Rusia",
+    "seleccion_b": "Egipto",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "19-Jun-2018",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Arabia Saudita",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "20-Jun-2018",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Rusia",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "25-Jun-2018",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Arabia Saudita",
+    "seleccion_b": "Egipto",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "25-Jun-2018",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2018
+  },
+  {
+    "sleccion_a": "Suiza",
+    "seleccion_b": "Holanda",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "27-May-1934",
+    "grupo": "Octavos",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Argentina",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "27-May-1934",
+    "grupo": "Octavos",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 7,
+    "goles_b": 1,
+    "fecha": "27-May-1934",
+    "grupo": "Octavos",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Egipto",
+    "goles_a": 4,
+    "goles_b": 2,
+    "fecha": "27-May-1934",
+    "grupo": "Octavos",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Brasil",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "27-May-1934",
+    "grupo": "Octavos",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Checoslovaquia",
+    "seleccion_b": "Rumania",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "27-May-1934",
+    "grupo": "Octavos",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Austria",
+    "seleccion_b": "Francia",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "27-May-1934",
+    "grupo": "Octavos",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Bélgica",
+    "goles_a": 5,
+    "goles_b": 2,
+    "fecha": "27-May-1934",
+    "grupo": "Octavos",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Checoslovaquia",
+    "seleccion_b": "Suiza",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "31-May-1934",
+    "grupo": "Cuartos",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Austria",
+    "seleccion_b": "Hungría",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "31-May-1934",
+    "grupo": "Cuartos",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "España",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "31-May-1934",
+    "grupo": "Cuartos",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Suecia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "31-May-1934",
+    "grupo": "Cuartos",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "España",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "01-Jun-1934",
+    "grupo": "Cuartos",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Checoslovaquia",
+    "seleccion_b": "Alemania",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "03-Jun-1934",
+    "grupo": "Semis",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Austria",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "03-Jun-1934",
+    "grupo": "Semis",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Austria",
+    "seleccion_b": "Alemania",
+    "goles_a": 2,
+    "goles_b": 3,
+    "fecha": "07-Jun-1934",
+    "grupo": "3er Puesto",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "10-Jun-1934",
+    "grupo": "Final",
+    "mundial": 1934
+  },
+  {
+    "sleccion_a": "Honduras",
+    "seleccion_b": "Chile",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "16-Jun-2010",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Suiza",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "16-Jun-2010",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "Suiza",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "21-Jun-2010",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Honduras",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "21-Jun-2010",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "España",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "25-Jun-2010",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Suiza",
+    "seleccion_b": "Honduras",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "25-Jun-2010",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Costa Rica",
+    "goles_a": 4,
+    "goles_b": 2,
+    "fecha": "09-Jun-2006",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Ecuador",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "09-Jun-2006",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Polonia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "14-Jun-2006",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Ecuador",
+    "seleccion_b": "Costa Rica",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "15-Jun-2006",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Ecuador",
+    "seleccion_b": "Alemania",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "20-Jun-2006",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Costa Rica",
+    "seleccion_b": "Polonia",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "20-Jun-2006",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Australia",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "13-Jun-2010",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Serbia",
+    "seleccion_b": "Ghana",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "13-Jun-2010",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Serbia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "18-Jun-2010",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Ghana",
+    "seleccion_b": "Australia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "19-Jun-2010",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Ghana",
+    "seleccion_b": "Alemania",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "23-Jun-2010",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Australia",
+    "seleccion_b": "Serbia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "23-Jun-2010",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Costa de Marfil",
+    "seleccion_b": "Portugal",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "15-Jun-2010",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Corea del Norte",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "15-Jun-2010",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Costa de Marfil",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "20-Jun-2010",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Corea del Norte",
+    "goles_a": 7,
+    "goles_b": 0,
+    "fecha": "21-Jun-2010",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Brasil",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "25-Jun-2010",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Corea del Norte",
+    "seleccion_b": "Costa de Marfil",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "25-Jun-2010",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "26-Jun-2010",
+    "grupo": "Octavos",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "Ghana",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "26-Jun-2010",
+    "grupo": "Octavos",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "27-Jun-2010",
+    "grupo": "Octavos",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "México",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "27-Jun-2010",
+    "grupo": "Octavos",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Eslovaquia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "28-Jun-2010",
+    "grupo": "Octavos",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Chile",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "28-Jun-2010",
+    "grupo": "Octavos",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Paraguay",
+    "seleccion_b": "Japón",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "29-Jun-2010",
+    "grupo": "Octavos",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Portugal",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "29-Jun-2010",
+    "grupo": "Octavos",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Brasil",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "02-Jul-2010",
+    "grupo": "Cuartos",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Ghana",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "02-Jul-2010",
+    "grupo": "Cuartos",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Alemania",
+    "goles_a": 0,
+    "goles_b": 4,
+    "fecha": "03-Jul-2010",
+    "grupo": "Cuartos",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Paraguay",
+    "seleccion_b": "España",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "03-Jul-2010",
+    "grupo": "Cuartos",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Holanda",
+    "goles_a": 2,
+    "goles_b": 3,
+    "fecha": "06-Jul-2010",
+    "grupo": "Semis",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "España",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "07-Jul-2010",
+    "grupo": "Semis",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Alemania",
+    "goles_a": 2,
+    "goles_b": 3,
+    "fecha": "10-Jul-2010",
+    "grupo": "3er Puesto",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "España",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "11-Jul-2010",
+    "grupo": "Final",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Dinamarca",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "14-Jun-2010",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Japón",
+    "seleccion_b": "Camerún",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "14-Jun-2010",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Japón",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "19-Jun-2010",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Camerún",
+    "seleccion_b": "Dinamarca",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "19-Jun-2010",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Dinamarca",
+    "seleccion_b": "Japón",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "24-Jun-2010",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Camerún",
+    "seleccion_b": "Holanda",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "24-Jun-2010",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "12-Jun-2010",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Argelia",
+    "seleccion_b": "Eslovenia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "13-Jun-2010",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Eslovenia",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "18-Jun-2010",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Argelia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "18-Jun-2010",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Eslovenia",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "23-Jun-2010",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "Argelia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "23-Jun-2010",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Paraguay",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "14-Jun-2010",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Nueva Zelanda",
+    "seleccion_b": "Eslovaquia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "15-Jun-2010",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Eslovaquia",
+    "seleccion_b": "Paraguay",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "20-Jun-2010",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Nueva Zelanda",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "20-Jun-2010",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Eslovaquia",
+    "seleccion_b": "Italia",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "24-Jun-2010",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Paraguay",
+    "seleccion_b": "Nueva Zelanda",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "24-Jun-2010",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Suecia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "24-Jun-2006",
+    "grupo": "Octavos",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "México",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "24-Jun-2006",
+    "grupo": "Octavos",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Ecuador",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "25-Jun-2006",
+    "grupo": "Octavos",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Holanda",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "25-Jun-2006",
+    "grupo": "Octavos",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Australia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "26-Jun-2006",
+    "grupo": "Octavos",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Suiza",
+    "seleccion_b": "Ucrania",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "26-Jun-2006",
+    "grupo": "Octavos",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Ghana",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "27-Jun-2006",
+    "grupo": "Octavos",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Francia",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "27-Jun-2006",
+    "grupo": "Octavos",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Argentina",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "30-Jun-2006",
+    "grupo": "Cuartos",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Ucrania",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "30-Jun-2006",
+    "grupo": "Cuartos",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Portugal",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "01-Jul-2006",
+    "grupo": "Cuartos",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Francia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "01-Jul-2006",
+    "grupo": "Cuartos",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Italia",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "04-Jul-2006",
+    "grupo": "Semis",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Francia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "05-Jul-2006",
+    "grupo": "Semis",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Portugal",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "08-Jul-2006",
+    "grupo": "3er Puesto",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Francia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "09-Jul-2006",
+    "grupo": "Final",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Ucrania",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "14-Jun-2006",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Túnez",
+    "seleccion_b": "Arabia Saudita",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "14-Jun-2006",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Túnez",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "19-Jun-2006",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Arabia Saudita",
+    "seleccion_b": "Ucrania",
+    "goles_a": 0,
+    "goles_b": 4,
+    "fecha": "19-Jun-2006",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Arabia Saudita",
+    "seleccion_b": "España",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "23-Jun-2006",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Ucrania",
+    "seleccion_b": "Túnez",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "23-Jun-2006",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Suiza",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "13-Jun-2006",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "Togo",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "13-Jun-2006",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "18-Jun-2006",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Togo",
+    "seleccion_b": "Suiza",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "19-Jun-2006",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Togo",
+    "seleccion_b": "Francia",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "23-Jun-2006",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Suiza",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "23-Jun-2006",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Australia",
+    "seleccion_b": "Japón",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "12-Jun-2006",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Croacia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "13-Jun-2006",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Australia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "18-Jun-2006",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Japón",
+    "seleccion_b": "Croacia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "18-Jun-2006",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Japón",
+    "seleccion_b": "Brasil",
+    "goles_a": 1,
+    "goles_b": 4,
+    "fecha": "22-Jun-2006",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Croacia",
+    "seleccion_b": "Australia",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "22-Jun-2006",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Ghana",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "12-Jun-2006",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "Republica Checa",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "12-Jun-2006",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "17-Jun-2006",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Republica Checa",
+    "seleccion_b": "Ghana",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "17-Jun-2006",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Republica Checa",
+    "seleccion_b": "Italia",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "22-Jun-2006",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Ghana",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "22-Jun-2006",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Irán",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "11-Jun-2006",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Angola",
+    "seleccion_b": "Portugal",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "11-Jun-2006",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Angola",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "16-Jun-2006",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Irán",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "17-Jun-2006",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "México",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "21-Jun-2006",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Irán",
+    "seleccion_b": "Angola",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "21-Jun-2006",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Costa de Marfil",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "10-Jun-2006",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Serbia y Montenegro",
+    "seleccion_b": "Holanda",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "11-Jun-2006",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Serbia y Montenegro",
+    "goles_a": 6,
+    "goles_b": 0,
+    "fecha": "16-Jun-2006",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Costa de Marfil",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "16-Jun-2006",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Argentina",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "21-Jun-2006",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Costa de Marfil",
+    "seleccion_b": "Serbia y Montenegro",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "21-Jun-2006",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Paraguay",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "10-Jun-2006",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Trinidad y Tobago",
+    "seleccion_b": "Suecia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "10-Jun-2006",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Trinidad y Tobago",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "15-Jun-2006",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Paraguay",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "15-Jun-2006",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "20-Jun-2006",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Paraguay",
+    "seleccion_b": "Trinidad y Tobago",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "20-Jun-2006",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2006
+  },
+  {
+    "sleccion_a": "Sudáfrica",
+    "seleccion_b": "México",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "11-Jun-2010",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Francia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "11-Jun-2010",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Sudáfrica",
+    "seleccion_b": "Uruguay",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "16-Jun-2010",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "México",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "17-Jun-2010",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Uruguay",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "22-Jun-2010",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Sudáfrica",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "22-Jun-2010",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Nigeria",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "12-Jun-2010",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "Grecia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "12-Jun-2010",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Grecia",
+    "seleccion_b": "Nigeria",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "17-Jun-2010",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "17-Jun-2010",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Nigeria",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "22-Jun-2010",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Grecia",
+    "seleccion_b": "Argentina",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "22-Jun-2010",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2010
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "15-Jun-1974",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Holanda",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "15-Jun-1974",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Bulgaria",
+    "seleccion_b": "Uruguay",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "19-Jun-1974",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Suecia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "19-Jun-1974",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Bulgaria",
+    "seleccion_b": "Holanda",
+    "goles_a": 1,
+    "goles_b": 4,
+    "fecha": "23-Jun-1974",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Uruguay",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "23-Jun-1974",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Alemania Oriental",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "26-Jun-1974",
+    "grupo": "Grupo A Segunda Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Argentina",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "26-Jun-1974",
+    "grupo": "Grupo A Segunda Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Alemania Oriental",
+    "seleccion_b": "Holanda",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "30-Jun-1974",
+    "grupo": "Grupo A Segunda Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Brasil",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "30-Jun-1974",
+    "grupo": "Grupo A Segunda Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Alemania Oriental",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "03-Jul-1974",
+    "grupo": "Grupo A Segunda Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Brasil",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "03-Jul-1974",
+    "grupo": "Grupo A Segunda Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "26-Jun-1974",
+    "grupo": "Grupo B Segunda Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Polonia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "26-Jun-1974",
+    "grupo": "Grupo B Segunda Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Suecia",
+    "goles_a": 4,
+    "goles_b": 2,
+    "fecha": "30-Jun-1974",
+    "grupo": "Grupo B Segunda Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "30-Jun-1974",
+    "grupo": "Grupo B Segunda Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "03-Jul-1974",
+    "grupo": "Grupo B Segunda Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "03-Jul-1974",
+    "grupo": "Grupo B Segunda Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Haití",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "15-Jun-1974",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Argentina",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "15-Jun-1974",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Italia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "19-Jun-1974",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Haití",
+    "seleccion_b": "Polonia",
+    "goles_a": 0,
+    "goles_b": 7,
+    "fecha": "19-Jun-1974",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Haití",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "23-Jun-1974",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Italia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "23-Jun-1974",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Chile",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "14-Jun-1974",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Alemania Oriental",
+    "seleccion_b": "Australia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "14-Jun-1974",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Australia",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "18-Jun-1974",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "Alemania Oriental",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "18-Jun-1974",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Alemania Oriental",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "22-Jun-1974",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Australia",
+    "seleccion_b": "Chile",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "22-Jun-1974",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Polonia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "06-Jul-1974",
+    "grupo": "3er Puesto",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "07-Jul-1974",
+    "grupo": "Final",
+    "mundial": 1974
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "10-Jun-1962",
+    "grupo": "Cuartos",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Checoslovaquia",
+    "seleccion_b": "Hungría",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "10-Jun-1962",
+    "grupo": "Cuartos",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "URSS",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "10-Jun-1962",
+    "grupo": "Cuartos",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "10-Jun-1962",
+    "grupo": "Cuartos",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "Brasil",
+    "goles_a": 2,
+    "goles_b": 4,
+    "fecha": "13-Jun-1962",
+    "grupo": "Semis",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "13-Jun-1962",
+    "grupo": "Semis",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "16-Jun-1962",
+    "grupo": "3er Puesto",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "17-Jun-1962",
+    "grupo": "Final",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "Suiza",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "30-May-1962",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Italia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "31-May-1962",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "Italia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "02-Jun-1962",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Suiza",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "03-Jun-1962",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Chile",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "06-Jun-1962",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Suiza",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "07-Jun-1962",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "México",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "30-May-1962",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Checoslovaquia",
+    "seleccion_b": "España",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "31-May-1962",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "02-Jun-1962",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "México",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "03-Jun-1962",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "España",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "06-Jun-1962",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "07-Jun-1962",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "30-May-1962",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "31-May-1962",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Argentina",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "02-Jun-1962",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 6,
+    "goles_b": 1,
+    "fecha": "03-Jun-1962",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Argentina",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "06-Jun-1962",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "07-Jun-1962",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Colombia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "30-May-1962",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "31-May-1962",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Uruguay",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "02-Jun-1962",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Colombia",
+    "goles_a": 4,
+    "goles_b": 4,
+    "fecha": "03-Jun-1962",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Uruguay",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "06-Jun-1962",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Colombia",
+    "goles_a": 5,
+    "goles_b": 0,
+    "fecha": "07-Jun-1962",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1962
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Rumania",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "02-Jun-1970",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "03-Jun-1970",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Rumania",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "06-Jun-1970",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "07-Jun-1970",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Rumania",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "10-Jun-1970",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "11-Jun-1970",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Perú",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "02-Jun-1970",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Marruecos",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "03-Jun-1970",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Perú",
+    "seleccion_b": "Marruecos",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "06-Jun-1970",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 5,
+    "goles_b": 2,
+    "fecha": "07-Jun-1970",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Perú",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "10-Jun-1970",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Bulgaria",
+    "seleccion_b": "Marruecos",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "11-Jun-1970",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Israel",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "02-Jun-1970",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Suecia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "03-Jun-1970",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Italia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "06-Jun-1970",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Israel",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "07-Jun-1970",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Uruguay",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "10-Jun-1970",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Israel",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "11-Jun-1970",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "México",
+    "goles_a": 5,
+    "goles_b": 0,
+    "fecha": "16-Jun-1954",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Francia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "16-Jun-1954",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "19-Jun-1954",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "México",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "19-Jun-1954",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "URSS",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "31-May-1970",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "El Salvador",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "03-Jun-1970",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Bélgica",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "06-Jun-1970",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "El Salvador",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "07-Jun-1970",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "El Salvador",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "10-Jun-1970",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Bélgica",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "11-Jun-1970",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1970
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Bélgica",
+    "goles_a": 4,
+    "goles_b": 4,
+    "fecha": "17-Jun-1954",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Suiza",
+    "seleccion_b": "Italia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "17-Jun-1954",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Suiza",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "20-Jun-1954",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Bélgica",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "20-Jun-1954",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Suiza",
+    "seleccion_b": "Italia",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "23-Jun-1954",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Turquía",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "17-Jun-1954",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 9,
+    "goles_b": 0,
+    "fecha": "17-Jun-1954",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 8,
+    "goles_b": 3,
+    "fecha": "20-Jun-1954",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Turquía",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 7,
+    "goles_b": 0,
+    "fecha": "20-Jun-1954",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Turquía",
+    "goles_a": 7,
+    "goles_b": 2,
+    "fecha": "23-Jun-1954",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Austria",
+    "seleccion_b": "Escocia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "16-Jun-1954",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "16-Jun-1954",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Austria",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 5,
+    "goles_b": 0,
+    "fecha": "19-Jun-1954",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Escocia",
+    "goles_a": 7,
+    "goles_b": 0,
+    "fecha": "19-Jun-1954",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Austria",
+    "seleccion_b": "Suiza",
+    "goles_a": 7,
+    "goles_b": 5,
+    "fecha": "26-Jun-1954",
+    "grupo": "Cuartos",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 4,
+    "goles_b": 2,
+    "fecha": "26-Jun-1954",
+    "grupo": "Cuartos",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "27-Jun-1954",
+    "grupo": "Cuartos",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Brasil",
+    "goles_a": 4,
+    "goles_b": 2,
+    "fecha": "27-Jun-1954",
+    "grupo": "Cuartos",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Austria",
+    "goles_a": 6,
+    "goles_b": 1,
+    "fecha": "30-Jun-1954",
+    "grupo": "Semis",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Uruguay",
+    "goles_a": 4,
+    "goles_b": 2,
+    "fecha": "30-Jun-1954",
+    "grupo": "Semis",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Austria",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "03-Jul-1954",
+    "grupo": "3er Puesto",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 2,
+    "goles_b": 3,
+    "fecha": "04-Jul-1954",
+    "grupo": "Final",
+    "mundial": 1954
+  },
+  {
+    "sleccion_a": "Suiza",
+    "seleccion_b": "Alemania",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "04-Jun-1938",
+    "grupo": "Octavos",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Noruega",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "05-Jun-1938",
+    "grupo": "Octavos",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Polonia",
+    "goles_a": 6,
+    "goles_b": 5,
+    "fecha": "05-Jun-1938",
+    "grupo": "Octavos",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Indias Orientales Holand.",
+    "goles_a": 6,
+    "goles_b": 0,
+    "fecha": "05-Jun-1938",
+    "grupo": "Octavos",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Checoslovaquia",
+    "seleccion_b": "Holanda",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "05-Jun-1938",
+    "grupo": "Octavos",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Cuba",
+    "seleccion_b": "Rumania",
+    "goles_a": 3,
+    "goles_b": 3,
+    "fecha": "05-Jun-1938",
+    "grupo": "Octavos",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Bélgica",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "05-Jun-1938",
+    "grupo": "Octavos",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Suiza",
+    "seleccion_b": "Alemania",
+    "goles_a": 4,
+    "goles_b": 2,
+    "fecha": "09-Jun-1938",
+    "grupo": "Octavos",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Cuba",
+    "seleccion_b": "Rumania",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "09-Jun-1938",
+    "grupo": "Octavos",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Cuba",
+    "seleccion_b": "Suecia",
+    "goles_a": 0,
+    "goles_b": 8,
+    "fecha": "12-Jun-1938",
+    "grupo": "Cuartos",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Suiza",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "12-Jun-1938",
+    "grupo": "Cuartos",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Francia",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "12-Jun-1938",
+    "grupo": "Cuartos",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "12-Jun-1938",
+    "grupo": "Cuartos",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "14-Jun-1938",
+    "grupo": "Cuartos",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Suecia",
+    "goles_a": 5,
+    "goles_b": 1,
+    "fecha": "16-Jun-1938",
+    "grupo": "Semis",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Italia",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "16-Jun-1938",
+    "grupo": "Semis",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Suecia",
+    "goles_a": 4,
+    "goles_b": 2,
+    "fecha": "19-Jun-1938",
+    "grupo": "3er Puesto",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Hungría",
+    "goles_a": 4,
+    "goles_b": 2,
+    "fecha": "19-Jun-1938",
+    "grupo": "Final",
+    "mundial": 1938
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Croacia",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "12-Jun-2014",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Camerún",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "13-Jun-2014",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "México",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "17-Jun-2014",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Camerún",
+    "seleccion_b": "Croacia",
+    "goles_a": 0,
+    "goles_b": 4,
+    "fecha": "18-Jun-2014",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Camerún",
+    "seleccion_b": "Brasil",
+    "goles_a": 1,
+    "goles_b": 4,
+    "fecha": "23-Jun-2014",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Croacia",
+    "seleccion_b": "México",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "23-Jun-2014",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2014
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Uruguay",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "11-Jul-1966",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "México",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "13-Jul-1966",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Francia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "15-Jul-1966",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "México",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "16-Jul-1966",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "México",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "19-Jul-1966",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Francia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "20-Jul-1966",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Escocia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "10-Jun-1998",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Marruecos",
+    "seleccion_b": "Noruega",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "10-Jun-1998",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Escocia",
+    "seleccion_b": "Noruega",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "16-Jun-1998",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Marruecos",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "16-Jun-1998",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Escocia",
+    "seleccion_b": "Marruecos",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "23-Jun-1998",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Noruega",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "23-Jun-1998",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Jamaica",
+    "seleccion_b": "Croacia",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "14-Jun-1998",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Japón",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "14-Jun-1998",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Japón",
+    "seleccion_b": "Croacia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "20-Jun-1998",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Jamaica",
+    "goles_a": 5,
+    "goles_b": 0,
+    "fecha": "21-Jun-1998",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Japón",
+    "seleccion_b": "Jamaica",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "26-Jun-1998",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Croacia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "26-Jun-1998",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Suiza",
+    "goles_a": 5,
+    "goles_b": 0,
+    "fecha": "12-Jul-1966",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "España",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "13-Jul-1966",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Suiza",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "15-Jul-1966",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Argentina",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "16-Jul-1966",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Suiza",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "19-Jul-1966",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "España",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "20-Jul-1966",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1966
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Senegal",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "31-May-2002",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Dinamarca",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "01-Jun-2002",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Uruguay",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "06-Jun-2002",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Dinamarca",
+    "seleccion_b": "Senegal",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "06-Jun-2002",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Dinamarca",
+    "seleccion_b": "Francia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "11-Jun-2002",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Senegal",
+    "seleccion_b": "Uruguay",
+    "goles_a": 3,
+    "goles_b": 3,
+    "fecha": "11-Jun-2002",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Rumania",
+    "seleccion_b": "Colombia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "15-Jun-1998",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Túnez",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "15-Jun-1998",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Colombia",
+    "seleccion_b": "Túnez",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "22-Jun-1998",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Rumania",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "22-Jun-1998",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Rumania",
+    "seleccion_b": "Túnez",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "26-Jun-1998",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Colombia",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "26-Jun-1998",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "RF de Yugoslavia",
+    "seleccion_b": "Irán",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "14-Jun-1998",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "15-Jun-1998",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "RF de Yugoslavia",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "21-Jun-1998",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "Irán",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "21-Jun-1998",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Irán",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "25-Jun-1998",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "RF de Yugoslavia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "25-Jun-1998",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Chile",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "27-Jun-1998",
+    "grupo": "Octavos",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Noruega",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "27-Jun-1998",
+    "grupo": "Octavos",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Nigeria",
+    "seleccion_b": "Dinamarca",
+    "goles_a": 1,
+    "goles_b": 4,
+    "fecha": "28-Jun-1998",
+    "grupo": "Octavos",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Paraguay",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "28-Jun-1998",
+    "grupo": "Octavos",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "México",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "29-Jun-1998",
+    "grupo": "Octavos",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "RF de Yugoslavia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "29-Jun-1998",
+    "grupo": "Octavos",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "30-Jun-1998",
+    "grupo": "Octavos",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Rumania",
+    "seleccion_b": "Croacia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "30-Jun-1998",
+    "grupo": "Octavos",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Francia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "03-Jul-1998",
+    "grupo": "Cuartos",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Dinamarca",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "03-Jul-1998",
+    "grupo": "Cuartos",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Croacia",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "04-Jul-1998",
+    "grupo": "Cuartos",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Argentina",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "04-Jul-1998",
+    "grupo": "Cuartos",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Holanda",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "07-Jul-1998",
+    "grupo": "Semis",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Croacia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "08-Jul-1998",
+    "grupo": "Semis",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Croacia",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "11-Jul-1998",
+    "grupo": "3er Puesto",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Francia",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "12-Jul-1998",
+    "grupo": "Final",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Bélgica",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "13-Jun-1998",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "México",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "13-Jun-1998",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 5,
+    "goles_b": 0,
+    "fecha": "20-Jun-1998",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "México",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "20-Jun-1998",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "25-Jun-1998",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "México",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "25-Jun-1998",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Paraguay",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "12-Jun-1998",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Nigeria",
+    "goles_a": 2,
+    "goles_b": 3,
+    "fecha": "13-Jun-1998",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Nigeria",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "19-Jun-1998",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Paraguay",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "19-Jun-1998",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 6,
+    "goles_b": 1,
+    "fecha": "24-Jun-1998",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Nigeria",
+    "seleccion_b": "Paraguay",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "24-Jun-1998",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Arabia Saudita",
+    "seleccion_b": "Dinamarca",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "12-Jun-1998",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Sudáfrica",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "12-Jun-1998",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Arabia Saudita",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "18-Jun-1998",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Sudáfrica",
+    "seleccion_b": "Dinamarca",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "18-Jun-1998",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Dinamarca",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "24-Jun-1998",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Sudáfrica",
+    "seleccion_b": "Arabia Saudita",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "24-Jun-1998",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Camerún",
+    "seleccion_b": "Austria",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "11-Jun-1998",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Chile",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "11-Jun-1998",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "Austria",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "17-Jun-1998",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Camerún",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "17-Jun-1998",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Austria",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "23-Jun-1998",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "Camerún",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "23-Jun-1998",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1998
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Paraguay",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "15-Jun-2002",
+    "grupo": "Octavos",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Dinamarca",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "15-Jun-2002",
+    "grupo": "Octavos",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Senegal",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "16-Jun-2002",
+    "grupo": "Octavos",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Irlanda",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "16-Jun-2002",
+    "grupo": "Octavos",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "17-Jun-2002",
+    "grupo": "Octavos",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Bélgica",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "17-Jun-2002",
+    "grupo": "Octavos",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Japón",
+    "seleccion_b": "Turquía",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "18-Jun-2002",
+    "grupo": "Octavos",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "Italia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "18-Jun-2002",
+    "grupo": "Octavos",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Brasil",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "21-Jun-2002",
+    "grupo": "Cuartos",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "21-Jun-2002",
+    "grupo": "Cuartos",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "22-Jun-2002",
+    "grupo": "Cuartos",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Senegal",
+    "seleccion_b": "Turquía",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "22-Jun-2002",
+    "grupo": "Cuartos",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "25-Jun-2002",
+    "grupo": "Semis",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Turquía",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "26-Jun-2002",
+    "grupo": "Semis",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "Turquía",
+    "goles_a": 2,
+    "goles_b": 3,
+    "fecha": "29-Jun-2002",
+    "grupo": "3er Puesto",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Brasil",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "30-Jun-2002",
+    "grupo": "Final",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "Polonia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "04-Jun-2002",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "Portugal",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "05-Jun-2002",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "10-Jun-2002",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Polonia",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "10-Jun-2002",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "14-Jun-2002",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "14-Jun-2002",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Japón",
+    "seleccion_b": "Bélgica",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "04-Jun-2002",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Rusia",
+    "seleccion_b": "Túnez",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "05-Jun-2002",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Japón",
+    "seleccion_b": "Rusia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "09-Jun-2002",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Túnez",
+    "seleccion_b": "Bélgica",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "10-Jun-2002",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Túnez",
+    "seleccion_b": "Japón",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "14-Jun-2002",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Rusia",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "14-Jun-2002",
+    "grupo": "Grupo H Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Turquía",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "03-Jun-2002",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "China",
+    "seleccion_b": "Costa Rica",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "04-Jun-2002",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "China",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "08-Jun-2002",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Costa Rica",
+    "seleccion_b": "Turquía",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "09-Jun-2002",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Costa Rica",
+    "seleccion_b": "Brasil",
+    "goles_a": 2,
+    "goles_b": 5,
+    "fecha": "13-Jun-2002",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Turquía",
+    "seleccion_b": "China",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "13-Jun-2002",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Croacia",
+    "seleccion_b": "México",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "03-Jun-2002",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Ecuador",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "03-Jun-2002",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Croacia",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "08-Jun-2002",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Ecuador",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "09-Jun-2002",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Italia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "13-Jun-2002",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Ecuador",
+    "seleccion_b": "Croacia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "13-Jun-2002",
+    "grupo": "Grupo G Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Paraguay",
+    "seleccion_b": "Sudáfrica",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "02-Jun-2002",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Eslovenia",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "02-Jun-2002",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Paraguay",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "07-Jun-2002",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Sudáfrica",
+    "seleccion_b": "Eslovenia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "08-Jun-2002",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Sudáfrica",
+    "seleccion_b": "España",
+    "goles_a": 2,
+    "goles_b": 3,
+    "fecha": "12-Jun-2002",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Eslovenia",
+    "seleccion_b": "Paraguay",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "12-Jun-2002",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Bélgica",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "02-Jul-1994",
+    "grupo": "Octavos",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Suiza",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "02-Jul-1994",
+    "grupo": "Octavos",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Arabia Saudita",
+    "seleccion_b": "Suecia",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "03-Jul-1994",
+    "grupo": "Octavos",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Rumania",
+    "seleccion_b": "Argentina",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "03-Jul-1994",
+    "grupo": "Octavos",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Irlanda",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "04-Jul-1994",
+    "grupo": "Octavos",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "04-Jul-1994",
+    "grupo": "Octavos",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Nigeria",
+    "seleccion_b": "Italia",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "05-Jul-1994",
+    "grupo": "Octavos",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "05-Jul-1994",
+    "grupo": "Octavos",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "España",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "09-Jul-1994",
+    "grupo": "Cuartos",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Brasil",
+    "goles_a": 2,
+    "goles_b": 3,
+    "fecha": "09-Jul-1994",
+    "grupo": "Cuartos",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Bulgaria",
+    "seleccion_b": "Alemania",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "10-Jul-1994",
+    "grupo": "Cuartos",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Rumania",
+    "seleccion_b": "Suecia",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "10-Jul-1994",
+    "grupo": "Cuartos",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Bulgaria",
+    "seleccion_b": "Italia",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "13-Jul-1994",
+    "grupo": "Semis",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Brasil",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "13-Jul-1994",
+    "grupo": "Semis",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "16-Jul-1994",
+    "grupo": "3er Puesto",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Italia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "17-Jul-1994",
+    "grupo": "Final",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Grecia",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "21-Jun-1994",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Nigeria",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "21-Jun-1994",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Nigeria",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "25-Jun-1994",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Bulgaria",
+    "seleccion_b": "Grecia",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "26-Jun-1994",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Grecia",
+    "seleccion_b": "Nigeria",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "30-Jun-1994",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "30-Jun-1994",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Irlanda",
+    "seleccion_b": "Camerún",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "01-Jun-2002",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Arabia Saudita",
+    "goles_a": 8,
+    "goles_b": 0,
+    "fecha": "01-Jun-2002",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Irlanda",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "05-Jun-2002",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Camerún",
+    "seleccion_b": "Arabia Saudita",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "06-Jun-2002",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Camerún",
+    "seleccion_b": "Alemania",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "11-Jun-2002",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Arabia Saudita",
+    "seleccion_b": "Irlanda",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "11-Jun-2002",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Suecia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "02-Jun-2002",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Nigeria",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "02-Jun-2002",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Nigeria",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "07-Jun-2002",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "07-Jun-2002",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Argentina",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "12-Jun-2002",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Nigeria",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "12-Jun-2002",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 2002
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Marruecos",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "19-Jun-1994",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Arabia Saudita",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "20-Jun-1994",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Holanda",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "25-Jun-1994",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Arabia Saudita",
+    "seleccion_b": "Marruecos",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "25-Jun-1994",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Marruecos",
+    "seleccion_b": "Holanda",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "29-Jun-1994",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Arabia Saudita",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "29-Jun-1994",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Camerún",
+    "seleccion_b": "Suecia",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "19-Jun-1994",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Rusia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "20-Jun-1994",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Camerún",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "24-Jun-1994",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Rusia",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "24-Jun-1994",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Rusia",
+    "seleccion_b": "Camerún",
+    "goles_a": 6,
+    "goles_b": 1,
+    "fecha": "28-Jun-1994",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Suecia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "28-Jun-1994",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Irlanda",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "18-Jun-1994",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Noruega",
+    "seleccion_b": "México",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "19-Jun-1994",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Noruega",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "23-Jun-1994",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Irlanda",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "24-Jun-1994",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Irlanda",
+    "seleccion_b": "Noruega",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "28-Jun-1994",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "México",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "28-Jun-1994",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "Suiza",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "18-Jun-1994",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Colombia",
+    "seleccion_b": "Rumania",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "18-Jun-1994",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Rumania",
+    "seleccion_b": "Suiza",
+    "goles_a": 1,
+    "goles_b": 4,
+    "fecha": "22-Jun-1994",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "Colombia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "22-Jun-1994",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "Rumania",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "26-Jun-1994",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Suiza",
+    "seleccion_b": "Colombia",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "26-Jun-1994",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Bolivia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "17-Jun-1994",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "17-Jun-1994",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "España",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "21-Jun-1994",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "Bolivia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "23-Jun-1994",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Bolivia",
+    "seleccion_b": "España",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "27-Jun-1994",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Alemania",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "27-Jun-1994",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1994
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Italia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "24-Jun-1978",
+    "grupo": "3er Puesto",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Holanda",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "25-Jun-1978",
+    "grupo": "Final",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Polonia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "14-Jun-1978",
+    "grupo": "Grupo B Segunda Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Perú",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "14-Jun-1978",
+    "grupo": "Grupo B Segunda Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Brasil",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "18-Jun-1978",
+    "grupo": "Grupo B Segunda Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Perú",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "18-Jun-1978",
+    "grupo": "Grupo B Segunda Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Perú",
+    "goles_a": 6,
+    "goles_b": 0,
+    "fecha": "21-Jun-1978",
+    "grupo": "Grupo B Segunda Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Polonia",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "21-Jun-1978",
+    "grupo": "Grupo B Segunda Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Italia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "14-Jun-1978",
+    "grupo": "Grupo A Segunda Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Austria",
+    "goles_a": 5,
+    "goles_b": 1,
+    "fecha": "14-Jun-1978",
+    "grupo": "Grupo A Segunda Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Holanda",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "18-Jun-1978",
+    "grupo": "Grupo A Segunda Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Austria",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "18-Jun-1978",
+    "grupo": "Grupo A Segunda Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Austria",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "21-Jun-1978",
+    "grupo": "Grupo A Segunda Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Italia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "21-Jun-1978",
+    "grupo": "Grupo A Segunda Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Austria",
+    "seleccion_b": "España",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "03-Jun-1978",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Brasil",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "03-Jun-1978",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Austria",
+    "seleccion_b": "Suecia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "07-Jun-1978",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "España",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "07-Jun-1978",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Austria",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "11-Jun-1978",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Suecia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "11-Jun-1978",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Irán",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "03-Jun-1978",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Perú",
+    "seleccion_b": "Escocia",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "03-Jun-1978",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Escocia",
+    "seleccion_b": "Irán",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "07-Jun-1978",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Perú",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "07-Jun-1978",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Escocia",
+    "seleccion_b": "Holanda",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "11-Jun-1978",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Perú",
+    "seleccion_b": "Irán",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "11-Jun-1978",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Austria",
+    "seleccion_b": "Francia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "28-Jun-1982",
+    "grupo": "Grupo 4 Segunda Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Austria",
+    "seleccion_b": "Irlanda del Norte",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "01-Jul-1982",
+    "grupo": "Grupo 4 Segunda Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Irlanda del Norte",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "04-Jul-1982",
+    "grupo": "Grupo 4 Segunda Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Hungría",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "02-Jun-1978",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Francia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "02-Jun-1978",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Francia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "06-Jun-1978",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Hungría",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "06-Jun-1978",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Hungría",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "10-Jun-1978",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Argentina",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "10-Jun-1978",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Argentina",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "29-Jun-1982",
+    "grupo": "Grupo 3 Segunda Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Brasil",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "02-Jul-1982",
+    "grupo": "Grupo 3 Segunda Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Brasil",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "05-Jul-1982",
+    "grupo": "Grupo 3 Segunda Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "15-Jun-1986",
+    "grupo": "Octavos",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Bélgica",
+    "goles_a": 3,
+    "goles_b": 4,
+    "fecha": "15-Jun-1986",
+    "grupo": "Octavos",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Uruguay",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "16-Jun-1986",
+    "grupo": "Octavos",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Polonia",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "16-Jun-1986",
+    "grupo": "Octavos",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Francia",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "17-Jun-1986",
+    "grupo": "Octavos",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Marruecos",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "17-Jun-1986",
+    "grupo": "Octavos",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Dinamarca",
+    "seleccion_b": "España",
+    "goles_a": 1,
+    "goles_b": 5,
+    "fecha": "18-Jun-1986",
+    "grupo": "Octavos",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Paraguay",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "18-Jun-1986",
+    "grupo": "Octavos",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Francia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "21-Jun-1986",
+    "grupo": "Cuartos",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "21-Jun-1986",
+    "grupo": "Cuartos",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "22-Jun-1986",
+    "grupo": "Cuartos",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "España",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "22-Jun-1986",
+    "grupo": "Cuartos",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Francia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "25-Jun-1986",
+    "grupo": "Semis",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Bélgica",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "25-Jun-1986",
+    "grupo": "Semis",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Francia",
+    "goles_a": 2,
+    "goles_b": 4,
+    "fecha": "28-Jun-1986",
+    "grupo": "3er Puesto",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "29-Jun-1986",
+    "grupo": "Final",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "29-Jun-1982",
+    "grupo": "Grupo 2 Segunda Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "España",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "02-Jul-1982",
+    "grupo": "Grupo 2 Segunda Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "05-Jul-1982",
+    "grupo": "Grupo 2 Segunda Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Polonia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "01-Jun-1978",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Túnez",
+    "seleccion_b": "México",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "02-Jun-1978",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "México",
+    "goles_a": 6,
+    "goles_b": 0,
+    "fecha": "06-Jun-1978",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Túnez",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "06-Jun-1978",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Túnez",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "10-Jun-1978",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "México",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "10-Jun-1978",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1978
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Bélgica",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "28-Jun-1982",
+    "grupo": "Grupo 1 Segunda Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "URSS",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "01-Jul-1982",
+    "grupo": "Grupo 1 Segunda Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "URSS",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "04-Jul-1982",
+    "grupo": "Grupo 1 Segunda Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Francia",
+    "goles_a": 3,
+    "goles_b": 3,
+    "fecha": "08-Jul-1982",
+    "grupo": "Semis",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Italia",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "08-Jul-1982",
+    "grupo": "Semis",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Francia",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "10-Jul-1982",
+    "grupo": "3er Puesto",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "11-Jul-1982",
+    "grupo": "Final",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Honduras",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "16-Jun-1982",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Irlanda del Norte",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "17-Jun-1982",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "20-Jun-1982",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Honduras",
+    "seleccion_b": "Irlanda del Norte",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "21-Jun-1982",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Honduras",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "24-Jun-1982",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Irlanda del Norte",
+    "seleccion_b": "España",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "25-Jun-1982",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Francia",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "16-Jun-1982",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Checoslovaquia",
+    "seleccion_b": "Kuwait",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "17-Jun-1982",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "20-Jun-1982",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Kuwait",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "21-Jun-1982",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "24-Jun-1982",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Kuwait",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "25-Jun-1982",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Argelia",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "16-Jun-1982",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "Austria",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "17-Jun-1982",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Chile",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "20-Jun-1982",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Argelia",
+    "seleccion_b": "Austria",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "21-Jun-1982",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Argelia",
+    "seleccion_b": "Chile",
+    "goles_a": 3,
+    "goles_b": 2,
+    "fecha": "24-Jun-1982",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Austria",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "25-Jun-1982",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "URSS",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "14-Jun-1982",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Escocia",
+    "seleccion_b": "Nueva Zelanda",
+    "goles_a": 5,
+    "goles_b": 2,
+    "fecha": "15-Jun-1982",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Escocia",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "18-Jun-1982",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Nueva Zelanda",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "19-Jun-1982",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Escocia",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "22-Jun-1982",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Nueva Zelanda",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "23-Jun-1982",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Polonia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "14-Jun-1982",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Perú",
+    "seleccion_b": "Camerún",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "15-Jun-1982",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Perú",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "18-Jun-1982",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Camerún",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "19-Jun-1982",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Perú",
+    "goles_a": 5,
+    "goles_b": 1,
+    "fecha": "22-Jun-1982",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Camerún",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "23-Jun-1982",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Bélgica",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "13-Jun-1982",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "El Salvador",
+    "goles_a": 10,
+    "goles_b": 1,
+    "fecha": "15-Jun-1982",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Hungría",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "18-Jun-1982",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "El Salvador",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "19-Jun-1982",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Hungría",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "22-Jun-1982",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "El Salvador",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "23-Jun-1982",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1982
+  },
+  {
+    "sleccion_a": "Camerún",
+    "seleccion_b": "Colombia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "23-Jun-1990",
+    "grupo": "Octavos",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Checoslovaquia",
+    "seleccion_b": "Costa Rica",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "23-Jun-1990",
+    "grupo": "Octavos",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Argentina",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "24-Jun-1990",
+    "grupo": "Octavos",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Holanda",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "24-Jun-1990",
+    "grupo": "Octavos",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Irlanda",
+    "seleccion_b": "Rumania",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "25-Jun-1990",
+    "grupo": "Octavos",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Uruguay",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "25-Jun-1990",
+    "grupo": "Octavos",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "26-Jun-1990",
+    "grupo": "Octavos",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Bélgica",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "26-Jun-1990",
+    "grupo": "Octavos",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "30-Jun-1990",
+    "grupo": "Cuartos",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Irlanda",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "30-Jun-1990",
+    "grupo": "Cuartos",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "01-Jul-1990",
+    "grupo": "Cuartos",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Camerún",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 2,
+    "goles_b": 3,
+    "fecha": "01-Jul-1990",
+    "grupo": "Cuartos",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Argentina",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "03-Jul-1990",
+    "grupo": "Semis",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "04-Jul-1990",
+    "grupo": "Semis",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "07-Jul-1990",
+    "grupo": "3er Puesto",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "08-Jul-1990",
+    "grupo": "Final",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "12-Jun-1990",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "España",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "13-Jun-1990",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "Uruguay",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "17-Jun-1990",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "España",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "17-Jun-1990",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "España",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "21-Jun-1990",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "Uruguay",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "21-Jun-1990",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Camerún",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "08-Jun-1990",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Rumania",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "09-Jun-1990",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "URSS",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "13-Jun-1990",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Camerún",
+    "seleccion_b": "Rumania",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "14-Jun-1990",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Rumania",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "18-Jun-1990",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Camerún",
+    "seleccion_b": "URSS",
+    "goles_a": 0,
+    "goles_b": 4,
+    "fecha": "18-Jun-1990",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Bélgica",
+    "seleccion_b": "México",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "03-Jun-1986",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Paraguay",
+    "seleccion_b": "Iraq",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "04-Jun-1986",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "México",
+    "seleccion_b": "Paraguay",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "07-Jun-1986",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Iraq",
+    "seleccion_b": "Bélgica",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "08-Jun-1986",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Iraq",
+    "seleccion_b": "México",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "11-Jun-1986",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Paraguay",
+    "seleccion_b": "Bélgica",
+    "goles_a": 2,
+    "goles_b": 2,
+    "fecha": "11-Jun-1986",
+    "grupo": "Grupo B Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Irlanda",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "11-Jun-1990",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Holanda",
+    "seleccion_b": "Egipto",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "12-Jun-1990",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Holanda",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "16-Jun-1990",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Irlanda",
+    "seleccion_b": "Egipto",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "17-Jun-1990",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Egipto",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "21-Jun-1990",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Irlanda",
+    "seleccion_b": "Holanda",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "21-Jun-1990",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Suecia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "10-Jun-1990",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Costa Rica",
+    "seleccion_b": "Escocia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "11-Jun-1990",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Costa Rica",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "16-Jun-1990",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Escocia",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "16-Jun-1990",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Escocia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "20-Jun-1990",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Suecia",
+    "seleccion_b": "Costa Rica",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "20-Jun-1990",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Emiratos Arabes",
+    "seleccion_b": "Colombia",
+    "goles_a": 0,
+    "goles_b": 2,
+    "fecha": "09-Jun-1990",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "10-Jun-1990",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Colombia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "14-Jun-1990",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Emiratos Arabes",
+    "goles_a": 5,
+    "goles_b": 1,
+    "fecha": "15-Jun-1990",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Colombia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "19-Jun-1990",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Emiratos Arabes",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "19-Jun-1990",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Marruecos",
+    "seleccion_b": "Polonia",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "02-Jun-1986",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Inglaterra",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "03-Jun-1986",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Marruecos",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "06-Jun-1986",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Polonia",
+    "seleccion_b": "Portugal",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "07-Jun-1986",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Inglaterra",
+    "seleccion_b": "Polonia",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "11-Jun-1986",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Portugal",
+    "seleccion_b": "Marruecos",
+    "goles_a": 1,
+    "goles_b": 3,
+    "fecha": "11-Jun-1986",
+    "grupo": "Grupo F Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Austria",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "09-Jun-1990",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 1,
+    "goles_b": 5,
+    "fecha": "10-Jun-1990",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "14-Jun-1990",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Austria",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "15-Jun-1990",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Checoslovaquia",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "19-Jun-1990",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Austria",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "19-Jun-1990",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1990
+  },
+  {
+    "sleccion_a": "Escocia",
+    "seleccion_b": "Dinamarca",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "04-Jun-1986",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "04-Jun-1986",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Alemania Occidental",
+    "seleccion_b": "Escocia",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "08-Jun-1986",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Dinamarca",
+    "seleccion_b": "Uruguay",
+    "goles_a": 6,
+    "goles_b": 1,
+    "fecha": "08-Jun-1986",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Dinamarca",
+    "seleccion_b": "Alemania Occidental",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "13-Jun-1986",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Escocia",
+    "seleccion_b": "Uruguay",
+    "goles_a": 0,
+    "goles_b": 0,
+    "fecha": "13-Jun-1986",
+    "grupo": "Grupo E Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Canadá",
+    "seleccion_b": "Francia",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "01-Jun-1986",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Hungría",
+    "goles_a": 6,
+    "goles_b": 0,
+    "fecha": "02-Jun-1986",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "URSS",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "05-Jun-1986",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Canadá",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "06-Jun-1986",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Hungría",
+    "seleccion_b": "Francia",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "09-Jun-1986",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "URSS",
+    "seleccion_b": "Canadá",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "09-Jun-1986",
+    "grupo": "Grupo C Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "España",
+    "seleccion_b": "Brasil",
+    "goles_a": 0,
+    "goles_b": 1,
+    "fecha": "01-Jun-1986",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Argelia",
+    "seleccion_b": "Irlanda del Norte",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "03-Jun-1986",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Argelia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "06-Jun-1986",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Irlanda del Norte",
+    "seleccion_b": "España",
+    "goles_a": 1,
+    "goles_b": 2,
+    "fecha": "07-Jun-1986",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Argelia",
+    "seleccion_b": "España",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "12-Jun-1986",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Irlanda del Norte",
+    "seleccion_b": "Brasil",
+    "goles_a": 0,
+    "goles_b": 3,
+    "fecha": "12-Jun-1986",
+    "grupo": "Grupo D Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Bulgaria",
+    "seleccion_b": "Italia",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "31-May-1986",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Corea del Sur",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "02-Jun-1986",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "05-Jun-1986",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Italia",
+    "seleccion_b": "Argentina",
+    "goles_a": 1,
+    "goles_b": 1,
+    "fecha": "05-Jun-1986",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Bulgaria",
+    "goles_a": 2,
+    "goles_b": 0,
+    "fecha": "10-Jun-1986",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Corea del Sur",
+    "seleccion_b": "Italia",
+    "goles_a": 2,
+    "goles_b": 3,
+    "fecha": "10-Jun-1986",
+    "grupo": "Grupo A Primera Ronda",
+    "mundial": 1986
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Estados Unidos",
+    "goles_a": 6,
+    "goles_b": 1,
+    "fecha": "26-Jul-1930",
+    "grupo": "Semis",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Yugoslavia",
+    "goles_a": 6,
+    "goles_b": 1,
+    "fecha": "27-Jul-1930",
+    "grupo": "Semis",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Uruguay",
+    "goles_a": 2,
+    "goles_b": 4,
+    "fecha": "30-Jul-1930",
+    "grupo": "Final",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Rumania",
+    "seleccion_b": "Perú",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "14-Jul-1930",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Perú",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "18-Jul-1930",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Uruguay",
+    "seleccion_b": "Rumania",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "21-Jul-1930",
+    "grupo": "Grupo 3 Primera Ronda",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Brasil",
+    "goles_a": 2,
+    "goles_b": 1,
+    "fecha": "14-Jul-1930",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Yugoslavia",
+    "seleccion_b": "Bolivia",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "17-Jul-1930",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Brasil",
+    "seleccion_b": "Bolivia",
+    "goles_a": 4,
+    "goles_b": 0,
+    "fecha": "20-Jul-1930",
+    "grupo": "Grupo 2 Primera Ronda",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Francia",
+    "seleccion_b": "México",
+    "goles_a": 4,
+    "goles_b": 1,
+    "fecha": "13-Jul-1930",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Francia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "15-Jul-1930",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "México",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "16-Jul-1930",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "México",
+    "goles_a": 6,
+    "goles_b": 3,
+    "fecha": "19-Jul-1930",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Chile",
+    "seleccion_b": "Francia",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "19-Jul-1930",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Argentina",
+    "seleccion_b": "Chile",
+    "goles_a": 3,
+    "goles_b": 1,
+    "fecha": "22-Jul-1930",
+    "grupo": "Grupo 1 Primera Ronda",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "Bélgica",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "13-Jul-1930",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Estados Unidos",
+    "seleccion_b": "Paraguay",
+    "goles_a": 3,
+    "goles_b": 0,
+    "fecha": "17-Jul-1930",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1930
+  },
+  {
+    "sleccion_a": "Paraguay",
+    "seleccion_b": "Bélgica",
+    "goles_a": 1,
+    "goles_b": 0,
+    "fecha": "20-Jul-1930",
+    "grupo": "Grupo 4 Primera Ronda",
+    "mundial": 1930
+  }
+]

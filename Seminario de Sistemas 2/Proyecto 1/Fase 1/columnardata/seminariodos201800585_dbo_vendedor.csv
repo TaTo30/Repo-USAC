@@ -1,0 +1,70 @@
+idVendedor,codigo,nombre,vacacionista
+1,V0001,Nelson Mario Caffera Morandi,true
+2,V0002,Sergio Bonilla Marabotto,false
+3,V0003,Gabriel Aramburu,false
+4,V0004,Juan Jose Almiron Belen,false
+5,V0005,Alejandro Andres Bianchi Salomon,true
+6,V0006,Enrique Bosca Gomez,false
+7,V0007,Maria Gregoria Abreu Bonilla,false
+8,V0008,Pablo Cabral Olivera,true
+9,V0009,Gonzalo Alvarez De La Fuente,false
+10,V0010,Alicia Teresita Barrios Lasso,false
+11,V0011,Gustavo Luis Aguirre,false
+12,V0012,Carlos Daniel Cabrera Sosa,false
+13,V0013,Gerarddo Breccia Guzzo,false
+14,V0014,Ariel Astori,false
+15,V0015,Marisa Daniela Bortoli Porro,false
+16,V0016,Maria Elida Cabral Borba,false
+17,V0017,Mary Cristina Baccelli Rossari,false
+18,V0018,Irene Beatriz Bobba Ojeda,false
+19,V0019,Andrea Beltrame Echeverria,false
+20,V0020,Jose Maria Buquet Gonzalez,true
+21,V0022,Artigas Alexis Caggiani,false
+22,V0023,Maria Andrea Alvarez Martinez,false
+23,V0024,Sonia Stella Cabrera Pereyra,false
+24,V0025,Aribel Enrique Benitez Campari,true
+25,V0026,Ruben Dario Alvez,true
+26,V0027,Alberto Fabian Aviaga,false
+27,V0028,Favio Daniel Caamazo  Vernay,false
+28,V0029,Gustavo Daniel Abarno Silva,false
+29,V0030,Carlos Arturo Loureiro,true
+30,V0031,Hugo Raul Bello Andriolo,true
+31,V0032,Eleonora Andrade Valdez,false
+32,V0033,Danilo Batista Peregalli,false
+33,V0034,Fernando Berro Soto,false
+34,V0035,Adriana Laura Camy Antognazza,true
+35,V0036,Americo Bernini Seguessa,true
+36,V0037,Fernando Benitez Caorsi,true
+37,V0038,Adolfo Aureliano Amado Fernandez,false
+38,V0039,Francisco Snatiago Brum Estape,false
+39,V0040,Jose Francisco Bruno Troglio,false
+40,V0041,Gustavo Barrios Fernandez,false
+41,V0042,Jorge Barrios Recuero,true
+42,V0043,Raul Carmelo Bianchi Fernandez,true
+43,V0044,Ignacio Arada Mier,false
+44,V0045,Ma. Del Rosario Alza Fiorelli,false
+45,V0046,Carlos Renzo Camors Garibaldi,false
+46,V0047,Rafael Aguerre Lombardo,false
+47,V0048,Mónica  Mariella Arguello Wetherall,false
+48,V0049,Daniel Mario Balarini Tejera,false
+49,V0050,Jose Bonavota Cacciante,false
+50,V0051,Fernando Berta Corvo,false
+51,V0052,Ramiro Alonso Flumini,false
+52,V0053,Alejandro Miguel Bocchino Castro,false
+53,V0054,Ana Maria Amestoy Rosso,true
+54,V0055,Daniel Honorio Alvarez Corral,true
+55,V0056,Miriam Amelia Alvarez Mauvezin,true
+56,V0057,Estela Berti Moyano,true
+57,V0058,Daniel Boccardo La Ruina,false
+58,V0059,Analia Berton Sole,false
+59,V0060,Juan Martin Besio Barreto,true
+60,V0061,Mónica  Anabel Bianchi Caserta,true
+61,V0062,Ana Maria Cabral Garcia,true
+62,V0063,Adriana Raquel Baldassari Arismendi,false
+63,V0064,Juan Jose  Almiron Belen,false
+64,V0065,Leonardo Jorge Alboa,false
+65,V0066,Tabare Arenas Barreiro,false
+66,V0067,Mónica Mariella Arguello Wetherall,true
+67,V0068,Mónica Anabel Bianchi Caserta,true
+68,V0069,Juan Jose Perez Celedon,true
+69,V0070,Carlos Humber Ruiz Gutierrez,true

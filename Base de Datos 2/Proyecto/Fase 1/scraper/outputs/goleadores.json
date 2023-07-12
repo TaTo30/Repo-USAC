@@ -1,0 +1,1762 @@
+[
+    {
+      "Mundial": 2018,
+      "Jugador": "Harry Kane",
+      "Goles": 6,
+      "Partidos": 6,
+      "Promedio": 1,
+      "Pais": "Inglaterra"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Denis Cheryshev",
+      "Goles": 4,
+      "Partidos": 5,
+      "Promedio": 0.8,
+      "Pais": "Rusia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Cristiano Ronaldo",
+      "Goles": 4,
+      "Partidos": 4,
+      "Promedio": 1,
+      "Pais": "Portugal"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Antoine Griezmann",
+      "Goles": 4,
+      "Partidos": 7,
+      "Promedio": 0.57,
+      "Pais": "Francia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Romelu Lukaku",
+      "Goles": 4,
+      "Partidos": 6,
+      "Promedio": 0.67,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Kylian Mbappé",
+      "Goles": 4,
+      "Partidos": 7,
+      "Promedio": 0.57,
+      "Pais": "Francia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Edinson Cavani",
+      "Goles": 3,
+      "Partidos": 4,
+      "Promedio": 0.75,
+      "Pais": "Uruguay"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Diego Costa",
+      "Goles": 3,
+      "Partidos": 4,
+      "Promedio": 0.75,
+      "Pais": "España"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Artem Dzyuba",
+      "Goles": 3,
+      "Partidos": 5,
+      "Promedio": 0.6,
+      "Pais": "Rusia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Eden Hazard",
+      "Goles": 3,
+      "Partidos": 6,
+      "Promedio": 0.5,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Mario Mandzukic",
+      "Goles": 3,
+      "Partidos": 6,
+      "Promedio": 0.5,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Yerry Mina",
+      "Goles": 3,
+      "Partidos": 3,
+      "Promedio": 1,
+      "Pais": "Colombia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ivan Perisic",
+      "Goles": 3,
+      "Partidos": 7,
+      "Promedio": 0.43,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Sergio Agüero",
+      "Goles": 2,
+      "Partidos": 4,
+      "Promedio": 0.5,
+      "Pais": "Argentina"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Andreas Granqvist",
+      "Goles": 2,
+      "Partidos": 5,
+      "Promedio": 0.4,
+      "Pais": "Suecia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Takashi Inui",
+      "Goles": 2,
+      "Partidos": 4,
+      "Promedio": 0.5,
+      "Pais": "Japón"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Mile Jedinak",
+      "Goles": 2,
+      "Partidos": 3,
+      "Promedio": 0.67,
+      "Pais": "Australia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Wahbi Khazri",
+      "Goles": 2,
+      "Partidos": 3,
+      "Promedio": 0.67,
+      "Pais": "Túnez"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Luka Modric",
+      "Goles": 2,
+      "Partidos": 7,
+      "Promedio": 0.29,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ahmed Musa",
+      "Goles": 2,
+      "Partidos": 3,
+      "Promedio": 0.67,
+      "Pais": "Nigeria"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Neymar Jr.",
+      "Goles": 2,
+      "Partidos": 5,
+      "Promedio": 0.4,
+      "Pais": "Brasil"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Philippe Coutinho",
+      "Goles": 2,
+      "Partidos": 5,
+      "Promedio": 0.4,
+      "Pais": "Brasil"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Mohamed Salah",
+      "Goles": 2,
+      "Partidos": 2,
+      "Promedio": 1,
+      "Pais": "Egipto"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Heung-Min Son",
+      "Goles": 2,
+      "Partidos": 3,
+      "Promedio": 0.67,
+      "Pais": "Corea del Sur"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "John Stones",
+      "Goles": 2,
+      "Partidos": 7,
+      "Promedio": 0.29,
+      "Pais": "Inglaterra"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Luis Suarez",
+      "Goles": 2,
+      "Partidos": 5,
+      "Promedio": 0.4,
+      "Pais": "Uruguay"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Salem Al-Dawsari",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Arabia Saudita"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Salman Al-Faraj",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Arabia Saudita"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Dele Alli",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Inglaterra"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Karim Ansarifard",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Irán"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Iago Aspas",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "España"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ludwig Augustinsson",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Suecia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Milan Badelj",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Felipe Baloy",
+      "Goles": 1,
+      "Partidos": 1,
+      "Promedio": 1,
+      "Pais": "Panama"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Michy Batshuayi",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Jan Bednarek",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Polonia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Fakhreddine Ben Youssef",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Túnez"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Khalid Boutaïb",
+      "Goles": 1,
+      "Partidos": 2,
+      "Promedio": 0.5,
+      "Pais": "Marruecos"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Dylan Bronn",
+      "Goles": 1,
+      "Partidos": 2,
+      "Promedio": 0.5,
+      "Pais": "Túnez"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "André Carrillo",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Perú"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Nacer Chadli",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Juan Guillermo Cuadrado",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Colombia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Kevin De Bruyne",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Angel Di Maria",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Argentina"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Josip Drmic",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Suiza"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Blerim Dzemaili",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Suiza"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Youssef En-Nesyri",
+      "Goles": 1,
+      "Partidos": 1,
+      "Promedio": 1,
+      "Pais": "Marruecos"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Christian Eriksen",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Dinamarca"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Radamel Falcao",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Colombia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Marouane Fellaini",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Mário Fernandes",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Rusia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Alfred Finnbogason",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Islandia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Emil Forsberg",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Suecia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Yury Gazinsky",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Rusia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "José María Giménez",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Uruguay"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Aleksandr Golovin",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Rusia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Paolo Guerrero",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Perú"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Genki Haraguchi",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Japón"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Javier Hernandez",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "México"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Keisuke Honda",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Japón"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Isco",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "España"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Adnan Januzaj",
+      "Goles": 1,
+      "Partidos": 1,
+      "Promedio": 1,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Mathias Jørgensen",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Dinamarca"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Shinji Kagawa",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Japón"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Young-Gwon Kim",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Corea del Sur"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Aleksandar Kolarov",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Serbia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Andrej Kramarić",
+      "Goles": 1,
+      "Partidos": 7,
+      "Promedio": 0.14,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Toni Kroos",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Alemania"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Grzegorz Krychowiak",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Polonia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Jesse Lingard",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Inglaterra"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Hirving Lozano",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "México"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Harry Maguire",
+      "Goles": 1,
+      "Partidos": 7,
+      "Promedio": 0.14,
+      "Pais": "Inglaterra"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Sadio Mané",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Senegal"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Gabriel Mercado",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Argentina"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Dries Mertens",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Lionel Messi",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Argentina"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Thomas Meunier",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Aleksandar Mitrović",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Serbia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Victor Moses",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Nigeria"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Nacho",
+      "Goles": 1,
+      "Partidos": 2,
+      "Promedio": 0.5,
+      "Pais": "España"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "M'Baye Niang",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Senegal"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Yuya Osako",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Japón"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Paulinho",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Brasil"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Benjamin Pavard",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Francia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Pepe",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Portugal"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Paul Pogba",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Francia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Yussuf Poulsen",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Dinamarca"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ricardo Quaresma",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Portugal"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Juan Quintero",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Colombia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ivan Rakitic",
+      "Goles": 1,
+      "Partidos": 7,
+      "Promedio": 0.14,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ante Rebic",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Renato Augusto",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Brasil"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Marco Reus",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Alemania"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Roberto Firmino",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Brasil"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Marcos Rojo",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Argentina"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ferjani Sassi",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Túnez"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Xherdan Shaqiri",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Suiza"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Gylfi Sigurdsson",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Islandia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Thiago Silva",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Brasil"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ola Toivonen",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Suecia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Kieran Trippier",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Inglaterra"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Samuel Umtiti",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Francia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Raphael Varane",
+      "Goles": 1,
+      "Partidos": 7,
+      "Promedio": 0.14,
+      "Pais": "Francia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Carlos Vela",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "México"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Jan Vertonghen",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Domagoj Vida",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Moussa Wagué",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Senegal"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Kendall Waston",
+      "Goles": 1,
+      "Partidos": 1,
+      "Promedio": 1,
+      "Pais": "Costa Rica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Granit Xhaka",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Suiza"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Steven Zuber",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Suiza"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Harry Kane",
+      "Goles": 6,
+      "Partidos": 6,
+      "Promedio": 1,
+      "Pais": "Inglaterra"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Denis Cheryshev",
+      "Goles": 4,
+      "Partidos": 5,
+      "Promedio": 0.8,
+      "Pais": "Rusia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Cristiano Ronaldo",
+      "Goles": 4,
+      "Partidos": 4,
+      "Promedio": 1,
+      "Pais": "Portugal"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Antoine Griezmann",
+      "Goles": 4,
+      "Partidos": 7,
+      "Promedio": 0.57,
+      "Pais": "Francia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Romelu Lukaku",
+      "Goles": 4,
+      "Partidos": 6,
+      "Promedio": 0.67,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Kylian Mbappé",
+      "Goles": 4,
+      "Partidos": 7,
+      "Promedio": 0.57,
+      "Pais": "Francia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Edinson Cavani",
+      "Goles": 3,
+      "Partidos": 4,
+      "Promedio": 0.75,
+      "Pais": "Uruguay"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Diego Costa",
+      "Goles": 3,
+      "Partidos": 4,
+      "Promedio": 0.75,
+      "Pais": "España"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Artem Dzyuba",
+      "Goles": 3,
+      "Partidos": 5,
+      "Promedio": 0.6,
+      "Pais": "Rusia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Eden Hazard",
+      "Goles": 3,
+      "Partidos": 6,
+      "Promedio": 0.5,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Mario Mandzukic",
+      "Goles": 3,
+      "Partidos": 6,
+      "Promedio": 0.5,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Yerry Mina",
+      "Goles": 3,
+      "Partidos": 3,
+      "Promedio": 1,
+      "Pais": "Colombia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ivan Perisic",
+      "Goles": 3,
+      "Partidos": 7,
+      "Promedio": 0.43,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Sergio Agüero",
+      "Goles": 2,
+      "Partidos": 4,
+      "Promedio": 0.5,
+      "Pais": "Argentina"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Andreas Granqvist",
+      "Goles": 2,
+      "Partidos": 5,
+      "Promedio": 0.4,
+      "Pais": "Suecia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Takashi Inui",
+      "Goles": 2,
+      "Partidos": 4,
+      "Promedio": 0.5,
+      "Pais": "Japón"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Mile Jedinak",
+      "Goles": 2,
+      "Partidos": 3,
+      "Promedio": 0.67,
+      "Pais": "Australia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Wahbi Khazri",
+      "Goles": 2,
+      "Partidos": 3,
+      "Promedio": 0.67,
+      "Pais": "Túnez"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Luka Modric",
+      "Goles": 2,
+      "Partidos": 7,
+      "Promedio": 0.29,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ahmed Musa",
+      "Goles": 2,
+      "Partidos": 3,
+      "Promedio": 0.67,
+      "Pais": "Nigeria"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Neymar Jr.",
+      "Goles": 2,
+      "Partidos": 5,
+      "Promedio": 0.4,
+      "Pais": "Brasil"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Philippe Coutinho",
+      "Goles": 2,
+      "Partidos": 5,
+      "Promedio": 0.4,
+      "Pais": "Brasil"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Mohamed Salah",
+      "Goles": 2,
+      "Partidos": 2,
+      "Promedio": 1,
+      "Pais": "Egipto"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Heung-Min Son",
+      "Goles": 2,
+      "Partidos": 3,
+      "Promedio": 0.67,
+      "Pais": "Corea del Sur"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "John Stones",
+      "Goles": 2,
+      "Partidos": 7,
+      "Promedio": 0.29,
+      "Pais": "Inglaterra"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Luis Suarez",
+      "Goles": 2,
+      "Partidos": 5,
+      "Promedio": 0.4,
+      "Pais": "Uruguay"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Salem Al-Dawsari",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Arabia Saudita"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Salman Al-Faraj",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Arabia Saudita"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Dele Alli",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Inglaterra"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Karim Ansarifard",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Irán"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Iago Aspas",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "España"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ludwig Augustinsson",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Suecia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Milan Badelj",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Felipe Baloy",
+      "Goles": 1,
+      "Partidos": 1,
+      "Promedio": 1,
+      "Pais": "Panama"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Michy Batshuayi",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Jan Bednarek",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Polonia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Fakhreddine Ben Youssef",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Túnez"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Khalid Boutaïb",
+      "Goles": 1,
+      "Partidos": 2,
+      "Promedio": 0.5,
+      "Pais": "Marruecos"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Dylan Bronn",
+      "Goles": 1,
+      "Partidos": 2,
+      "Promedio": 0.5,
+      "Pais": "Túnez"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "André Carrillo",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Perú"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Nacer Chadli",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Juan Guillermo Cuadrado",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Colombia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Kevin De Bruyne",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Angel Di Maria",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Argentina"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Josip Drmic",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Suiza"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Blerim Dzemaili",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Suiza"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Youssef En-Nesyri",
+      "Goles": 1,
+      "Partidos": 1,
+      "Promedio": 1,
+      "Pais": "Marruecos"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Christian Eriksen",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Dinamarca"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Radamel Falcao",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Colombia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Marouane Fellaini",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Mário Fernandes",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Rusia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Alfred Finnbogason",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Islandia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Emil Forsberg",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Suecia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Yury Gazinsky",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Rusia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "José María Giménez",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Uruguay"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Aleksandr Golovin",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Rusia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Paolo Guerrero",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Perú"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Genki Haraguchi",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Japón"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Javier Hernandez",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "México"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Keisuke Honda",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Japón"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Isco",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "España"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Adnan Januzaj",
+      "Goles": 1,
+      "Partidos": 1,
+      "Promedio": 1,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Mathias Jørgensen",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Dinamarca"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Shinji Kagawa",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Japón"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Young-Gwon Kim",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Corea del Sur"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Aleksandar Kolarov",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Serbia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Andrej Kramarić",
+      "Goles": 1,
+      "Partidos": 7,
+      "Promedio": 0.14,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Toni Kroos",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Alemania"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Grzegorz Krychowiak",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Polonia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Jesse Lingard",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Inglaterra"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Hirving Lozano",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "México"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Harry Maguire",
+      "Goles": 1,
+      "Partidos": 7,
+      "Promedio": 0.14,
+      "Pais": "Inglaterra"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Sadio Mané",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Senegal"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Gabriel Mercado",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Argentina"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Dries Mertens",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Lionel Messi",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Argentina"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Thomas Meunier",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Aleksandar Mitrović",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Serbia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Victor Moses",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Nigeria"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Nacho",
+      "Goles": 1,
+      "Partidos": 2,
+      "Promedio": 0.5,
+      "Pais": "España"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "M'Baye Niang",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Senegal"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Yuya Osako",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Japón"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Paulinho",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Brasil"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Benjamin Pavard",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Francia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Pepe",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Portugal"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Paul Pogba",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Francia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Yussuf Poulsen",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Dinamarca"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ricardo Quaresma",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Portugal"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Juan Quintero",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Colombia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ivan Rakitic",
+      "Goles": 1,
+      "Partidos": 7,
+      "Promedio": 0.14,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ante Rebic",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Renato Augusto",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Brasil"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Marco Reus",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Alemania"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Roberto Firmino",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Brasil"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Marcos Rojo",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Argentina"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ferjani Sassi",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Túnez"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Xherdan Shaqiri",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Suiza"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Gylfi Sigurdsson",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Islandia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Thiago Silva",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Brasil"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Ola Toivonen",
+      "Goles": 1,
+      "Partidos": 5,
+      "Promedio": 0.2,
+      "Pais": "Suecia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Kieran Trippier",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Inglaterra"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Samuel Umtiti",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Francia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Raphael Varane",
+      "Goles": 1,
+      "Partidos": 7,
+      "Promedio": 0.14,
+      "Pais": "Francia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Carlos Vela",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "México"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Jan Vertonghen",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Bélgica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Domagoj Vida",
+      "Goles": 1,
+      "Partidos": 6,
+      "Promedio": 0.17,
+      "Pais": "Croacia"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Moussa Wagué",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Senegal"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Kendall Waston",
+      "Goles": 1,
+      "Partidos": 1,
+      "Promedio": 1,
+      "Pais": "Costa Rica"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Granit Xhaka",
+      "Goles": 1,
+      "Partidos": 4,
+      "Promedio": 0.25,
+      "Pais": "Suiza"
+    },
+    {
+      "Mundial": 2018,
+      "Jugador": "Steven Zuber",
+      "Goles": 1,
+      "Partidos": 3,
+      "Promedio": 0.33,
+      "Pais": "Suiza"
+    }
+  ]

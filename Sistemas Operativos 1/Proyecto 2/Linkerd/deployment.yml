@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api-dummy-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: api-dummy
+  template:
+    metadata:
+      labels:
+        app: api-dummy
+    spec:
+      containers:
+      - name: api-dummy-container
+        image: gcr.io/elite-wonder-329016/api-dummy
+        ports:
+        - containerPort: 5000

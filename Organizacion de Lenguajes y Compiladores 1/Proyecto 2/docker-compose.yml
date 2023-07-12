@@ -1,0 +1,49 @@
+version: "3"
+services: 
+    cliente:
+        container_name: goserver
+        image: goweb:v1
+        ports: 
+            - "8000:8000"
+        networks: 
+            testing_net:
+                ipv4_address: 182.18.7.9
+        environment: 
+            - JSIP=182.18.7.7
+            - JSPORT=3000
+            - PYIP=182.18.7.5
+            - PYPORT=3030
+            - GOIP=182.18.7.9
+            - GOPORT=8000
+        command: ./app
+        depends_on: 
+            - jsserver
+            - pyserver
+    jsserver:
+        container_name: jsserver
+        image: jsserver:v1
+        ports: 
+            - "3000:3000"
+        environment: 
+            - JSIP=182.18.7.7
+            - JSPORT=3000
+        networks: 
+            testing_net:
+                ipv4_address: 182.18.7.7
+    pyserver:
+        container_name: pyserver
+        image: pyserver:v1
+        ports: 
+            - "3030:3030"
+        environment: 
+            - PYIP=182.18.7.5
+            - PYPORT=3030
+        networks: 
+            testing_net:
+                ipv4_address: 182.18.7.5
+networks: 
+    testing_net:
+        ipam: 
+            driver: default
+            config: 
+                - subnet: 182.18.7.0/24

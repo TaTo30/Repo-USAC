@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Barker" id="2FA2E804-F662-9BDB-350E-F94565B3F646" version="3.5">
+<createdBy>aldoh</createdBy>
+<createdTime>2021-01-02 16:35:10 UTC</createdTime>
+<ownerDesignName>Barker</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>2FA2E804-F662-9BDB-350E-F94565B3F646</designId>
+</OSDM_Design>

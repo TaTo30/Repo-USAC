@@ -1,0 +1,33 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend Proyecto 2 - Seminario",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaTo30/Semi1-34-Proyecto2"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "amazon-cognito-identity-js": "^5.1.2",
+    "aws-sdk": "^2.1009.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.7",
+    "morgan": "^1.10.0",
+    "socket.io": "^4.3.1",
+    "uuid": "^8.3.2"
+  }
+}

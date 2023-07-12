@@ -1,0 +1,6 @@
+obj
+bin
+References
+*.png
+*.dot
+*.c

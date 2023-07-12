@@ -1,0 +1,155 @@
+-crear el namespace
+kubectl create namespace squidgame
+-crear los deployments de cada imagen
+-------------------------------------REDIS---------------------------------------------------------------------------------
+kubectl create deployment redis  --image=redis:latest 
+kubectl expose deployment redis --port=6379 --target-port=6379 --type=LoadBalancer
+-------------------------------------ingress---------------------------------------------------------------------------------
+kubectl create deployment ingress  --image=andreapalomo/ingressruta1:latest -n squidgame 
+kubectl expose deployment ingress --port=80 --target-port=80 --type=LoadBalancer -n squidgame
+-------------------------------------faulty Trafic---------------------------------------------------------------------------------
+kubectl create deployment faulty  --image=andreapalomo/faulty:latest -n squidgame 
+kubectl expose deployment faulty --port=80 --target-port=4444 --type=ClusterIP -n squidgame
+-------------------------------------Pubsub---------------------------------------------------------------------------------
+kubectl create deployment pubsubworker  --image=andreapalomo/pubsubworker:latest -n squidgame --replicas=3
+kubectl autoscale deployment pubsubworker --cpu-percent=10 --min=1 --max=10 -n squidgame
+
+kubectl create deployment pub   --image=andreapalomo/pub:latest -n squidgame --replicas=3
+kubectl autoscale deployment pub --cpu-percent=10 --min=1 --max=10 -n squidgame
+
+kubectl create deployment sub    --image=andreapalomo/sub:latest -n squidgame
+kubectl autoscale deployment sub --cpu-percent=10 --min=1 --max=10 -n squidgame
+
+kubectl create deployment serverqueuepubsub   --image=andreapalomo/serverqueuepubsub:latest -n squidgame
+kubectl autoscale deployment serverqueuepubsub --cpu-percent=10 --min=1 --max=10 -n squidgame
+
+kubectl create deployment clientqueuepubsub   --image=andreapalomo/clientqueuepubsub:latest -n squidgame
+kubectl autoscale deployment clientqueuepubsub --cpu-percent=10 --min=1 --max=10 -n squidgame
+-------------------------------------Kafka---------------------------------------------------------------------------------
+
+kubectl create deployment kafka1  --image=tato30/sopes-kafka-consumer:latest -n squidgame --replicas=3
+kubectl autoscale deployment kafka1 --cpu-percent=10 --min=1 --max=10 -n squidgame
+
+kubectl create deployment producerkafka  --image=tato30/sopes-kafka-consumer:latest -n squidgame --replicas=3
+kubectl autoscale deployment producerkafka --cpu-percent=10 --min=1 --max=10 -n squidgame
+
+
+
+kubectl create deployment kafkaconsumer  --image=tato30/sopes-kafka-consumer:latest -n squidgame
+kubectl autoscale deployment kafkaconsumer --cpu-percent=10 --min=1 --max=10 -n squidgame
+
+kubectl create deployment kafkaproducer --image=tato30/sopes-kafka-producer:latest -n squidgame
+kubectl autoscale deployment kafkaproducer --cpu-percent=10 --min=1 --max=10 -n squidgame
+
+
+
+kubectl create deployment serverqueuekafka   --image=andreapalomo/serverqueuekafka:latest -n squidgame
+kubectl autoscale deployment serverqueuekafka --cpu-percent=10 --min=1 --max=10 -n squidgame
+
+kubectl create deployment clientqueuekafka   --image=andreapalomo/clientqueuekafka:latest -n squidgame
+kubectl autoscale deployment clientqueuekafka --cpu-percent=10 --min=1 --max=10 -n squidgame
+-------------------------------------Rabbit---------------------------------------------------------------------------------
+
+
+kubectl create deployment serverqueuerabbit   --image=andreapalomo/serverqueuerabbit:latest -n squidgame
+kubectl autoscale deployment serverqueuerabbit --cpu-percent=10 --min=1 --max=10 -n squidgame
+
+kubectl create deployment clientqueuerabbit   --image=andreapalomo/clientqueuerabbit:latest -n squidgame
+kubectl autoscale deployment clientqueuerabbit --cpu-percent=10 --min=1 --max=10 -n squidgame
+
+
+
+-crear los servicios de cada deployment
+-----------------------------------------------pubsub---------------------------------------------------------
+kubectl expose deployment pubsubworker --port=80 --target-port=4444 --type=ClusterIP -n squidgame
+ 
+kubectl expose deployment pub --port=80 --target-port=3333 --type=ClusterIP -n squidgame
+kubectl expose deployment sub --port=80 --target-port=80 --type=ClusterIP -n squidgame
+kubectl expose deployment serverqueuepubsub --port=9080 --target-port=9080 --type=ClusterIP -n squidgame
+kubectl expose deployment clientqueuepubsub --port=80 --target-port=4444 --type=ClusterIP -n squidgame
+---------------------------------------------Kafka-------------------------------------------------------------
+kubectl expose deployment serverqueuekafka --port=9080 --target-port=9080 --type=ClusterIP -n squidgame
+kubectl expose deployment clientqueuekafka --port=80 --target-port=4444 --type=ClusterIP -n squidgame
+---------------------------------------------Rabbit-------------------------------------------------------------
+kubectl expose deployment serverqueuerabbit --port=9080 --target-port=9080 --type=ClusterIP -n squidgame
+kubectl expose deployment clientqueuerabbit --port=80 --target-port=4444 --type=ClusterIP -n squidgame
+ 
+
+
+kubectl delete deployment pubsubworker -n squidgame
+kubectl delete deployment pub -n squidgame
+kubectl delete deployment sub -n squidgame
+kubectl delete deployment serverqueuepubsub -n squidgame
+kubectl delete deployment clientqueuepubsub -n squidgame
+kubectl delete deployment serverqueuekafka -n squidgame
+kubectl delete deployment clientqueuekafka -n squidgame
+kubectl delete deployment clientqueuerabbit -n squidgame
+kubectl delete deployment serverqueuepurabbit -n squidgame
+
+kubectl expose deployment pubsubworker --port=80 --target-port=4444 --type=ClusterIP -n squidgame
+
+kubectl expose deployment sub --port=80 --target-port=80 --type=ClusterIP -n squidgame
+-------------------
+kubectl apply -f deployment.yml -n squidgame
+
+
+
+
+
+
+
+
+
+docker build -t andreapalomo/clientqueuepubsub:latest .
+docker push andreapalomo/clientqueuepubsub:latest 
+
+docker build -t andreapalomo/clientqueuekafka:latest ./grpcClient/
+docker build -t andreapalomo/serverqueuekafka:latest ./server/
+docker push andreapalomo/clientqueuekafka:latest 
+docker push  andreapalomo/serverqueuekafka:latest 
+
+docker build -t andreapalomo/serverqueuerabbit:latest ./grpcClient/
+docker build -t andreapalomo/clientqueuerabbit:latest ./server/
+docker push  andreapalomo/serverqueuerabbit:latest 
+docker push andreapalomo/clientqueuerabbit:latest 
+
+
+
+
+docker build -t andreapalomo/ingressruta1:latest ./ruta1/
+docker push andreapalomo/ingressruta1:latest 
+docker build -t andreapalomo/ingressruta2:latest ./ruta2/
+docker push andreapalomo/ingressruta2:latest 
+docker build -t andreapalomo/ingressruta3:latest ./ruta3/
+docker push andreapalomo/ingressruta3:latest 
+docker build -t andreapalomo/ingressruta4:latest ./ruta4/
+docker push andreapalomo/ingressruta4:latest 
+docker build -t andreapalomo/ingressruta5:latest ./ruta5/
+docker push andreapalomo/ingressruta5:latest 
+docker build -t andreapalomo/ingressruta6:latest ./ruta6/
+docker push andreapalomo/ingressruta6:latest
+docker build -t andreapalomo/ingressruta7:latest ./ruta7/
+docker push andreapalomo/ingressruta7:latest  
+
+---------------------LINKERD---------------------------------------------------------------
+linkerd viz dashboard &
+kubectl get deployments -n squidgame -o yaml | linkerd inject - | kubectl apply -f -
+linkerd stat deployments -n squidgame 
+
+
+
+
+kubectl create deployment matarpod  --image=tato30/sopes-kafka-consumer:latest -n squidgame --replicas=3
+kubectl expose deployment matarpod --port=80 --target-port=4444 --type=ClusterIP -n squidgame
+ 
+
+kubectl apply -f deployment.yml -n squidgame
+
+
+
+docker build -t andreapalomo/pub:latest ./publish/
+docker build -t andreapalomo/sub:latest ./subscribe/
+docker build -t andreapalomo/pubsubworker:latest ./pubSubWorker/
+docker push andreapalomo/pub:latest
+docker push andreapalomo/pubsubworker:latest 
+docker push  andreapalomo/sub:latest 

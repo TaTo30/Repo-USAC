@@ -1,0 +1,121 @@
+idSucursal,codigo,nombre,direccion,region,departamento
+1,S0001,Sucursal1,"kilometro 20 carretera al pacifico, parque industrial unisur, local no. 1, delta barcenas,",Suroccidente1,Quetzaltenango
+2,S0002,Sucursal2,"5 avenida 5-55 zona 14 edificio euro plaza torre 2 nivel 16 oficina 1602,",Suroccidente2,Retalhuleu
+3,S0003,Sucursal3,"""8 avenida 3-90 zona 14 oficina 4""""b"""", edificio la rambla,""",Suroccidente3,San Marcos
+4,S0004,Sucursal4,"diagonal 6, 10-01 zona 10, edificio las margaritas torre 2, nivel 19, ,",Suroccidente4,Suchitepequez
+5,S0005,Sucursal5,"2 calle 4-08 z10,",Suroccidente5,Solola
+6,S0006,Sucursal6,"calzada aguilar batres 5-24, zona 11,  y  de",Suroccidente6,Totonicapan
+7,S0007,Sucursal7,"20 calle 10-66 zona 10,",Metropolitala, Guatemala
+8,S0008,Sucursal8,"""18 avenida """"a"""" 1-22 zona 1,  y  de""",Metropolitala, Guatemala
+9,S0009,Sucursal9,"av. reforma 13-70, zona 9 3er. nivel",Metropolitala, Guatemala
+10,S0010,Sucursal10,"avenida reforma 13-70 edificio real reforma, zona 9,",Metropolitala, Guatemala
+11,S0011,Sucursal11,"4 calle 9-30 zona 12, 01012",Metropolitala, Guatemala
+12,S0012,Sucursal12,"""9 calle """"a"""" 1-33 zona 1,""",Metropolitala, Guatemala
+13,S0013,Sucursal13,"10 calle 9-68 zona 1, edificio rosanca oficina 413,",Suroriente1,Jutiapa
+14,S0014,Sucursal14,"2a. avenida 23-09 zona 14,  y  de",Suroriente2,Jalapa
+15,S0015,Sucursal15,"33 avenida 11-00 colonia justo rufino barrios z0na 21,  y d e",Suroriente3,Santa Rosa
+16,S0016,Sucursal16,"12 calle 1-25 zona 10, edificio geminis 10, torre norte nivel 14 oficinas 1403 y 1404",Peten,Peten
+17,S0017,Sucursal17,"molino de las flores, ,",Peten,Peten
+18,S0018,Sucursal18,"9 calle 21-50 zona 12, 01012",Metropolitala, Guatemala
+19,S0019,Sucursal19,"30 avenida 4-87 zona 11,",Metropolitala, Guatemala
+20,S0020,Sucursal20,"ruta 5, 07-69, zona 4,",Metropolitala, Guatemala
+21,S0021,Sucursal21,"carretera al mayan golf, kilómetro 18.5,",Metropolitala, Guatemala
+22,S0022,Sucursal22,"2 ave 30-01 z12, col el carmen,",Metropolitala, Guatemala
+23,S0023,Sucursal23,"10 avenida 0-19 zona 7,",Metropolitala, Guatemala
+24,S0024,Sucursal24,"""15 avenida """"a"""" 5-70 zona 13,  y  de""",Suroccidente1,Quetzaltenango
+25,S0025,Sucursal25,"km. 7, carretera al atlántico, zona 18,",Suroccidente2,Retalhuleu
+26,S0026,Sucursal26,"3 avenida 4-64 zona 2,",Suroccidente3,San Marcos
+27,S0027,Sucursal27,"5a. calle poniente no. 20, antigua , sacatepequez",Suroccidente4,Suchitepequez
+28,S0028,Sucursal28,"4a. avenida 40-050 pb, zona 1,  de estanzuela,  de",Suroccidente5,Solola
+29,S0029,Sucursal29,"calzada aguilar batres 43-27 zona 12,",Suroccidente6,Totonicapan
+30,S0030,Sucursal30,"""1ra. calle """"a"""" 07-04 zona 16,""",Suroccidente1,Quetzaltenango
+31,S0031,Sucursal31,"21 calle 6-25 zona 1, 01001",Suroccidente2,Retalhuleu
+32,S0032,Sucursal32,"5a. ave 5-55 z.14 euro plaza world bussines center torre 1  nivel 19 penthouse,",Suroccidente3,San Marcos
+33,S0033,Sucursal33,"avendia petapa 40-18 zona 12,",Suroriente1,Jutiapa
+34,S0034,Sucursal34,"5a. avenida 5-55 zona 14, edificio europlaza world business center, torre 4, nivel 12,",Suroriente2,Jalapa
+35,S0035,Sucursal35,"17 alle 15-77 zona 11, colonia jardines de minerva i,  de ,  de",Suroriente3,Santa Rosa
+36,S0036,Sucursal36,"km. 14 carretera a el salvador, santa catarina pinula,",Peten,Peten
+37,S0037,Sucursal37,"avenida petapa 23-01 zona 12,",Peten,Peten
+38,S0038,Sucursal38,"19 calle 5-72 zona 10,",Suroccidente3,San Marcos
+39,S0039,Sucursal39,"16 avenida 6-15 zona 4, ,",Suroccidente4,Suchitepequez
+40,S0040,Sucursal40,"""37 calle """"b"""" 19-30 zona 12, residenciales san carlos,""",Suroccidente5,Solola
+41,S0041,Sucursal41,"6a. avenida 0-60 zona 4, centro comercial torre profesional i, 7o. nivel, oficina 710, ,",Suroccidente6,Totonicapan
+42,S0042,Sucursal42,"""lote 105 manzana """"a"""" sector 3, prados de , zona 7, san miguel petapa,""",Metropolitala, Guatemala
+43,S0043,Sucursal43,"lote 3, manzana f, sector 5, san cristobal, zona 8, ,",Metropolitala, Guatemala
+44,S0044,Sucursal44,"6 avenida 9-80 zona 1, edificio plaza vivar 4 nivel oficina 5-4,",Metropolitala, Guatemala
+45,S0045,Sucursal45,"4a. calle 2-10. colinas de monte maria sur, zona 7",Metropolitala, Guatemala
+46,S0046,Sucursal46,"13 calle 3-40 zona 10, edificio atlantis, nivel 12, oficina 1202,",Metropolitala, Guatemala
+47,S0047,Sucursal47,"avenida reforma 12-01 zona 10, edificio reforma montufar, torre b oficina 204,",Metropolitala, Guatemala
+48,S0048,Sucursal48,"calzada atanasio tzul 22-00 zona 12, el cortijo ii, bodega 319,",Metropolitala, Guatemala
+49,S0049,Sucursal49,"13 calle 8-44 zona 10, edyma plaza oficina 501 5o nivel, ,",Noroccidente1,Huehuetenango
+50,S0050,Sucursal50,"lote 55, monte maria, aldea el pajon, santa catarina pinula,",Noroccidente2,Quiche
+51,S0051,Sucursal51,"5ta avenida 5-55 zona 14 eutoplaza world businnes center nivel 9 oficina 1208,",Noroccidente1,Huehuetenango
+52,S0052,Sucursal52,"2a. av 8-32 z 8 col panorama  san cristobal, ,",Noroccidente2,Quiche
+53,S0053,Sucursal53,"12 calle 14-30 zona 11 carabanchell,",Noroccidente1,Huehuetenango
+54,S0054,Sucursal54,"ruta 6, 4-34, zona 4,",Noroccidente2,Quiche
+55,S0055,Sucursal55,"6a. calle 5-47 zona 9,",Noroccidente1,Huehuetenango
+56,S0056,Sucursal56,"3a. avenida finca el zapote 28-75 zona 2,",Noroccidente2,Quiche
+57,S0057,Sucursal57,"7a. avenida 10-40 zona 9,  y  de",Noroccidente1,Huehuetenango
+58,S0058,Sucursal58,"calzada aguilar batres, 31 calle 0-53 zona 12,",Noroccidente1,Huehuetenango
+59,S0059,Sucursal59,"avenida la americas, 18-81 zona 14, nivel 12,",Noroccidente2,Quiche
+60,S0060,Sucursal60,"29 avenida 31-47 zona 5,",Noroccidente1,Huehuetenango
+61,S0061,Sucursal61,"12 calle 2-04 zona 9, edificio plaza del sol, 4 nivel oficina 405,",Central1,Chimaltenango
+62,S0062,Sucursal62,"1a. avenida 25-26 zona 3,",Central2,Sacatepequez
+63,S0063,Sucursal63,"14 av. 24-37 zona 13,",Central3,Escuintla
+64,S0064,Sucursal64,"3a. calle 1-85 zona 3,  de esquipulas",Central1,Chimaltenango
+65,S0065,Sucursal65,"13 calle 3-40 zona 10 edificio atlantis nivel 12 oficina 1202,",Central2,Sacatepequez
+66,S0066,Sucursal66,"calzada miguel garcía granados zona 14,  y  de",Central3,Escuintla
+67,S0067,Sucursal67,"calzada roosevelt, kilometro 14.325 zona 7,",Central1,Chimaltenango
+68,S0068,Sucursal68,"kilometro 1.50 calzada miguel garcia granados,  y  de",Central2,Sacatepequez
+69,S0069,Sucursal69,13 avenida 3-26 zona 1,Central3,Escuintla
+70,S0070,Sucursal70,"12 calle 1-25 zona 10, edificio geminis, torre sur, oficina 1510,  y  de guatemla",Central1,Chimaltenango
+71,S0071,Sucursal71,"3a. avenida 2-62 zona 9,  y  de",Central2,Sacatepequez
+72,S0072,Sucursal72,"3a. avenida 13-18, zona 9,  y  de",Central3,Escuintla
+73,S0073,Sucursal73,"calzada atanasio tzul 22-00 zona 12, el cortijo ii, oficina 100",Central1,Chimaltenango
+74,S0074,Sucursal74,"""lote 65 """"a"""" aldea modelo esso, puerto de san josé,""",Central2,Sacatepequez
+75,S0075,Sucursal75,"""9a. calle """"a"""" 12-36, colonia roosevelt, zona 11,""",Central3,Escuintla
+76,S0076,Sucursal76,"km. 17.5 carretera a san jose pinula, empresarial san jose, bodega no 8,",Verapaz1,Alta Verapaz
+77,S0077,Sucursal77,"calzada aguilar batres final 57-51 zona 12 condominio flexibodegas bodega # 20, ,",Verapaz2,Baja Verapaz
+78,S0078,Sucursal78,"km. 16 carretera interamericana  zona 1, ,",Verapaz1,Alta Verapaz
+79,S0079,Sucursal79,"kilometro 15.5 carretera al pacífico, lote 28, los tanques,  de ,  de",Verapaz2,Baja Verapaz
+80,S0080,Sucursal80,"km. 30.5 carretera al pacifico parques del lago amatitlan, amatitlan,",Verapaz1,Alta Verapaz
+81,S0081,Sucursal81,"kilometro 8.6 carretera antigua a el salvador, centro corporativo muxbal, torre oeste, oficina 503 y 504,",Verapaz2,Baja Verapaz
+82,S0082,Sucursal82,"avenida atanasio tzul 19-97 zona 12, centro empresarial el cortijo i, interior 506",Verapaz1,Alta Verapaz
+83,S0083,Sucursal83,"8a. calle 2-60, zona 9, ,",Verapaz2,Baja Verapaz
+84,S0084,Sucursal84,"14 avenida 15-56 zona 1,",Verapaz1,Alta Verapaz
+85,S0085,Sucursal85,"6 calle 4-25 zona 9,",Verapaz2,Baja Verapaz
+86,S0086,Sucursal86,"6a. calle periferico sur 2-14 zona 8, coban, alta verapaz",Nororiente1,Chiquimula
+87,S0087,Sucursal87,"centro uno, la maquina, calle principal, lote 117, cuyotenango, suchitepequez",Nororiente2,El Progreso
+88,S0088,Sucursal88,"avenida la americas, 18-81 zona 14, edificio columbus center nivel 6,",Nororiente3,Izabal
+89,S0089,Sucursal89,"30 calle 9-61 zona 11, condominio san antonio las charcas,",Nororiente4,Zacapa
+90,S0090,Sucursal90,"5a. calle 9-69 zona 7, quinta samayoa,",Nororiente1,Chiquimula
+91,S0091,Sucursal91,"7a. avenida 14-44 zona 9, edificio la galería 5o. nivel, oficina 501,",Metropolitala, Guatemala
+92,S0092,Sucursal92,"kilometro 6.5 carretera al atlantico, zona 18,",Metropolitala, Guatemala
+93,S0093,Sucursal93,"7a. avenida 14-78, zona 9,",Metropolitala, Guatemala
+94,S0094,Sucursal94,"calzada aguilar batres y 21calle 0-29 zona 12,",Nororiente1,Chiquimula
+95,S0095,Sucursal95,"12 avenida 12-38 zona 19, colonia la florida,",Nororiente2,El Progreso
+96,S0096,Sucursal96,"kilometro 44.5 carretera al pacificio, bodega c, palin,",Suroriente1,Jutiapa
+97,S0097,Sucursal97,"km. 16.5 carretera a el salvador, llanos de arrazola, lote 16",Suroriente2,Jalapa
+98,S0098,Sucursal98,"diagonal 30 boulevar san rafael 20-01 zona 18,",Suroriente3,Santa Rosa
+99,S0099,Sucursal99,"3a. avenida 12-32, zona 10, edificio paseo plaza, 6to nivel, oficina 604-605",Peten,Peten
+100,S0100,Sucursal100,"kilometro 40 aldea pachaj,  de sumpango,  de sacatepéquez",Peten,Peten
+101,S0101,Sucursal101,"diagonal 20, 6-79 zona 11, colonia mariscal,",Nororiente4,Zacapa
+102,S0102,Sucursal102,7a. calle 3-21 zona 10,Nororiente1,Chiquimula
+103,S0103,Sucursal103,"3 ave 13.18 z9,",Nororiente2,El Progreso
+104,S0104,Sucursal104,"1a. calle 1-08 zona 2, colonia el mirador,",Suroriente1,Jutiapa
+105,S0105,Sucursal105,"2 calle 24-00 z15, vista hermosa 2, edif domani oficina 1105, nivle 11",Suroriente2,Jalapa
+106,S0106,Sucursal106,"8a. calle 9-19 zona 3, totonicapan",Suroriente3,Santa Rosa
+107,S0107,Sucursal107,"km. 26 carretera a amatitlan,",Peten,Peten
+108,S0108,Sucursal108,"41 calle 6-27 zona 8,",Peten,Peten
+109,S0109,Sucursal109,"avenida reforma 13-70 edificio real reforma, local 10 zona 9,",Nororiente4,Zacapa
+110,S0110,Sucursal110,"6 avenida 1-36 zona 14, edificio los arcos, 4 nivel,",Nororiente1,Chiquimula
+111,S0111,Sucursal111,"6 calle 5-47 zona 9, edificio vasil, nivel 6, 01009",Nororiente2,El Progreso
+112,S0112,Sucursal112,"""22 avenida """"a"""" 15-50 zona 10 colonia alcazar, 01010""",Nororiente3,Izabal
+113,S0113,Sucursal113,"avenida las americas 18-81 zona 14, edificio columbus center nivel 11 sur",Nororiente4,Zacapa
+114,S0114,Sucursal114,"12 calle 7-49 zona 14, edificio la bohemia oficina 2,",Suroriente1,Jutiapa
+115,S0115,Sucursal115,"boulevard liberacion 4-21 zona 9,",Suroriente2,Jalapa
+116,S0116,Sucursal116,"ave reforma 9-55 z10, edif reforma 10, nivel 6,  ofic 603,",Suroriente3,Santa Rosa
+117,S0117,Sucursal117,"2da. calle 6-76 zona 10,",Peten,Peten
+118,S0118,Sucursal118,"diagonal 19, 8-95  zona 21",Peten,Peten
+119,S0119,Sucursal119,"0 calle 22-70 zona 15, vista hermosa ii,",Suroriente2,Jalapa
+120,S0120,Sucursal120,"kilometro 18-5 carretera al mayan golf, ,",Suroriente3,Santa Rosa

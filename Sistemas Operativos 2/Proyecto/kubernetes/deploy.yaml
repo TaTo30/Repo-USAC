@@ -1,0 +1,91 @@
+## DESPLEGAMOS EL BACKEND
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: so2-backend
+  labels: 
+    app: backend
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: backend
+  template:
+    metadata:
+      labels:
+        app: backend
+    spec:
+      containers:
+        - image: tato30/sopes2-p1-server:1.0
+          name: server
+          ports:
+            - containerPort: 3000
+
+---
+
+## CREAMOS EL SERVICIO DEL BACKEND
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: so2-backend-service
+spec:
+  selector:
+    app: backend
+  ports: 
+    - port: 3000
+      targetPort: 3000
+  type: LoadBalancer
+
+## DESPLEGAMOS EL FRONTEND
+
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: so2-frontend
+  labels:
+    app: frontend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: frontend
+  minReadySeconds: 20
+  strategy:
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+  template:
+    metadata:
+      labels:
+        app: frontend
+    spec:
+      containers:
+        - image: tato30/sopes2-p1-frontend:1.0
+          name: webapp
+          ports: 
+            - containerPort: 3000
+          env:
+            - name: REACT_APP_BASE_URL
+              value: http://localhost:3000
+            - name: CI
+              value: 'true'
+  
+---
+
+## CREAMOS EL SERVICIO DEL FRONTEND
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: so2-frontend-service
+spec:
+  selector:
+    app: frontend
+  ports: 
+    - port: 8080
+      targetPort: 3000
+  type: LoadBalancer

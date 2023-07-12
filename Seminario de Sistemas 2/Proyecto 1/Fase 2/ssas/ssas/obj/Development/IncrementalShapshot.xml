@@ -1,0 +1,229 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>ssas</Database>
+    <Server>localhost</Server>
+    <ConnectionString>Data Source=localhost;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>L1L8q3MbtyobnyIAOrcIScJb9k0=20/03/2022 23:16:3420/03/2022 21:28:06</TimeStamp>
+        <ID>
+          <String>F2SS2_Linear</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>f5fiLIhLiJQN4/DgRJ8NQ/isLnA=22/03/2022 11:47:0922/03/2022 11:46:34</TimeStamp>
+        <ID>
+          <String>Seminariodos201800585columnar</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>HEjJgbWhHOoCsFhBxbGXS7VVBpU=20/03/2022 21:49:3320/03/2022 21:49:33</TimeStamp>
+        <ID>
+          <String>VistaCompras_Linear</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>daSRyHJphEFg6XKljcsXK0W8mrY=20/03/2022 23:25:1020/03/2022 21:50:17</TimeStamp>
+        <ID>
+          <String>VistaVentas_Linear</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>/CjjbA1w9TRYh6GSkJOmgnFX5P8=22/03/2022 12:06:0022/03/2022 11:58:25</TimeStamp>
+        <ID>
+          <String>VistaCompras_Columnar</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>rkNL48k2YbVZ4zeVPfpVGK/OPVk=22/03/2022 12:09:3222/03/2022 12:06:58</TimeStamp>
+        <ID>
+          <String>VistaVentas_Columnar</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>0YkJkoKOA27CKMY0nvuRrG1n47E=22/03/2022 12:19:4320/03/2022 21:51:10</TimeStamp>
+        <ID>
+          <String>Proveedor</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>u0cbaesrpkyT/HM42eeLWhpUWto=22/03/2022 12:19:5420/03/2022 23:19:20</TimeStamp>
+        <ID>
+          <String>Producto</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>rGyqKBjRoebtjUVEj9u3YwQysbE=22/03/2022 12:20:0220/03/2022 23:22:12</TimeStamp>
+        <ID>
+          <String>Tiempo</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>sFZHJtzHbp3Htd/lOO/L+6vNFoY=22/03/2022 12:20:1320/03/2022 23:18:04</TimeStamp>
+        <ID>
+          <String>Sucursal</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>CA0QxgICz1wWjd65QsbJEkS3GHc=22/03/2022 12:22:0620/03/2022 23:25:49</TimeStamp>
+        <ID>
+          <String>Vendedor</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>/xkNTrsJ80RWTbcmHn7biixT8Xc=22/03/2022 12:22:1420/03/2022 23:25:10</TimeStamp>
+        <ID>
+          <String>Cliente</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>tFi2hhZhbCpsQztIX/mXHPS8vxQ=22/03/2022 12:22:4122/03/2022 12:22:41</TimeStamp>
+        <ID>
+          <String>LV_Producto</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>XvliooiIQ1aAFSoMir2R/rV8edU=22/03/2022 12:23:1522/03/2022 12:23:15</TimeStamp>
+        <ID>
+          <String>LV_Sucursal</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>3R69fuR/+HFv1vKyMMZYTlpTVzQ=22/03/2022 12:23:5122/03/2022 12:23:51</TimeStamp>
+        <ID>
+          <String>LV_Tiempo</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>llyNVZxcK/xSG/RIraYbsU5baPE=22/03/2022 12:29:2022/03/2022 12:10:54</TimeStamp>
+        <ID>
+          <String>ProductoC</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>gjYpwkgdAHAQ7biP+XLK0Q0kTKE=22/03/2022 12:29:3022/03/2022 12:11:50</TimeStamp>
+        <ID>
+          <String>ProveedorC</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>1S2D1MyjuSRd2PgCnSdfbtciMsE=22/03/2022 12:29:3922/03/2022 12:12:35</TimeStamp>
+        <ID>
+          <String>SucursalC</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>4cGKK5zGErMJ5c1N14WhqontUnM=22/03/2022 12:29:4722/03/2022 12:12:57</TimeStamp>
+        <ID>
+          <String>TiempoC</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>USMgQmTQ/MdKuO+dnfq+gsG7Dzw=22/03/2022 12:31:3222/03/2022 12:13:19</TimeStamp>
+        <ID>
+          <String>ClienteC</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>I51UdLqkafz1ylN1KDoxoHNpf/g=22/03/2022 12:31:4022/03/2022 12:13:41</TimeStamp>
+        <ID>
+          <String>Vendedor 1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>o0AYeBpBYO6zu0uWCUoeI5zRUyE=22/03/2022 12:32:0522/03/2022 12:32:05</TimeStamp>
+        <ID>
+          <String>CV_Producto</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>YMMASqukYNf2KqVi6zVXt1XEcso=22/03/2022 12:32:2522/03/2022 12:32:25</TimeStamp>
+        <ID>
+          <String>CV_Sucursal</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>lcegSnOFWP2K3Kq93LiE0rBfqps=22/03/2022 12:32:5422/03/2022 12:32:54</TimeStamp>
+        <ID>
+          <String>CV_Tiempo</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>2CG+kwK3Jn2gcxaua5BXBHBEEZA=22/03/2022 12:21:2822/03/2022 12:21:28rV+G4t6bvoNjUzW/vhZEjDi+M0Y=22/03/2022 12:21:2822/03/2022 12:21:28</TimeStamp>
+        <ID>
+          <String>CuboCompras_Linear</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>XuKl6OhRkEucNOJZP94NC7DrTWc=22/03/2022 12:24:5522/03/2022 12:24:42BMDEkl3AWgOeNNXcE/Cs2aM6Opc=22/03/2022 12:24:4222/03/2022 12:24:42</TimeStamp>
+        <ID>
+          <String>VistaVentas_Linear</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>EFLvbHM6zVPIKeqPTASxff3qtes=22/03/2022 12:30:5322/03/2022 12:30:535itplCHUv57n1AqrlOZt6eqgjkE=22/03/2022 12:30:5322/03/2022 12:30:53</TimeStamp>
+        <ID>
+          <String>CuboCompras_Columnar</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>hGgtsdNk0f3fKIGORM9V1cJ+TLw=22/03/2022 12:34:2022/03/2022 12:34:20KMXd3lisQ0BIE89Jzk5YAY86uAw=22/03/2022 12:34:2022/03/2022 12:34:20</TimeStamp>
+        <ID>
+          <String>CuboVentas_Columnar</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>S+7j96Q2f6uPBtQplJMpGR11dlc=20/03/2022 22:18:5520/03/2022 21:20:48</TimeStamp>
+      <ID>
+        <String>ssas</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2022-03-22T18:35:11.67Z</LastDeployed>
+</DeploymentSnapshot>

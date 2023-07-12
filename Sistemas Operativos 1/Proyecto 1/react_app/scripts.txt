@@ -1,0 +1,8 @@
+gcloud builds submit --tag gcr.io/proyecto1sopes-326001/cra-cloud-run
+gcloud run deploy --image gcr.io/proyecto1sopes-326001/cra-cloud-run --platform managed
+gcloud builds submit --tag gcr.io/[id_cloud_project]/cra-cloud-run
+
+gcloud init
+
+gcloud app deploy
+

@@ -1,0 +1,4874 @@
+{
+  "organizador": "Sud\u00e1frica",
+  "promedio_gol": 2.27,
+  "goles": 145,
+  "a\u00f1o": 2010,
+  "selecciones": [
+    {
+      "pais": "Sud\u00e1frica",
+      "grupo": "Grupo A",
+      "posicion": "20",
+      "jugadores": [
+        {
+          "nombre": "Moneeb Josephs",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Itumeleng Khune",
+          "posicion": "Arquero",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Shu-Aib Walters",
+          "posicion": "Arquero",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Siboniso Gaxa",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Tsepo Masilela",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Aaron Mokoena",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Anele Ngcongca",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Matthew Booth",
+          "posicion": "Defensor",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Lucas Thwala",
+          "posicion": "Defensor",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Bongani Khumalo",
+          "posicion": "Defensor",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Siyabonga Sangweni",
+          "posicion": "Defensor",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "MacBeth Sibaya",
+          "posicion": "Mediocampista",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Lance Davids",
+          "posicion": "Mediocampista",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Siphiwe Tshabalala",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Steven Pienaar",
+          "posicion": "Mediocampista",
+          "dorsal": "21 y 10"
+        },
+        {
+          "nombre": "Teko Modise",
+          "posicion": "Mediocampista",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Reneilwe Letsholonyane",
+          "posicion": "Mediocampista",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Kagisho Dikgacoi",
+          "posicion": "Mediocampista",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Surprise Moriri",
+          "posicion": "Mediocampista",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Thanduyise Khuboni",
+          "posicion": "Mediocampista",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Katlego Mphela",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Bernard Parker",
+          "posicion": "Delantero",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Siyabonga Nomvethe",
+          "posicion": "Delantero",
+          "dorsal": "14 y 18"
+        }
+      ]
+    },
+    {
+      "pais": "M\u00e9xico",
+      "grupo": "Grupo A",
+      "posicion": "14",
+      "jugadores": [
+        {
+          "nombre": "Oscar Perez",
+          "posicion": "Arquero  Defensor",
+          "dorsal": "22 y 1"
+        },
+        {
+          "nombre": "Guillermo Ochoa",
+          "posicion": "Arquero",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Luis Michel",
+          "posicion": "Arquero",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Francisco Rodriguez",
+          "posicion": "Defensor",
+          "dorsal": "22 y 2"
+        },
+        {
+          "nombre": "Carlos Salcido",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Rafael Marquez",
+          "posicion": "Defensor  Mediocampista",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Ricardo Osorio",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Paul Aguilar",
+          "posicion": "Defensor",
+          "dorsal": "12 y 22"
+        },
+        {
+          "nombre": "Hector Moreno",
+          "posicion": "Defensor",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Efrain Juarez",
+          "posicion": "Defensor",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Jonny Magallon",
+          "posicion": "Defensor",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Gerardo Torrado",
+          "posicion": "Mediocampista",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Israel Castro",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Andres Guardado",
+          "posicion": "Mediocampista  Defensor",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Jorge Torres",
+          "posicion": "Mediocampista",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Pablo Barrera",
+          "posicion": "Delantero",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Guillermo Franco",
+          "posicion": "Delantero",
+          "dorsal": "10 y 9"
+        },
+        {
+          "nombre": "Cuauhtemoc Blanco",
+          "posicion": "Delantero",
+          "dorsal": "11 y 10"
+        },
+        {
+          "nombre": "Carlos Vela",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Javier Hernandez",
+          "posicion": "Delantero",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Giovani dos Santos",
+          "posicion": "Mediocampista  Delantero",
+          "dorsal": "17 y 10"
+        },
+        {
+          "nombre": "Adolfo Bautista",
+          "posicion": "Delantero",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Alberto Medina",
+          "posicion": "Delantero",
+          "dorsal": "22"
+        }
+      ]
+    },
+    {
+      "pais": "Uruguay",
+      "grupo": "Grupo A",
+      "posicion": "4",
+      "jugadores": [
+        {
+          "nombre": "Fernando Muslera",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Juan Castillo",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Martin Silva",
+          "posicion": "Arquero",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Diego Lugano",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Diego Godin",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Jorge Fucile",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Mauricio Victorino",
+          "posicion": "Defensor",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Maximiliano Pereira",
+          "posicion": "Defensor",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Andres Scotti",
+          "posicion": "Defensor",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Martin Caceres",
+          "posicion": "Defensor",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Walter Gargano",
+          "posicion": "Mediocampista",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Sebastian Eguren",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Alvaro Pereira",
+          "posicion": "Mediocampista",
+          "dorsal": "11 y 6"
+        },
+        {
+          "nombre": "Nicolas Lodeiro",
+          "posicion": "Mediocampista",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Diego Perez",
+          "posicion": "Mediocampista",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Egidio Arevalo",
+          "posicion": "Mediocampista",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Ignacio Gonzalez",
+          "posicion": "Mediocampista",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Alvaro Fernandez",
+          "posicion": "Mediocampista",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Edinson Cavani",
+          "posicion": "Delantero",
+          "dorsal": "7 y 21"
+        },
+        {
+          "nombre": "Luis Suarez",
+          "posicion": "Mediocampista",
+          "dorsal": "21 y 10"
+        },
+        {
+          "nombre": "Diego Forlan",
+          "posicion": "Delantero",
+          "dorsal": "21 y 10"
+        },
+        {
+          "nombre": "Sebastian Abreu",
+          "posicion": "Delantero",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Sebastian Fernandez",
+          "posicion": "Delantero",
+          "dorsal": "21"
+        }
+      ]
+    },
+    {
+      "pais": "Francia",
+      "grupo": "Grupo A",
+      "posicion": "29",
+      "jugadores": [
+        {
+          "nombre": "Hugo Lloris",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Steve Mandanda",
+          "posicion": "Arquero",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Cedric Carrasso",
+          "posicion": "Arquero",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Bakari Sagna",
+          "posicion": "Defensor",
+          "dorsal": "2 y 15"
+        },
+        {
+          "nombre": "Eric Abidal",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Anthony Reveillere",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "William Gallas",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Marc Planus",
+          "posicion": "Defensor",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Patrice Evra",
+          "posicion": "Defensor",
+          "dorsal": "13 y 3"
+        },
+        {
+          "nombre": "Sebastien Squillaci",
+          "posicion": "Defensor",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Gael Clichy",
+          "posicion": "Defensor",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Yoann Gourcuff",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Jeremy Toulalan",
+          "posicion": "Mediocampista",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Florent Malouda",
+          "posicion": "Mediocampista",
+          "dorsal": "7 y 15"
+        },
+        {
+          "nombre": "Alou Diarra",
+          "posicion": "Mediocampista",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Abou Diaby",
+          "posicion": "Mediocampista",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Franck Ribery",
+          "posicion": "Delantero  Mediocampista",
+          "dorsal": "22 y 7"
+        },
+        {
+          "nombre": "Djibril Cisse",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Sidney Govou",
+          "posicion": "Delantero",
+          "dorsal": "9 y 10"
+        },
+        {
+          "nombre": "Andre Pierre Gignac",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Thierry Henry",
+          "posicion": "Delantero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Mathieu Valbuena",
+          "posicion": "Delantero",
+          "dorsal": "20 y 8"
+        },
+        {
+          "nombre": "Nicolas Anelka",
+          "posicion": "Delantero",
+          "dorsal": "21"
+        }
+      ]
+    },
+    {
+      "pais": "Argentina",
+      "grupo": "Grupo B",
+      "posicion": "5",
+      "jugadores": [
+        {
+          "nombre": "Diego Pozo",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Mariano Andujar",
+          "posicion": "Arquero",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Sergio Romero",
+          "posicion": "Arquero",
+          "dorsal": "22 y 1"
+        },
+        {
+          "nombre": "Martin Demichelis",
+          "posicion": "Defensor",
+          "dorsal": "2 y 15"
+        },
+        {
+          "nombre": "Clemente Rodriguez",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Nicolas Burdisso",
+          "posicion": "Defensor",
+          "dorsal": "21 y 4"
+        },
+        {
+          "nombre": "Gabriel Heinze",
+          "posicion": "Defensor",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Ariel Garce",
+          "posicion": "Defensor",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Walter Samuel",
+          "posicion": "Defensor",
+          "dorsal": "6 y 13"
+        },
+        {
+          "nombre": "Nicolas Otamendi",
+          "posicion": "Defensor",
+          "dorsal": "15 y 17"
+        },
+        {
+          "nombre": "Mario Bolatti",
+          "posicion": "Mediocampista",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Angel Di Maria",
+          "posicion": "Mediocampista",
+          "dorsal": "7 y 11"
+        },
+        {
+          "nombre": "Juan Veron",
+          "posicion": "Mediocampista",
+          "dorsal": "11 y 8"
+        },
+        {
+          "nombre": "Javier Mascherano",
+          "posicion": "Mediocampista",
+          "dorsal": "8 y 14"
+        },
+        {
+          "nombre": "Jonas Gutierrez",
+          "posicion": "Mediocampista",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Maxi Rodriguez",
+          "posicion": "Mediocampista",
+          "dorsal": "18  20 y 11"
+        },
+        {
+          "nombre": "Javier Pastore",
+          "posicion": "Mediocampista",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Gonzalo Higuain",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Lionel Messi",
+          "posicion": "Delantero",
+          "dorsal": "19 y 10"
+        },
+        {
+          "nombre": "Carlos Tevez",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Sergio Ag\u00fcero",
+          "posicion": "Delantero",
+          "dorsal": "16  20 y 19"
+        },
+        {
+          "nombre": "Martin Palermo",
+          "posicion": "Delantero",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Diego Milito",
+          "posicion": "Delantero",
+          "dorsal": "19"
+        }
+      ]
+    },
+    {
+      "pais": "Nigeria",
+      "grupo": "Grupo B",
+      "posicion": "27",
+      "jugadores": [
+        {
+          "nombre": "Vincent Enyeama",
+          "posicion": "Arquero",
+          "dorsal": "22 y 1"
+        },
+        {
+          "nombre": "Austin Ejide",
+          "posicion": "Arquero",
+          "dorsal": "12 y 16"
+        },
+        {
+          "nombre": "Dele Aiyenugba",
+          "posicion": "Arquero",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Joseph Yobo",
+          "posicion": "Defensor  Mediocampista",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Taye Taiwo",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Rabiu Afolabi",
+          "posicion": "Defensor",
+          "dorsal": "13 y 5"
+        },
+        {
+          "nombre": "Danny Shittu",
+          "posicion": "Defensor",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Chidi Odiah",
+          "posicion": "Defensor",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Uwa Echiejile",
+          "posicion": "Defensor",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Dele Adeleye",
+          "posicion": "Defensor",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Nwankwo Kanu",
+          "posicion": "Delantero  Mediocampista",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Kalu Uche",
+          "posicion": "Mediocampista",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Yussuf Ayila",
+          "posicion": "Mediocampista",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Sani Kaita",
+          "posicion": "Mediocampista",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Lukman Haruna",
+          "posicion": "Mediocampista",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Dickson Etuhu",
+          "posicion": "Mediocampista",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "John Utaka",
+          "posicion": "Delantero",
+          "dorsal": "21 y 7"
+        },
+        {
+          "nombre": "Yakubu Aiyegbeni",
+          "posicion": "Delantero",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Obafemi Martins",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Brown Ideye",
+          "posicion": "Delantero",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Peter Odemwingie",
+          "posicion": "Delantero",
+          "dorsal": "11 y 8"
+        },
+        {
+          "nombre": "Victor Obinna",
+          "posicion": "Delantero",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Chinedu Ogbuke Obasi",
+          "posicion": "Delantero",
+          "dorsal": "19"
+        }
+      ]
+    },
+    {
+      "pais": "Corea del Sur",
+      "grupo": "Grupo B",
+      "posicion": "15",
+      "jugadores": [
+        {
+          "nombre": "Woon Jae Lee",
+          "posicion": "Arquero",
+          "dorsal": "22 y 1"
+        },
+        {
+          "nombre": "Sung Ryong Jung",
+          "posicion": "Arquero",
+          "dorsal": "18 y 1"
+        },
+        {
+          "nombre": "Young Kwang Kim",
+          "posicion": "Arquero",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Beom Seok Oh",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Hyung Il Kim",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Yong Hyung Cho",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Young Pyo Lee",
+          "posicion": "Defensor  Mediocampista",
+          "dorsal": "10 y 12"
+        },
+        {
+          "nombre": "Jung Soo Lee",
+          "posicion": "Defensor",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Dong Jin Kim",
+          "posicion": "Defensor",
+          "dorsal": "3 y 15"
+        },
+        {
+          "nombre": "Du Ri Cha",
+          "posicion": "Defensor  Delantero",
+          "dorsal": "16 y 22"
+        },
+        {
+          "nombre": "Min Soo Kang",
+          "posicion": "Defensor",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Nam Il Kim",
+          "posicion": "Mediocampista",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Bo Kyung Kim",
+          "posicion": "Mediocampista",
+          "dorsal": "6 y 7"
+        },
+        {
+          "nombre": "Ji Sung Park",
+          "posicion": "Mediocampista",
+          "dorsal": "21 y 7"
+        },
+        {
+          "nombre": "Jung Woo Kim",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Jae Sung Kim",
+          "posicion": "Mediocampista",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Sung-yueng Ki",
+          "posicion": "Mediocampista",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Chung-yong Lee",
+          "posicion": "Mediocampista",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Ki Hun Yeom",
+          "posicion": "Mediocampista",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Jung Hwan Ahn",
+          "posicion": "Delantero  Mediocampista",
+          "dorsal": "19 y 9"
+        },
+        {
+          "nombre": "Chu Young Park",
+          "posicion": "Delantero",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Seung Yeoul Lee",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Dong Gook Lee",
+          "posicion": "Delantero",
+          "dorsal": "21 y 20"
+        }
+      ]
+    },
+    {
+      "pais": "Grecia",
+      "grupo": "Grupo B",
+      "posicion": "25",
+      "jugadores": [
+        {
+          "nombre": "Konstantinos Chalkias",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Alexandros Tzorvas",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Michail Sifakis",
+          "posicion": "Arquero",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Giourkas Seitaridis",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Christos Patsatzoglou",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Nikos Spiropoulos",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Vangelis Moras",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Avraam Papadopoulos",
+          "posicion": "Defensor",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Loukas Vyntra",
+          "posicion": "Defensor",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Vasileios Torosidis",
+          "posicion": "Defensor",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Sotirios Kyrgiakos",
+          "posicion": "Defensor",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Sokratis Papastathopoulos",
+          "posicion": "Defensor",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Stelios Malezas",
+          "posicion": "Defensor",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Alexandros Tziolis",
+          "posicion": "Mediocampista",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Georgios Karagounis",
+          "posicion": "Mediocampista",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Sotiris Ninis",
+          "posicion": "Mediocampista",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Konstantinos Katsouranis",
+          "posicion": "Mediocampista",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Athanasios Prittas",
+          "posicion": "Mediocampista",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Georgios Samaras",
+          "posicion": "Delantero",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Angelos Charisteas",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Dimitrios Salpingidis",
+          "posicion": "Delantero",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Theofanis Gekas",
+          "posicion": "Delantero",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Pantelis Kapetanos",
+          "posicion": "Delantero",
+          "dorsal": "20"
+        }
+      ]
+    },
+    {
+      "pais": "Inglaterra",
+      "grupo": "Grupo C",
+      "posicion": "13",
+      "jugadores": [
+        {
+          "nombre": "David James",
+          "posicion": "Arquero",
+          "dorsal": "22  13 y 1"
+        },
+        {
+          "nombre": "Robert Green",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Joe Hart",
+          "posicion": "Arquero",
+          "dorsal": "23 y 1"
+        },
+        {
+          "nombre": "Glen Johnson",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Ashley Cole",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Rio Ferdinand",
+          "posicion": "Defensor",
+          "dorsal": "21 y 5"
+        },
+        {
+          "nombre": "John Terry",
+          "posicion": "Defensor",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Stephen Warnock",
+          "posicion": "Defensor",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Matt Upson",
+          "posicion": "Defensor",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Jamie Carragher",
+          "posicion": "Defensor",
+          "dorsal": "15 y 18"
+        },
+        {
+          "nombre": "Ledley King",
+          "posicion": "Defensor",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Steven Gerrard",
+          "posicion": "Mediocampista",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Aaron Lennon",
+          "posicion": "Mediocampista",
+          "dorsal": "19 y 7"
+        },
+        {
+          "nombre": "Frank Lampard",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Joe Cole",
+          "posicion": "Mediocampista",
+          "dorsal": "19 y 11"
+        },
+        {
+          "nombre": "Gareth Barry",
+          "posicion": "Mediocampista",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "James Milner",
+          "posicion": "Mediocampista",
+          "dorsal": "16 y 17"
+        },
+        {
+          "nombre": "Shaun Wright-Phillips",
+          "posicion": "Mediocampista",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Michael Carrick",
+          "posicion": "Mediocampista",
+          "dorsal": "18 y 22"
+        },
+        {
+          "nombre": "Peter Crouch",
+          "posicion": "Delantero",
+          "dorsal": "21 y 9"
+        },
+        {
+          "nombre": "Wayne Rooney",
+          "posicion": "Delantero",
+          "dorsal": "9 y 10"
+        },
+        {
+          "nombre": "Jermain Defoe",
+          "posicion": "Delantero",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Emile Heskey",
+          "posicion": "Delantero",
+          "dorsal": "11 y 21"
+        }
+      ]
+    },
+    {
+      "pais": "Estados Unidos",
+      "grupo": "Grupo C",
+      "posicion": "12",
+      "jugadores": [
+        {
+          "nombre": "Tim Howard",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Brad Guzan",
+          "posicion": "Arquero",
+          "dorsal": "18 y 12"
+        },
+        {
+          "nombre": "Marcus Hahnemann",
+          "posicion": "Arquero",
+          "dorsal": "19 y 23"
+        },
+        {
+          "nombre": "Jonathan Spector",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Carlos Bocanegra",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Oguchi Onyewu",
+          "posicion": "Defensor",
+          "dorsal": "22 y 5"
+        },
+        {
+          "nombre": "Steve Cherundolo",
+          "posicion": "Defensor",
+          "dorsal": "14 y 6"
+        },
+        {
+          "nombre": "Jonathan Bornstein",
+          "posicion": "Defensor",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Jay Demerit",
+          "posicion": "Defensor",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Clarence Goodson",
+          "posicion": "Defensor",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Michael Bradley",
+          "posicion": "Mediocampista",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "DaMarcus Beasley",
+          "posicion": "Mediocampista",
+          "dorsal": "17 y 7"
+        },
+        {
+          "nombre": "Clint Dempsey",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Landon Donovan",
+          "posicion": "Mediocampista",
+          "dorsal": "21 y 10"
+        },
+        {
+          "nombre": "Stuart Holden",
+          "posicion": "Mediocampista",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Ricardo Clark",
+          "posicion": "Mediocampista",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Francisco Torres",
+          "posicion": "Mediocampista",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Maurice Edu",
+          "posicion": "Mediocampista",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Benny Feilhaber",
+          "posicion": "Mediocampista",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Herculez Gomez",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Edson Buddle",
+          "posicion": "Delantero",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Jozy Altidore",
+          "posicion": "Delantero",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Robbie Findley",
+          "posicion": "Delantero",
+          "dorsal": "20"
+        }
+      ]
+    },
+    {
+      "pais": "Argelia",
+      "grupo": "Grupo C",
+      "posicion": "28",
+      "jugadores": [
+        {
+          "nombre": "Lounes Gaouaoui",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Faouzi Chaouchi",
+          "posicion": "Arquero",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Madjid Bougherra",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Nadir Belhadj",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Anther Yahia",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Rafik Halliche",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Habib Bellaid",
+          "posicion": "Defensor",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Abdelkader Laifaoui",
+          "posicion": "Defensor",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Carl Medjani",
+          "posicion": "Defensor",
+          "dorsal": "18 y 12"
+        },
+        {
+          "nombre": "Djamel Mesbah",
+          "posicion": "Defensor",
+          "dorsal": "20 y 6"
+        },
+        {
+          "nombre": "Yazid Mansouri",
+          "posicion": "Mediocampista",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Ryad Boudebouz",
+          "posicion": "Mediocampista",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Medhi Lacen",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Karim Matmour",
+          "posicion": "Mediocampista",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Karim Ziani",
+          "posicion": "Mediocampista",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Adlane Guedioura",
+          "posicion": "Mediocampista",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Hassan Yebda",
+          "posicion": "Mediocampista",
+          "dorsal": "19 y 7"
+        },
+        {
+          "nombre": "Foued Kadir",
+          "posicion": "Mediocampista",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Djamal Abdoun",
+          "posicion": "Mediocampista",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Abdelkader Ghezzal",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Rafik Saifi",
+          "posicion": "Delantero",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Rafik Djebbour",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        }
+      ]
+    },
+    {
+      "pais": "Eslovenia",
+      "grupo": "Grupo C",
+      "posicion": "18",
+      "jugadores": [
+        {
+          "nombre": "Samir Handanovic",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Jasmin Handanovic",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Aleksander Seliga",
+          "posicion": "Arquero",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Miso Brecko",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Elvedin Dzinic",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Marko Suler",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Bostjan Cesar",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Branko Ilic",
+          "posicion": "Defensor",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Bojan Jokic",
+          "posicion": "Defensor",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Suad Filekovic",
+          "posicion": "Defensor",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Matej Mavric",
+          "posicion": "Defensor",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Robert Koren",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Valter Birsa",
+          "posicion": "Mediocampista",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Rene Krhin",
+          "posicion": "Mediocampista",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Andraz Kirm",
+          "posicion": "Mediocampista",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Aleksandar Radosavljevic",
+          "posicion": "Mediocampista",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Andrej Komac",
+          "posicion": "Mediocampista",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Dalibor Stevanovic",
+          "posicion": "Mediocampista",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Nejc Pecnik",
+          "posicion": "Delantero",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Zlatan Ljubijankic",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Milivoje Novakovic",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Zlatko Dedic",
+          "posicion": "Delantero",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Tim Matavz",
+          "posicion": "Delantero",
+          "dorsal": "23"
+        }
+      ]
+    },
+    {
+      "pais": "Alemania",
+      "grupo": "Grupo D",
+      "posicion": "3",
+      "jugadores": [
+        {
+          "nombre": "Manuel Neuer",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Tim Wiese",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Hans-Joerg Butt",
+          "posicion": "Arquero",
+          "dorsal": "23 y 22"
+        },
+        {
+          "nombre": "Arne Friedrich",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Dennis Aogo",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Serdar Tasci",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Holger Badstuber",
+          "posicion": "Defensor",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Philipp Lahm",
+          "posicion": "Defensor",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Per Mertesacker",
+          "posicion": "Defensor",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "J\u00e9r\u00f4me Boateng",
+          "posicion": "Defensor",
+          "dorsal": "20 y 17"
+        },
+        {
+          "nombre": "Marcell Jansen",
+          "posicion": "Defensor  Mediocampista",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Sami Khedira",
+          "posicion": "Mediocampista",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Bastian Schweinsteiger",
+          "posicion": "Mediocampista",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Mesut Ozil",
+          "posicion": "Mediocampista",
+          "dorsal": "8 y 10"
+        },
+        {
+          "nombre": "Thomas Mueller",
+          "posicion": "Delantero  Mediocampista",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Piotr Trochowski",
+          "posicion": "Mediocampista",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Toni Kroos",
+          "posicion": "Mediocampista",
+          "dorsal": "18 y 8"
+        },
+        {
+          "nombre": "Marko Marin",
+          "posicion": "Mediocampista",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Stefan Kiessling",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Lukas Podolski",
+          "posicion": "Delantero",
+          "dorsal": "20 y 10"
+        },
+        {
+          "nombre": "Miroslav Klose",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Cacau",
+          "posicion": "Delantero",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Mario Gomez",
+          "posicion": "Delantero",
+          "dorsal": "23"
+        }
+      ]
+    },
+    {
+      "pais": "Australia",
+      "grupo": "Grupo D",
+      "posicion": "21",
+      "jugadores": [
+        {
+          "nombre": "Mark Schwarzer",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Adam Federici",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Brad Jones",
+          "posicion": "Arquero",
+          "dorsal": "18 y 12"
+        },
+        {
+          "nombre": "Lucas Neill",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Craig Moore",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Michael Beauchamp",
+          "posicion": "Defensor",
+          "dorsal": "16 y 6"
+        },
+        {
+          "nombre": "Luke Wilkshire",
+          "posicion": "Defensor  Mediocampista",
+          "dorsal": "20 y 8"
+        },
+        {
+          "nombre": "Scott Chipperfield",
+          "posicion": "Defensor",
+          "dorsal": "14 y 11"
+        },
+        {
+          "nombre": "Mark Milligan",
+          "posicion": "Mediocampista",
+          "dorsal": "22  20 y 5"
+        },
+        {
+          "nombre": "David Carney",
+          "posicion": "Defensor",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Jason Culina",
+          "posicion": "Mediocampista",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Brett Emerton",
+          "posicion": "Mediocampista",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Vince Grella",
+          "posicion": "Mediocampista",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Mile Jedinak",
+          "posicion": "Mediocampista",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Carl Valeri",
+          "posicion": "Mediocampista",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Dario Vidosic",
+          "posicion": "Mediocampista",
+          "dorsal": "22 y 20"
+        },
+        {
+          "nombre": "Tim Cahill",
+          "posicion": "Delantero  Mediocampista",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Joshua Kennedy",
+          "posicion": "Delantero",
+          "dorsal": "19 y 9"
+        },
+        {
+          "nombre": "Harry Kewell",
+          "posicion": "Delantero",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Brett Holman",
+          "posicion": "Delantero",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Nikita Rukavytsya",
+          "posicion": "Delantero",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Richard Garcia",
+          "posicion": "Delantero",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Mark Bresciano",
+          "posicion": "Delantero  Mediocampista",
+          "dorsal": "23"
+        }
+      ]
+    },
+    {
+      "pais": "Serbia",
+      "grupo": "Grupo D",
+      "posicion": "23",
+      "jugadores": [
+        {
+          "nombre": "Vladimir Stojkovic",
+          "posicion": "Arquero",
+          "dorsal": "23 y 1"
+        },
+        {
+          "nombre": "Bojan Isailovic",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Andjelko Djuricic",
+          "posicion": "Arquero",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Antonio Rukavina",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Aleksandar Kolarov",
+          "posicion": "Defensor",
+          "dorsal": "3 y 11"
+        },
+        {
+          "nombre": "Nemanja Vidic",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Branislav Ivanovic",
+          "posicion": "Defensor",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Aleksandar Lukovic",
+          "posicion": "Defensor",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Ivan Obradovic",
+          "posicion": "Defensor",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Neven Subotic",
+          "posicion": "Defensor",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Gojko Kacar",
+          "posicion": "Mediocampista",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Zoran Tosic",
+          "posicion": "Mediocampista",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Dejan Stankovic",
+          "posicion": "Mediocampista",
+          "dorsal": "20 y 10"
+        },
+        {
+          "nombre": "Nenad Milijas",
+          "posicion": "Mediocampista",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Milan Jovanovic",
+          "posicion": "Mediocampista",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Milos Krasic",
+          "posicion": "Mediocampista",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Milos Ninkovic",
+          "posicion": "Mediocampista",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Radosav Petrovic",
+          "posicion": "Mediocampista",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Zdravko Kuzmanovic",
+          "posicion": "Mediocampista",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Danko Lazovic",
+          "posicion": "Delantero",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Marko Pantelic",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Nikola Zigic",
+          "posicion": "Delantero",
+          "dorsal": "19 y 15"
+        },
+        {
+          "nombre": "Dragan Mrdja",
+          "posicion": "Delantero",
+          "dorsal": "21"
+        }
+      ]
+    },
+    {
+      "pais": "Ghana",
+      "grupo": "Grupo D",
+      "posicion": "7",
+      "jugadores": [
+        {
+          "nombre": "Daniel Agyei",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Stephen Ahorlu",
+          "posicion": "Arquero",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Richard Kingson",
+          "posicion": "Arquero",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Hans Sarpei",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "John Pantsil",
+          "posicion": "Defensor",
+          "dorsal": "15 y 4"
+        },
+        {
+          "nombre": "John Mensah",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Samuel Inkoom",
+          "posicion": "Defensor",
+          "dorsal": "7 y 2"
+        },
+        {
+          "nombre": "Jonathan Mensah",
+          "posicion": "Defensor",
+          "dorsal": "8 y 19"
+        },
+        {
+          "nombre": "Isaac Vorsah",
+          "posicion": "Defensor",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Ibrahim Ayew",
+          "posicion": "Defensor",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Lee Addy",
+          "posicion": "Defensor",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Anthony Annan",
+          "posicion": "Mediocampista",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Derek Boateng",
+          "posicion": "Mediocampista",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Stephen Appiah",
+          "posicion": "Mediocampista",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Sulley Muntari",
+          "posicion": "Mediocampista",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Andre Ayew",
+          "posicion": "Mediocampista",
+          "dorsal": "13 y 10"
+        },
+        {
+          "nombre": "Kwadwo Asamoah",
+          "posicion": "Mediocampista",
+          "dorsal": "21 y 20"
+        },
+        {
+          "nombre": "Asamoah Gyan",
+          "posicion": "Delantero",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Prince Tagoe",
+          "posicion": "Delantero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Matthew Amoah",
+          "posicion": "Delantero",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Dominic Adiyiah",
+          "posicion": "Delantero",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Quincy Owusu-Abeyie",
+          "posicion": "Delantero",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Kevin Prince Boateng",
+          "posicion": "Delantero",
+          "dorsal": "23 y 9"
+        }
+      ]
+    },
+    {
+      "pais": "Holanda",
+      "grupo": "Grupo E",
+      "posicion": "2",
+      "jugadores": [
+        {
+          "nombre": "Maarten Stekelenburg",
+          "posicion": "Arquero",
+          "dorsal": "23 y 1"
+        },
+        {
+          "nombre": "Michel Vorm",
+          "posicion": "Arquero",
+          "dorsal": "16 y 22"
+        },
+        {
+          "nombre": "Sander Boschker",
+          "posicion": "Arquero",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Gregory Van Der Wiel",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "John Heitinga",
+          "posicion": "Defensor",
+          "dorsal": "14 y 3"
+        },
+        {
+          "nombre": "Joris Mathijsen",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Giovanni Van Bronckhorst",
+          "posicion": "Defensor  Mediocampista",
+          "dorsal": "19 y 5"
+        },
+        {
+          "nombre": "Khalid Boulahrouz",
+          "posicion": "Defensor",
+          "dorsal": "3 y 12"
+        },
+        {
+          "nombre": "Andre Ooijer",
+          "posicion": "Defensor",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Edson Braafheid",
+          "posicion": "Defensor",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Mark Van Bommel",
+          "posicion": "Mediocampista",
+          "dorsal": "18 y 6"
+        },
+        {
+          "nombre": "Nigel De Jong",
+          "posicion": "Mediocampista",
+          "dorsal": "8 y 6"
+        },
+        {
+          "nombre": "Wesley Sneijder",
+          "posicion": "Mediocampista",
+          "dorsal": "20 y 10"
+        },
+        {
+          "nombre": "Demy De Zeeuw",
+          "posicion": "Mediocampista",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Stijn Schaars",
+          "posicion": "Mediocampista",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Ibrahim Afellay",
+          "posicion": "Mediocampista",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Rafael Van Der Vaart",
+          "posicion": "Mediocampista",
+          "dorsal": "10 y 23"
+        },
+        {
+          "nombre": "Dirk Kuyt",
+          "posicion": "Delantero",
+          "dorsal": "7 y 15"
+        },
+        {
+          "nombre": "Robin Van Persie",
+          "posicion": "Delantero",
+          "dorsal": "17 y 9"
+        },
+        {
+          "nombre": "Arjen Robben",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Eljero Elia",
+          "posicion": "Delantero",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Ryan Babel",
+          "posicion": "Delantero",
+          "dorsal": "21 y 19"
+        },
+        {
+          "nombre": "Klaas Jan Huntelaar",
+          "posicion": "Delantero",
+          "dorsal": "21 y 19"
+        }
+      ]
+    },
+    {
+      "pais": "Dinamarca",
+      "grupo": "Grupo E",
+      "posicion": "24",
+      "jugadores": [
+        {
+          "nombre": "Thomas Sorensen",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Stephan Andersen",
+          "posicion": "Arquero",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Jesper Christiansen",
+          "posicion": "Arquero",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Simon Kjaer",
+          "posicion": "Defensor",
+          "dorsal": "3 y 4"
+        },
+        {
+          "nombre": "Daniel Agger",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Lars Jacobsen",
+          "posicion": "Defensor",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Per Kroldrup",
+          "posicion": "Defensor",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Simon Poulsen",
+          "posicion": "Defensor",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Patrick Mtiliga",
+          "posicion": "Defensor",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Christian Poulsen",
+          "posicion": "Mediocampista",
+          "dorsal": "17 y 2"
+        },
+        {
+          "nombre": "William Kvist",
+          "posicion": "Mediocampista",
+          "dorsal": "5 y 7"
+        },
+        {
+          "nombre": "Daniel Jensen",
+          "posicion": "Mediocampista",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Martin Jorgensen",
+          "posicion": "Delantero  Mediocampista",
+          "dorsal": "21 y 10"
+        },
+        {
+          "nombre": "Thomas Kahlenberg",
+          "posicion": "Mediocampista",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Jakob Poulsen",
+          "posicion": "Mediocampista",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Thomas Enevoldsen",
+          "posicion": "Mediocampista",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Christian Eriksen",
+          "posicion": "Mediocampista",
+          "dorsal": "21 y 10"
+        },
+        {
+          "nombre": "Jesper Gronkjaer",
+          "posicion": "Delantero",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Jon Dahl Tomasson",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Nicklas Bendtner",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Mikkel Beckmann",
+          "posicion": "Delantero",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Soren Larsen",
+          "posicion": "Delantero",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Dennis Rommedahl",
+          "posicion": "Delantero",
+          "dorsal": "19"
+        }
+      ]
+    },
+    {
+      "pais": "Jap\u00f3n",
+      "grupo": "Grupo E",
+      "posicion": "9",
+      "jugadores": [
+        {
+          "nombre": "Seigo Narazaki",
+          "posicion": "Arquero",
+          "dorsal": "21  12 y 1"
+        },
+        {
+          "nombre": "Eiji Kawashima",
+          "posicion": "Arquero",
+          "dorsal": "21 y 1"
+        },
+        {
+          "nombre": "Yoshikatsu Kawaguchi",
+          "posicion": "Arquero",
+          "dorsal": "20  1 y 23"
+        },
+        {
+          "nombre": "Yuichi Komano",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Marcus Tulio Tanaka",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Yuto Nagatomo",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Atsuto Uchida",
+          "posicion": "Defensor",
+          "dorsal": "6 y 2"
+        },
+        {
+          "nombre": "Daiki Iwamasa",
+          "posicion": "Defensor",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Yasuyuki Konno",
+          "posicion": "Defensor",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Yuji Nakazawa",
+          "posicion": "Defensor",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Yuki Abe",
+          "posicion": "Mediocampista",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Yasuhito Endo",
+          "posicion": "Mediocampista",
+          "dorsal": "4 y 7"
+        },
+        {
+          "nombre": "Daisuke Matsui",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Shunsuke Nakamura",
+          "posicion": "Mediocampista",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Kengo Nakamura",
+          "posicion": "Mediocampista",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Makoto Hasebe",
+          "posicion": "Mediocampista",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Keisuke Honda",
+          "posicion": "Mediocampista",
+          "dorsal": "18 y 4"
+        },
+        {
+          "nombre": "Junichi Inamoto",
+          "posicion": "Mediocampista",
+          "dorsal": "5  17 y 20"
+        },
+        {
+          "nombre": "Shinji Okazaki",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Keiji Tamada",
+          "posicion": "Delantero",
+          "dorsal": "20 y 11"
+        },
+        {
+          "nombre": "Kisho Yano",
+          "posicion": "Delantero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Yoshito Okubo",
+          "posicion": "Delantero",
+          "dorsal": "16 y 13"
+        },
+        {
+          "nombre": "Takayuki Morimoto",
+          "posicion": "Delantero",
+          "dorsal": "19"
+        }
+      ]
+    },
+    {
+      "pais": "Camer\u00fan",
+      "grupo": "Grupo E",
+      "posicion": "31",
+      "jugadores": [
+        {
+          "nombre": "Idriss Kameni",
+          "posicion": "Arquero",
+          "dorsal": "22 y 1"
+        },
+        {
+          "nombre": "Souleymanou Hamidou",
+          "posicion": "Arquero",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Guy Ndy",
+          "posicion": "Arquero",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Benoit Assou-Ekotto",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Rigobert Song",
+          "posicion": "Defensor",
+          "dorsal": "3 y 4"
+        },
+        {
+          "nombre": "Sebastien Bassong",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Geremi",
+          "posicion": "Defensor",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Gaetan Bong",
+          "posicion": "Defensor",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Aurelien Chedjou",
+          "posicion": "Defensor",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Stephane Mbia",
+          "posicion": "Defensor",
+          "dorsal": "19 y 17"
+        },
+        {
+          "nombre": "Alexandre Song",
+          "posicion": "Mediocampista",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Jean Makoun",
+          "posicion": "Mediocampista",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Eyong Enoh",
+          "posicion": "Mediocampista",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Georges Mandjeck",
+          "posicion": "Mediocampista",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Joel Matip",
+          "posicion": "Mediocampista",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Achille Emana",
+          "posicion": "Delantero",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Eric Choupo Moting",
+          "posicion": "Delantero",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Pierre Webo",
+          "posicion": "Delantero",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Mohamadou Idrissou",
+          "posicion": "Delantero",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Vincent Aboubakar",
+          "posicion": "Delantero",
+          "dorsal": "23 y 10"
+        }
+      ]
+    },
+    {
+      "pais": "Italia",
+      "grupo": "Grupo F",
+      "posicion": "26",
+      "jugadores": [
+        {
+          "nombre": "Gianluigi Buffon",
+          "posicion": "Arquero",
+          "dorsal": "22 y 1"
+        },
+        {
+          "nombre": "Federico Marchetti",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Morgan De Sanctis",
+          "posicion": "Arquero",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Christian Maggio",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Domenico Criscito",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Giorgio Chiellini",
+          "posicion": "Defensor",
+          "dorsal": "4 y 3"
+        },
+        {
+          "nombre": "Fabio Cannavaro",
+          "posicion": "Defensor",
+          "dorsal": "4 y 5"
+        },
+        {
+          "nombre": "Salvatore Bocchetti",
+          "posicion": "Defensor",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Gianluca Zambrotta",
+          "posicion": "Defensor  Mediocampista",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Leonardo Bonucci",
+          "posicion": "Defensor",
+          "dorsal": "23 y 19"
+        },
+        {
+          "nombre": "Daniele De Rossi",
+          "posicion": "Mediocampista",
+          "dorsal": "4  6 y 16"
+        },
+        {
+          "nombre": "Simone Pepe",
+          "posicion": "Mediocampista",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Gennaro Gattuso",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Claudio Marchisio",
+          "posicion": "Mediocampista",
+          "dorsal": "15 y 8"
+        },
+        {
+          "nombre": "Mauro Camoranesi",
+          "posicion": "Mediocampista",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Angelo Palombo",
+          "posicion": "Mediocampista",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Andrea Pirlo",
+          "posicion": "Mediocampista",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Riccardo Montolivo",
+          "posicion": "Mediocampista",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Vincenzo Iaquinta",
+          "posicion": "Delantero",
+          "dorsal": "15 y 9"
+        },
+        {
+          "nombre": "Antonio Di Natale",
+          "posicion": "Delantero",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Alberto Gilardino",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Fabio Quagliarella",
+          "posicion": "Delantero",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Giampaolo Pazzini",
+          "posicion": "Delantero",
+          "dorsal": "20"
+        }
+      ]
+    },
+    {
+      "pais": "Paraguay",
+      "grupo": "Grupo F",
+      "posicion": "8",
+      "jugadores": [
+        {
+          "nombre": "Justo Villar",
+          "posicion": "Arquero",
+          "dorsal": "12 y 1"
+        },
+        {
+          "nombre": "Diego Barreto",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Aldo Bobadilla",
+          "posicion": "Arquero",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Dario Veron",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Claudio Morel",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Denis Caniza",
+          "posicion": "Defensor",
+          "dorsal": "20  21 y 4"
+        },
+        {
+          "nombre": "Julio Cesar Caceres",
+          "posicion": "Defensor",
+          "dorsal": "18 y 5"
+        },
+        {
+          "nombre": "Paulo Da Silva",
+          "posicion": "Defensor",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Aureliano Torres",
+          "posicion": "Defensor",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Antolin Alcaraz",
+          "posicion": "Defensor",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Carlos Bonet",
+          "posicion": "Mediocampista",
+          "dorsal": "15 y 6"
+        },
+        {
+          "nombre": "Edgar Barreto",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Jonathan Santana",
+          "posicion": "Mediocampista",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Enrique Vera",
+          "posicion": "Mediocampista",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Victor Caceres",
+          "posicion": "Mediocampista",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Cristian Riveros",
+          "posicion": "Mediocampista",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Nestor Ortigoza",
+          "posicion": "Mediocampista",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Oscar Cardozo",
+          "posicion": "Delantero",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Roque Santa Cruz",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Edgar Benitez",
+          "posicion": "Delantero",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Nelson Valdez",
+          "posicion": "Delantero",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Lucas Barrios",
+          "posicion": "Delantero",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Rodolfo Gamarra",
+          "posicion": "Delantero",
+          "dorsal": "23"
+        }
+      ]
+    },
+    {
+      "pais": "Nueva Zelanda",
+      "grupo": "Grupo F",
+      "posicion": "22",
+      "jugadores": [
+        {
+          "nombre": "Mark Paston",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Glen Moss",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "James Bannatyne",
+          "posicion": "Arquero",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Ben Sigmund",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Tony Lochhead",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Winston Reid",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Ivan Vicelich",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Ryan Nelsen",
+          "posicion": "Defensor",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Andy Boyens",
+          "posicion": "Defensor",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Tommy Smith",
+          "posicion": "Defensor",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Simon Elliott",
+          "posicion": "Mediocampista",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Tim Brown",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Leo Bertos",
+          "posicion": "Mediocampista",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Andy Barron",
+          "posicion": "Mediocampista",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Michael Mcglinchey",
+          "posicion": "Mediocampista",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Aaron Clapham",
+          "posicion": "Mediocampista",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Dave Mulligan",
+          "posicion": "Mediocampista",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Jeremy Christie",
+          "posicion": "Mediocampista",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Shane Smeltz",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Chris Killen",
+          "posicion": "Delantero",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Rory Fallon",
+          "posicion": "Delantero",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Chris Wood",
+          "posicion": "Delantero",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Jeremy Brockie",
+          "posicion": "Delantero",
+          "dorsal": "22"
+        }
+      ]
+    },
+    {
+      "pais": "Eslovaquia",
+      "grupo": "Grupo F",
+      "posicion": "16",
+      "jugadores": [
+        {
+          "nombre": "Jan Mucha",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Dusan Pernis",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Dusan Kuciak",
+          "posicion": "Arquero",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Peter Pekarik",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Martin Skrtel",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Marek Cech",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Radoslav Zabavnik",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Jan Durica",
+          "posicion": "Defensor",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Kornel Salata",
+          "posicion": "Defensor",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Martin Petras",
+          "posicion": "Defensor",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Zdenko Strba",
+          "posicion": "Mediocampista",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Vladimir Weiss",
+          "posicion": "Mediocampista",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Jan Kozak",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Marek Sapara",
+          "posicion": "Mediocampista",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Miroslav Stoch",
+          "posicion": "Mediocampista",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Marek Hamsik",
+          "posicion": "Mediocampista",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Juraj Kucka",
+          "posicion": "Mediocampista",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Kamil Kopunek",
+          "posicion": "Mediocampista",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Stanislav Sestak",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Robert Vittek",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Filip Holosko",
+          "posicion": "Delantero",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Martin Jakubko",
+          "posicion": "Delantero",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Erik Jendrisek",
+          "posicion": "Delantero",
+          "dorsal": "18"
+        }
+      ]
+    },
+    {
+      "pais": "Costa de Marfil",
+      "grupo": "Grupo G",
+      "posicion": "17",
+      "jugadores": [
+        {
+          "nombre": "Boubacar Barry",
+          "posicion": "Arquero",
+          "dorsal": "23 y 1"
+        },
+        {
+          "nombre": "Aristide Zogbo",
+          "posicion": "Arquero",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Daniel Yeboah",
+          "posicion": "Arquero",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Brou Angoua",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Arthur Boka",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Kolo Toure",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Steve Gohouri",
+          "posicion": "Defensor",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Siaka Tiene",
+          "posicion": "Defensor",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Guy Demel",
+          "posicion": "Defensor  Mediocampista",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Emmanuel Eboue",
+          "posicion": "Defensor",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Souleymane Bamba",
+          "posicion": "Defensor",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Didier Zokora",
+          "posicion": "Mediocampista",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Ismael Tiote",
+          "posicion": "Mediocampista",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Jean Jacques Gosso",
+          "posicion": "Mediocampista",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Romaric",
+          "posicion": "Mediocampista",
+          "dorsal": "22 y 13"
+        },
+        {
+          "nombre": "Emmanuel Kone",
+          "posicion": "Mediocampista",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Yaya Toure",
+          "posicion": "Mediocampista",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Seydou Doumbia",
+          "posicion": "Delantero",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Salomon Kalou",
+          "posicion": "Delantero",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Gervinho",
+          "posicion": "Delantero",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Didier Drogba",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Aruna Dindane",
+          "posicion": "Delantero",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Kader Keita",
+          "posicion": "Delantero  Mediocampista",
+          "dorsal": "18"
+        }
+      ]
+    },
+    {
+      "pais": "Portugal",
+      "grupo": "Grupo G",
+      "posicion": "11",
+      "jugadores": [
+        {
+          "nombre": "Eduardo",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Beto",
+          "posicion": "Arquero",
+          "dorsal": "12 y 22"
+        },
+        {
+          "nombre": "Daniel Fernandes",
+          "posicion": "Arquero",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Bruno Alves",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Paulo Ferreira",
+          "posicion": "Defensor",
+          "dorsal": "2 y 3"
+        },
+        {
+          "nombre": "Rolando",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Duda",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Ricardo Carvalho",
+          "posicion": "Defensor",
+          "dorsal": "16 y 6"
+        },
+        {
+          "nombre": "Miguel",
+          "posicion": "Defensor",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Ricardo Costa",
+          "posicion": "Defensor",
+          "dorsal": "4  21 y 13"
+        },
+        {
+          "nombre": "Fabio Coentrao",
+          "posicion": "Defensor",
+          "dorsal": "23 y 5"
+        },
+        {
+          "nombre": "Pedro Mendes",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Miguel Veloso",
+          "posicion": "Mediocampista",
+          "dorsal": "14 y 4"
+        },
+        {
+          "nombre": "Pepe",
+          "posicion": "Delantero",
+          "dorsal": "22 y 11"
+        },
+        {
+          "nombre": "Raul Meireles",
+          "posicion": "Mediocampista",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Ruben Amorim",
+          "posicion": "Mediocampista",
+          "dorsal": "17 y 20"
+        },
+        {
+          "nombre": "Tiago",
+          "posicion": "Mediocampista",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Deco",
+          "posicion": "Mediocampista",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Cristiano Ronaldo",
+          "posicion": "Delantero",
+          "dorsal": "17 y 7"
+        },
+        {
+          "nombre": "Liedson",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Danny",
+          "posicion": "Delantero",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Simao",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Hugo Almeida",
+          "posicion": "Delantero",
+          "dorsal": "18 y 9"
+        }
+      ]
+    },
+    {
+      "pais": "Brasil",
+      "grupo": "Grupo G",
+      "posicion": "6",
+      "jugadores": [
+        {
+          "nombre": "Julio Cesar",
+          "posicion": "Arquero",
+          "dorsal": "22  1 y 12"
+        },
+        {
+          "nombre": "Gomes",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Doni",
+          "posicion": "Arquero",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Maicon",
+          "posicion": "Defensor",
+          "dorsal": "2 y 23"
+        },
+        {
+          "nombre": "Lucio",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Juan",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Michel Bastos",
+          "posicion": "Defensor",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Dani Alves",
+          "posicion": "Defensor",
+          "dorsal": "13 y 2"
+        },
+        {
+          "nombre": "Luisao",
+          "posicion": "Defensor",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Thiago Silva",
+          "posicion": "Defensor",
+          "dorsal": "15  3 y 2"
+        },
+        {
+          "nombre": "Gilberto Melo",
+          "posicion": "Defensor",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Felipe Melo",
+          "posicion": "Mediocampista",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Elano",
+          "posicion": "Mediocampista",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Gilberto Silva",
+          "posicion": "Mediocampista",
+          "dorsal": "8 y 17"
+        },
+        {
+          "nombre": "Kaka",
+          "posicion": "Delantero  Mediocampista",
+          "dorsal": "23  8 y 10"
+        },
+        {
+          "nombre": "Josue",
+          "posicion": "Mediocampista",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Ramires",
+          "posicion": "Mediocampista",
+          "dorsal": "18 y 16"
+        },
+        {
+          "nombre": "Julio Baptista",
+          "posicion": "Mediocampista",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Kleberson",
+          "posicion": "Mediocampista",
+          "dorsal": "15 y 20"
+        },
+        {
+          "nombre": "Luis Fabiano",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Robinho",
+          "posicion": "Delantero",
+          "dorsal": "23 y 11"
+        },
+        {
+          "nombre": "Nilmar",
+          "posicion": "Delantero",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Grafite",
+          "posicion": "Delantero",
+          "dorsal": "23"
+        }
+      ]
+    },
+    {
+      "pais": "Corea del Norte",
+      "grupo": "Grupo G",
+      "posicion": "32",
+      "jugadores": [
+        {
+          "nombre": "Myong Guk Ri",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Myong Gil Kim",
+          "posicion": "Arquero",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Myong Won Kim",
+          "posicion": "Arquero",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Jong Hyok Cha",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Jun Il Ri",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Kwang Chon Ri",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Yun Nam Ji",
+          "posicion": "Defensor",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Chol Jin Pak",
+          "posicion": "Defensor",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Nam Chol Pak",
+          "posicion": "Mediocampista",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Song Chol Nam",
+          "posicion": "Defensor",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Kwang Hyok Ri",
+          "posicion": "Defensor",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Nam Chol Pak",
+          "posicion": "Mediocampista",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Kum Il Kim",
+          "posicion": "Mediocampista",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "In Guk Mun",
+          "posicion": "Mediocampista",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Yong Jun Kim",
+          "posicion": "Mediocampista",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Yong Hak An",
+          "posicion": "Mediocampista",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Chol Myong Ri",
+          "posicion": "Mediocampista",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Kyong Il Kim",
+          "posicion": "Mediocampista",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Sung Hyok Pak",
+          "posicion": "Mediocampista",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Chol Hyok An",
+          "posicion": "Delantero",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Tae Se Jong",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Yong Jo Hong",
+          "posicion": "Delantero",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Kum Chol Choe",
+          "posicion": "Delantero",
+          "dorsal": "12"
+        }
+      ]
+    },
+    {
+      "pais": "Honduras",
+      "grupo": "Grupo H",
+      "posicion": "30",
+      "jugadores": [
+        {
+          "nombre": "Ricardo Canales",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Noel Valladares",
+          "posicion": "Arquero",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Donis Escober",
+          "posicion": "Arquero",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Osman Chavez",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Maynor Figueroa",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Johnny Palacios",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Victor Bernardez",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Oscar Boniek Garcia",
+          "posicion": "Defensor",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Mauricio Sabillon",
+          "posicion": "Defensor",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Emilio Izaguirre",
+          "posicion": "Defensor",
+          "dorsal": "21 y 7"
+        },
+        {
+          "nombre": "Sergio Mendoza",
+          "posicion": "Defensor",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Hendry Thomas",
+          "posicion": "Mediocampista",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Ramon Nunez",
+          "posicion": "Mediocampista",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Wilson Palacios",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Edgar Alvarez",
+          "posicion": "Mediocampista",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Danilo Turcios",
+          "posicion": "Mediocampista",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Amado Guevara",
+          "posicion": "Mediocampista",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Carlos Pavon",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Jerry Palacios",
+          "posicion": "Delantero",
+          "dorsal": "10 y 9"
+        },
+        {
+          "nombre": "David Suazo",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "George Welcome",
+          "posicion": "Delantero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Roger Espinoza",
+          "posicion": "Delantero",
+          "dorsal": "13 y 15"
+        },
+        {
+          "nombre": "Walter Martinez",
+          "posicion": "Delantero",
+          "dorsal": "15"
+        }
+      ]
+    },
+    {
+      "pais": "Chile",
+      "grupo": "Grupo H",
+      "posicion": "10",
+      "jugadores": [
+        {
+          "nombre": "Claudio Bravo",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Miguel Pinto",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Luis Marin",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Ismael Fuentes",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Waldo Ponce",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Mauricio Isla",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Pablo Contreras",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Gary Medel",
+          "posicion": "Defensor",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Gonzalo Jara",
+          "posicion": "Defensor",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Carlos Carmona",
+          "posicion": "Mediocampista",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Arturo Vidal",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Jorge Valdivia",
+          "posicion": "Mediocampista",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Marco Estrada",
+          "posicion": "Mediocampista",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Matias Fernandez",
+          "posicion": "Mediocampista",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Gonzalo Fierro",
+          "posicion": "Mediocampista",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Rodrigo Millar",
+          "posicion": "Mediocampista",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Rodrigo Tello",
+          "posicion": "Mediocampista",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Alexis Sanchez",
+          "posicion": "Delantero",
+          "dorsal": "7"
+        },
+        {
+          "nombre": "Humberto Suazo",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Mark Gonzalez",
+          "posicion": "Delantero",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Jean Beausejour",
+          "posicion": "Delantero",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Fabian Orellana",
+          "posicion": "Delantero",
+          "dorsal": "16 y 14"
+        },
+        {
+          "nombre": "Esteban Paredes",
+          "posicion": "Delantero",
+          "dorsal": "22"
+        }
+      ]
+    },
+    {
+      "pais": "Espa\u00f1a",
+      "grupo": "Grupo H",
+      "posicion": "1",
+      "jugadores": [
+        {
+          "nombre": "Iker Casillas",
+          "posicion": "Arquero",
+          "dorsal": "1"
+        },
+        {
+          "nombre": "Victor Valdes",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Pepe Reina",
+          "posicion": "Arquero",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Raul Albiol",
+          "posicion": "Defensor",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Gerard Piqu\u00e9",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Carlos Marchena",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Carles Puyol",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Joan Capdevila",
+          "posicion": "Defensor",
+          "dorsal": "11"
+        },
+        {
+          "nombre": "Sergio Ramos",
+          "posicion": "Defensor",
+          "dorsal": "15"
+        },
+        {
+          "nombre": "Alvaro Arbeloa",
+          "posicion": "Defensor",
+          "dorsal": "17"
+        },
+        {
+          "nombre": "Andr\u00e9s Iniesta",
+          "posicion": "Mediocampista",
+          "dorsal": "13 y 6"
+        },
+        {
+          "nombre": "Xavi",
+          "posicion": "Mediocampista",
+          "dorsal": "19 y 8"
+        },
+        {
+          "nombre": "Cesc Fabregas",
+          "posicion": "Mediocampista",
+          "dorsal": "18 y 10"
+        },
+        {
+          "nombre": "Xabi Alonso",
+          "posicion": "Mediocampista",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Sergio Busquets",
+          "posicion": "Mediocampista",
+          "dorsal": "16 y 5"
+        },
+        {
+          "nombre": "Javi Martinez",
+          "posicion": "Mediocampista",
+          "dorsal": "20 y 4"
+        },
+        {
+          "nombre": "David Silva",
+          "posicion": "Mediocampista",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "David Villa",
+          "posicion": "Delantero",
+          "dorsal": "21 y 7"
+        },
+        {
+          "nombre": "Fernando Torres",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Juan Mata",
+          "posicion": "Delantero",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Pedro",
+          "posicion": "Delantero",
+          "dorsal": "18 y 11"
+        },
+        {
+          "nombre": "Fernando Llorente",
+          "posicion": "Delantero",
+          "dorsal": "19"
+        },
+        {
+          "nombre": "Jesus Navas",
+          "posicion": "Delantero",
+          "dorsal": "22"
+        }
+      ]
+    },
+    {
+      "pais": "Suiza",
+      "grupo": "Grupo H",
+      "posicion": "19",
+      "jugadores": [
+        {
+          "nombre": "Diego Benaglio",
+          "posicion": "Arquero",
+          "dorsal": "12 y 1"
+        },
+        {
+          "nombre": "Marco Woelfli",
+          "posicion": "Arquero",
+          "dorsal": "12"
+        },
+        {
+          "nombre": "Johnny Leoni",
+          "posicion": "Arquero",
+          "dorsal": "21"
+        },
+        {
+          "nombre": "Stephan Lichtsteiner",
+          "posicion": "Defensor  Mediocampista",
+          "dorsal": "2"
+        },
+        {
+          "nombre": "Ludovic Magnin",
+          "posicion": "Defensor",
+          "dorsal": "3"
+        },
+        {
+          "nombre": "Philippe Senderos",
+          "posicion": "Defensor",
+          "dorsal": "4"
+        },
+        {
+          "nombre": "Steve Von Bergen",
+          "posicion": "Defensor",
+          "dorsal": "5"
+        },
+        {
+          "nombre": "Stephane Grichting",
+          "posicion": "Defensor",
+          "dorsal": "13"
+        },
+        {
+          "nombre": "Reto Ziegler",
+          "posicion": "Defensor",
+          "dorsal": "17 y 3"
+        },
+        {
+          "nombre": "Mario Eggimann",
+          "posicion": "Defensor",
+          "dorsal": "22"
+        },
+        {
+          "nombre": "Benjamin Huggel",
+          "posicion": "Mediocampista",
+          "dorsal": "6"
+        },
+        {
+          "nombre": "Tranquillo Barnetta",
+          "posicion": "Mediocampista",
+          "dorsal": "16 y 7"
+        },
+        {
+          "nombre": "Gokhan Inler",
+          "posicion": "Mediocampista",
+          "dorsal": "8"
+        },
+        {
+          "nombre": "Valon Behrami",
+          "posicion": "Mediocampista",
+          "dorsal": "19 y 11"
+        },
+        {
+          "nombre": "Marco Padalino",
+          "posicion": "Mediocampista",
+          "dorsal": "14"
+        },
+        {
+          "nombre": "Hakan Yakin",
+          "posicion": "Mediocampista",
+          "dorsal": "22 y 15"
+        },
+        {
+          "nombre": "Gelson Fernandes",
+          "posicion": "Mediocampista",
+          "dorsal": "16"
+        },
+        {
+          "nombre": "Pirmin Schwegler",
+          "posicion": "Mediocampista",
+          "dorsal": "20"
+        },
+        {
+          "nombre": "Xherdan Shaqiri",
+          "posicion": "Mediocampista",
+          "dorsal": "23"
+        },
+        {
+          "nombre": "Alexander Frei",
+          "posicion": "Delantero",
+          "dorsal": "9"
+        },
+        {
+          "nombre": "Blaise Nkufo",
+          "posicion": "Delantero",
+          "dorsal": "10"
+        },
+        {
+          "nombre": "Albert Bunjaku",
+          "posicion": "Delantero",
+          "dorsal": "18"
+        },
+        {
+          "nombre": "Eren Derdiyok",
+          "posicion": "Delantero",
+          "dorsal": "19"
+        }
+      ]
+    }
+  ],
+  "partidos": [
+    {
+      "etapa": "1ra Ronda Grupo A",
+      "local": "Sud\u00e1frica",
+      "visitante": "M\u00e9xico",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "fecha": "2010-06-11"
+    },
+    {
+      "etapa": "1ra Ronda Grupo A",
+      "local": "Uruguay",
+      "visitante": "Francia",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "fecha": "2010-06-11"
+    },
+    {
+      "etapa": "1ra Ronda Grupo A",
+      "local": "Sud\u00e1frica",
+      "visitante": "Uruguay",
+      "goles_local": 0,
+      "goles_visitante": 3,
+      "fecha": "2010-06-16"
+    },
+    {
+      "etapa": "1ra Ronda Grupo A",
+      "local": "Francia",
+      "visitante": "M\u00e9xico",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "fecha": "2010-06-17"
+    },
+    {
+      "etapa": "1ra Ronda Grupo A",
+      "local": "M\u00e9xico",
+      "visitante": "Uruguay",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "fecha": "2010-06-22"
+    },
+    {
+      "etapa": "1ra Ronda Grupo A",
+      "local": "Francia",
+      "visitante": "Sud\u00e1frica",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "fecha": "2010-06-22"
+    },
+    {
+      "etapa": "1ra Ronda Grupo B",
+      "local": "Argentina",
+      "visitante": "Nigeria",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "fecha": "2010-06-12"
+    },
+    {
+      "etapa": "1ra Ronda Grupo B",
+      "local": "Corea del Sur",
+      "visitante": "Grecia",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "fecha": "2010-06-12"
+    },
+    {
+      "etapa": "1ra Ronda Grupo B",
+      "local": "Grecia",
+      "visitante": "Nigeria",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "fecha": "2010-06-17"
+    },
+    {
+      "etapa": "1ra Ronda Grupo B",
+      "local": "Argentina",
+      "visitante": "Corea del Sur",
+      "goles_local": 4,
+      "goles_visitante": 1,
+      "fecha": "2010-06-17"
+    },
+    {
+      "etapa": "1ra Ronda Grupo B",
+      "local": "Nigeria",
+      "visitante": "Corea del Sur",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "fecha": "2010-06-22"
+    },
+    {
+      "etapa": "1ra Ronda Grupo B",
+      "local": "Grecia",
+      "visitante": "Argentina",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "fecha": "2010-06-22"
+    },
+    {
+      "etapa": "1ra Ronda Grupo C",
+      "local": "Inglaterra",
+      "visitante": "Estados Unidos",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "fecha": "2010-06-12"
+    },
+    {
+      "etapa": "1ra Ronda Grupo C",
+      "local": "Argelia",
+      "visitante": "Eslovenia",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "fecha": "2010-06-13"
+    },
+    {
+      "etapa": "1ra Ronda Grupo C",
+      "local": "Eslovenia",
+      "visitante": "Estados Unidos",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "fecha": "2010-06-18"
+    },
+    {
+      "etapa": "1ra Ronda Grupo C",
+      "local": "Inglaterra",
+      "visitante": "Argelia",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "fecha": "2010-06-18"
+    },
+    {
+      "etapa": "1ra Ronda Grupo C",
+      "local": "Eslovenia",
+      "visitante": "Inglaterra",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "fecha": "2010-06-23"
+    },
+    {
+      "etapa": "1ra Ronda Grupo C",
+      "local": "Estados Unidos",
+      "visitante": "Argelia",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "fecha": "2010-06-23"
+    },
+    {
+      "etapa": "1ra Ronda Grupo D",
+      "local": "Alemania",
+      "visitante": "Australia",
+      "goles_local": 4,
+      "goles_visitante": 0,
+      "fecha": "2010-06-13"
+    },
+    {
+      "etapa": "1ra Ronda Grupo D",
+      "local": "Serbia",
+      "visitante": "Ghana",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "fecha": "2010-06-13"
+    },
+    {
+      "etapa": "1ra Ronda Grupo D",
+      "local": "Alemania",
+      "visitante": "Serbia",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "fecha": "2010-06-18"
+    },
+    {
+      "etapa": "1ra Ronda Grupo D",
+      "local": "Ghana",
+      "visitante": "Australia",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "fecha": "2010-06-19"
+    },
+    {
+      "etapa": "1ra Ronda Grupo D",
+      "local": "Ghana",
+      "visitante": "Alemania",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "fecha": "2010-06-23"
+    },
+    {
+      "etapa": "1ra Ronda Grupo D",
+      "local": "Australia",
+      "visitante": "Serbia",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "fecha": "2010-06-23"
+    },
+    {
+      "etapa": "1ra Ronda Grupo E",
+      "local": "Holanda",
+      "visitante": "Dinamarca",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "fecha": "2010-06-14"
+    },
+    {
+      "etapa": "1ra Ronda Grupo E",
+      "local": "Jap\u00f3n",
+      "visitante": "Camer\u00fan",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "fecha": "2010-06-14"
+    },
+    {
+      "etapa": "1ra Ronda Grupo E",
+      "local": "Holanda",
+      "visitante": "Jap\u00f3n",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "fecha": "2010-06-19"
+    },
+    {
+      "etapa": "1ra Ronda Grupo E",
+      "local": "Camer\u00fan",
+      "visitante": "Dinamarca",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "fecha": "2010-06-19"
+    },
+    {
+      "etapa": "1ra Ronda Grupo E",
+      "local": "Dinamarca",
+      "visitante": "Jap\u00f3n",
+      "goles_local": 1,
+      "goles_visitante": 3,
+      "fecha": "2010-06-24"
+    },
+    {
+      "etapa": "1ra Ronda Grupo E",
+      "local": "Camer\u00fan",
+      "visitante": "Holanda",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "fecha": "2010-06-24"
+    },
+    {
+      "etapa": "1ra Ronda Grupo F",
+      "local": "Italia",
+      "visitante": "Paraguay",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "fecha": "2010-06-14"
+    },
+    {
+      "etapa": "1ra Ronda Grupo F",
+      "local": "Nueva Zelanda",
+      "visitante": "Eslovaquia",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "fecha": "2010-06-15"
+    },
+    {
+      "etapa": "1ra Ronda Grupo F",
+      "local": "Eslovaquia",
+      "visitante": "Paraguay",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "fecha": "2010-06-20"
+    },
+    {
+      "etapa": "1ra Ronda Grupo F",
+      "local": "Italia",
+      "visitante": "Nueva Zelanda",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "fecha": "2010-06-20"
+    },
+    {
+      "etapa": "1ra Ronda Grupo F",
+      "local": "Eslovaquia",
+      "visitante": "Italia",
+      "goles_local": 3,
+      "goles_visitante": 2,
+      "fecha": "2010-06-24"
+    },
+    {
+      "etapa": "1ra Ronda Grupo F",
+      "local": "Paraguay",
+      "visitante": "Nueva Zelanda",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "fecha": "2010-06-24"
+    },
+    {
+      "etapa": "1ra Ronda Grupo G",
+      "local": "Costa de Marfil",
+      "visitante": "Portugal",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "fecha": "2010-06-15"
+    },
+    {
+      "etapa": "1ra Ronda Grupo G",
+      "local": "Brasil",
+      "visitante": "Corea del Norte",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "fecha": "2010-06-15"
+    },
+    {
+      "etapa": "1ra Ronda Grupo G",
+      "local": "Brasil",
+      "visitante": "Costa de Marfil",
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "fecha": "2010-06-20"
+    },
+    {
+      "etapa": "1ra Ronda Grupo G",
+      "local": "Portugal",
+      "visitante": "Corea del Norte",
+      "goles_local": 7,
+      "goles_visitante": 0,
+      "fecha": "2010-06-21"
+    },
+    {
+      "etapa": "1ra Ronda Grupo G",
+      "local": "Portugal",
+      "visitante": "Brasil",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "fecha": "2010-06-25"
+    },
+    {
+      "etapa": "1ra Ronda Grupo G",
+      "local": "Corea del Norte",
+      "visitante": "Costa de Marfil",
+      "goles_local": 0,
+      "goles_visitante": 3,
+      "fecha": "2010-06-25"
+    },
+    {
+      "etapa": "1ra Ronda Grupo H",
+      "local": "Honduras",
+      "visitante": "Chile",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "fecha": "2010-06-16"
+    },
+    {
+      "etapa": "1ra Ronda Grupo H",
+      "local": "Espa\u00f1a",
+      "visitante": "Suiza",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "fecha": "2010-06-16"
+    },
+    {
+      "etapa": "1ra Ronda Grupo H",
+      "local": "Chile",
+      "visitante": "Suiza",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "fecha": "2010-06-21"
+    },
+    {
+      "etapa": "1ra Ronda Grupo H",
+      "local": "Espa\u00f1a",
+      "visitante": "Honduras",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "fecha": "2010-06-21"
+    },
+    {
+      "etapa": "1ra Ronda Grupo H",
+      "local": "Chile",
+      "visitante": "Espa\u00f1a",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "fecha": "2010-06-25"
+    },
+    {
+      "etapa": "1ra Ronda Grupo H",
+      "local": "Suiza",
+      "visitante": "Honduras",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "fecha": "2010-06-25"
+    },
+    {
+      "etapa": "Octavos",
+      "local": "Uruguay",
+      "visitante": "Corea del Sur",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "fecha": "2010-06-26"
+    },
+    {
+      "etapa": "Octavos",
+      "local": "Estados Unidos",
+      "visitante": "Ghana",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "fecha": "2010-06-26"
+    },
+    {
+      "etapa": "Octavos",
+      "local": "Alemania",
+      "visitante": "Inglaterra",
+      "goles_local": 4,
+      "goles_visitante": 1,
+      "fecha": "2010-06-27"
+    },
+    {
+      "etapa": "Octavos",
+      "local": "Argentina",
+      "visitante": "M\u00e9xico",
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "fecha": "2010-06-27"
+    },
+    {
+      "etapa": "Octavos",
+      "local": "Holanda",
+      "visitante": "Eslovaquia",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "fecha": "2010-06-28"
+    },
+    {
+      "etapa": "Octavos",
+      "local": "Brasil",
+      "visitante": "Chile",
+      "goles_local": 3,
+      "goles_visitante": 0,
+      "fecha": "2010-06-28"
+    },
+    {
+      "etapa": "Octavos",
+      "local": "Paraguay",
+      "visitante": "Jap\u00f3n",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "fecha": "2010-06-29"
+    },
+    {
+      "etapa": "Octavos",
+      "local": "Espa\u00f1a",
+      "visitante": "Portugal",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "fecha": "2010-06-29"
+    },
+    {
+      "etapa": "Cuartos",
+      "local": "Holanda",
+      "visitante": "Brasil",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "fecha": "2010-07-02"
+    },
+    {
+      "etapa": "Cuartos",
+      "local": "Uruguay",
+      "visitante": "Ghana",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "fecha": "2010-07-02"
+    },
+    {
+      "etapa": "Cuartos",
+      "local": "Argentina",
+      "visitante": "Alemania",
+      "goles_local": 0,
+      "goles_visitante": 4,
+      "fecha": "2010-07-03"
+    },
+    {
+      "etapa": "Cuartos",
+      "local": "Paraguay",
+      "visitante": "Espa\u00f1a",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "fecha": "2010-07-03"
+    },
+    {
+      "etapa": "Semis",
+      "local": "Uruguay",
+      "visitante": "Holanda",
+      "goles_local": 2,
+      "goles_visitante": 3,
+      "fecha": "2010-07-06"
+    },
+    {
+      "etapa": "Semis",
+      "local": "Alemania",
+      "visitante": "Espa\u00f1a",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "fecha": "2010-07-07"
+    },
+    {
+      "etapa": "3er Puesto",
+      "local": "Uruguay",
+      "visitante": "Alemania",
+      "goles_local": 2,
+      "goles_visitante": 3,
+      "fecha": "2010-07-10"
+    },
+    {
+      "etapa": "Final",
+      "local": "Holanda",
+      "visitante": "Espa\u00f1a",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "fecha": "2010-07-11"
+    }
+  ],
+  "premios": [
+    {
+      "nombre": "FIFA Fair Play",
+      "ganador": "Espa\u00f1a"
+    },
+    {
+      "nombre": "Bal\u00f3n de Oro",
+      "ganador": "Diego Forlan"
+    },
+    {
+      "nombre": "Bal\u00f3n de Plata",
+      "ganador": "Wesley Sneijder"
+    },
+    {
+      "nombre": "Bal\u00f3n de Bronce",
+      "ganador": "David Villa"
+    },
+    {
+      "nombre": "Bot\u00edn de Oro",
+      "ganador": "Thomas Mueller"
+    },
+    {
+      "nombre": "Bot\u00edn de Plata",
+      "ganador": "David Villa"
+    },
+    {
+      "nombre": "Bot\u00edn de Bronce",
+      "ganador": "Wesley Sneijder"
+    },
+    {
+      "nombre": "Guante de Oro",
+      "ganador": "Iker Casillas"
+    },
+    {
+      "nombre": "Mejor Jugador Joven",
+      "ganador": "Thomas Mueller"
+    },
+    {
+      "nombre": "Mejor Jugador Joven",
+      "ganador": "Iker Casillas"
+    },
+    {
+      "nombre": "Equipo Ideal",
+      "ganador": "Iker Casillas"
+    },
+    {
+      "nombre": "Equipo Ideal",
+      "ganador": "Philipp Lahm"
+    },
+    {
+      "nombre": "Equipo Ideal",
+      "ganador": "Maicon"
+    },
+    {
+      "nombre": "Equipo Ideal",
+      "ganador": "Carles Puyol"
+    },
+    {
+      "nombre": "Equipo Ideal",
+      "ganador": "Sergio Ramos"
+    },
+    {
+      "nombre": "Equipo Ideal",
+      "ganador": "Andr\u00e9s Iniesta"
+    },
+    {
+      "nombre": "Equipo Ideal",
+      "ganador": "Bastian Schweinsteiger"
+    },
+    {
+      "nombre": "Equipo Ideal",
+      "ganador": "Wesley Sneijder"
+    },
+    {
+      "nombre": "Equipo Ideal",
+      "ganador": "Xavi"
+    },
+    {
+      "nombre": "Equipo Ideal",
+      "ganador": "Diego Forlan"
+    },
+    {
+      "nombre": "Equipo Ideal",
+      "ganador": "David Villa"
+    }
+  ],
+  "goleadores": [
+    {
+      "jugador": "Diego Forlan",
+      "goles": 5
+    },
+    {
+      "jugador": "Thomas Mueller",
+      "goles": 5
+    },
+    {
+      "jugador": "Wesley Sneijder",
+      "goles": 5
+    },
+    {
+      "jugador": "David Villa",
+      "goles": 5
+    },
+    {
+      "jugador": "Gonzalo Higuain",
+      "goles": 4
+    },
+    {
+      "jugador": "Miroslav Klose",
+      "goles": 4
+    },
+    {
+      "jugador": "Robert Vittek",
+      "goles": 4
+    },
+    {
+      "jugador": "Landon Donovan",
+      "goles": 3
+    },
+    {
+      "jugador": "Asamoah Gyan",
+      "goles": 3
+    },
+    {
+      "jugador": "Luis Fabiano",
+      "goles": 3
+    },
+    {
+      "jugador": "Luis Suarez",
+      "goles": 3
+    },
+    {
+      "jugador": "Elano",
+      "goles": 2
+    },
+    {
+      "jugador": "Javier Hernandez",
+      "goles": 2
+    },
+    {
+      "jugador": "Brett Holman",
+      "goles": 2
+    },
+    {
+      "jugador": "Keisuke Honda",
+      "goles": 2
+    },
+    {
+      "jugador": "Andr\u00e9s Iniesta",
+      "goles": 2
+    },
+    {
+      "jugador": "Chung-yong Lee",
+      "goles": 2
+    },
+    {
+      "jugador": "Jung Soo Lee",
+      "goles": 2
+    },
+    {
+      "jugador": "Lukas Podolski",
+      "goles": 2
+    },
+    {
+      "jugador": "Arjen Robben",
+      "goles": 2
+    },
+    {
+      "jugador": "Robinho",
+      "goles": 2
+    },
+    {
+      "jugador": "Carlos Tevez",
+      "goles": 2
+    },
+    {
+      "jugador": "Tiago",
+      "goles": 2
+    },
+    {
+      "jugador": "Kalu Uche",
+      "goles": 2
+    },
+    {
+      "jugador": "Yakubu Aiyegbeni",
+      "goles": 1
+    },
+    {
+      "jugador": "Antolin Alcaraz",
+      "goles": 1
+    },
+    {
+      "jugador": "Hugo Almeida",
+      "goles": 1
+    },
+    {
+      "jugador": "Jean Beausejour",
+      "goles": 1
+    },
+    {
+      "jugador": "Nicklas Bendtner",
+      "goles": 1
+    },
+    {
+      "jugador": "Valter Birsa",
+      "goles": 1
+    },
+    {
+      "jugador": "Cuauhtemoc Blanco",
+      "goles": 1
+    },
+    {
+      "jugador": "Kevin Prince Boateng",
+      "goles": 1
+    },
+    {
+      "jugador": "Michael Bradley",
+      "goles": 1
+    },
+    {
+      "jugador": "Cacau",
+      "goles": 1
+    },
+    {
+      "jugador": "Tim Cahill",
+      "goles": 1
+    },
+    {
+      "jugador": "Edinson Cavani",
+      "goles": 1
+    },
+    {
+      "jugador": "Cristiano Ronaldo",
+      "goles": 1
+    },
+    {
+      "jugador": "Daniele De Rossi",
+      "goles": 1
+    },
+    {
+      "jugador": "Jermain Defoe",
+      "goles": 1
+    },
+    {
+      "jugador": "Martin Demichelis",
+      "goles": 1
+    },
+    {
+      "jugador": "Clint Dempsey",
+      "goles": 1
+    },
+    {
+      "jugador": "Antonio Di Natale",
+      "goles": 1
+    },
+    {
+      "jugador": "Didier Drogba",
+      "goles": 1
+    },
+    {
+      "jugador": "Yasuhito Endo",
+      "goles": 1
+    },
+    {
+      "jugador": "Gelson Fernandes",
+      "goles": 1
+    },
+    {
+      "jugador": "Arne Friedrich",
+      "goles": 1
+    },
+    {
+      "jugador": "Steven Gerrard",
+      "goles": 1
+    },
+    {
+      "jugador": "Mark Gonzalez",
+      "goles": 1
+    },
+    {
+      "jugador": "Gabriel Heinze",
+      "goles": 1
+    },
+    {
+      "jugador": "Klaas Jan Huntelaar",
+      "goles": 1
+    },
+    {
+      "jugador": "Vincenzo Iaquinta",
+      "goles": 1
+    },
+    {
+      "jugador": "Marcell Jansen",
+      "goles": 1
+    },
+    {
+      "jugador": "Yun Nam Ji",
+      "goles": 1
+    },
+    {
+      "jugador": "Milan Jovanovic",
+      "goles": 1
+    },
+    {
+      "jugador": "Juan",
+      "goles": 1
+    },
+    {
+      "jugador": "Salomon Kalou",
+      "goles": 1
+    },
+    {
+      "jugador": "Sami Khedira",
+      "goles": 1
+    },
+    {
+      "jugador": "Bongani Khumalo",
+      "goles": 1
+    },
+    {
+      "jugador": "Kamil Kopunek",
+      "goles": 1
+    },
+    {
+      "jugador": "Robert Koren",
+      "goles": 1
+    },
+    {
+      "jugador": "Dirk Kuyt",
+      "goles": 1
+    },
+    {
+      "jugador": "Liedson",
+      "goles": 1
+    },
+    {
+      "jugador": "Zlatan Ljubijankic",
+      "goles": 1
+    },
+    {
+      "jugador": "Maicon",
+      "goles": 1
+    },
+    {
+      "jugador": "Florent Malouda",
+      "goles": 1
+    },
+    {
+      "jugador": "Rafael Marquez",
+      "goles": 1
+    },
+    {
+      "jugador": "Raul Meireles",
+      "goles": 1
+    },
+    {
+      "jugador": "Rodrigo Millar",
+      "goles": 1
+    },
+    {
+      "jugador": "Katlego Mphela",
+      "goles": 1
+    },
+    {
+      "jugador": "Sulley Muntari",
+      "goles": 1
+    },
+    {
+      "jugador": "Shinji Okazaki",
+      "goles": 1
+    },
+    {
+      "jugador": "Mesut Ozil",
+      "goles": 1
+    },
+    {
+      "jugador": "Martin Palermo",
+      "goles": 1
+    },
+    {
+      "jugador": "Marko Pantelic",
+      "goles": 1
+    },
+    {
+      "jugador": "Chu Young Park",
+      "goles": 1
+    },
+    {
+      "jugador": "Ji Sung Park",
+      "goles": 1
+    },
+    {
+      "jugador": "Alvaro Pereira",
+      "goles": 1
+    },
+    {
+      "jugador": "Maximiliano Pereira",
+      "goles": 1
+    },
+    {
+      "jugador": "Carles Puyol",
+      "goles": 1
+    },
+    {
+      "jugador": "Fabio Quagliarella",
+      "goles": 1
+    },
+    {
+      "jugador": "Winston Reid",
+      "goles": 1
+    },
+    {
+      "jugador": "Cristian Riveros",
+      "goles": 1
+    },
+    {
+      "jugador": "Romaric",
+      "goles": 1
+    },
+    {
+      "jugador": "Dennis Rommedahl",
+      "goles": 1
+    },
+    {
+      "jugador": "Dimitrios Salpingidis",
+      "goles": 1
+    },
+    {
+      "jugador": "Simao",
+      "goles": 1
+    },
+    {
+      "jugador": "Shane Smeltz",
+      "goles": 1
+    },
+    {
+      "jugador": "Jon Dahl Tomasson",
+      "goles": 1
+    },
+    {
+      "jugador": "Vasileios Torosidis",
+      "goles": 1
+    },
+    {
+      "jugador": "Yaya Toure",
+      "goles": 1
+    },
+    {
+      "jugador": "Siphiwe Tshabalala",
+      "goles": 1
+    },
+    {
+      "jugador": "Matt Upson",
+      "goles": 1
+    },
+    {
+      "jugador": "Giovanni Van Bronckhorst",
+      "goles": 1
+    },
+    {
+      "jugador": "Robin Van Persie",
+      "goles": 1
+    },
+    {
+      "jugador": "Enrique Vera",
+      "goles": 1
+    }
+  ]
+}

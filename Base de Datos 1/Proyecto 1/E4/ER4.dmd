@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ER4" id="B24B2F88-045D-F8BA-A824-3C69BA04B008" version="3.5">
+<createdBy>aldoh</createdBy>
+<createdTime>2020-12-12 17:49:46 UTC</createdTime>
+<ownerDesignName>ER4</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>B24B2F88-045D-F8BA-A824-3C69BA04B008</designId>
+</OSDM_Design>

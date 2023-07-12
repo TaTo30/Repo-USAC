@@ -1,0 +1,113 @@
+{
+    "mundiales": [
+        {
+            "organizador": "Sudáfrica",
+            "goles": 127,
+            "promedio_gol": 2.27,
+            "año": 2010,
+            "selecciones": [
+                {
+                    "pais": "Argentina",
+                    "grupo": "Grupo B",
+                    "posicion": 4,
+                    "jugadores": [
+                        {
+                            "nombre": "Diego Pozo",
+                            "posicion": "Arquero",
+                            "dorsal": 1
+                        }
+                    ]
+                }
+            ],
+            "premios": [
+                {
+                    "nombre": "FIFA Fair Play",
+                    "ganador": "España"
+                }
+            ],
+            "goleadores": [
+                {
+                    "jugador": "Diego Pozo",
+                    "goles": 21
+                }
+            ],
+            "partidos": [
+                {
+                    "etapa": "1ra Ronda Grupo A",
+                    "local": "Sudafrica",
+                    "visitante": "Mexico",
+                    "goles_local": 1,
+                    "goles_visitante": 1,
+                    "fecha": "dd/mm/YYYY"
+                }
+            ]
+        }
+    ],
+    "jugadores": [
+        {
+            "nombre": "Cristiano Ronaldo",
+            "fecha_nacimiento": "1985-02-5",
+            "lugar_nacimiento": "Funcha...",
+            "posicion": "Delantero",
+            "dorsales": "17 y 7",
+            "altura": 1.85,
+            "sitio_web": "http://..",
+            "apodo": "Bichoooooo",
+            "nacionalidad": "portugesa",
+            "premios": [
+                {
+                    "mundial": 2018,
+                    "nombre":"FIFA Fair Play"
+                }
+            ],
+            "participaciones": [
+                {
+                    "mundial": 2018,
+                    "goles": 4,
+                    "partidos": [
+                        {
+                            "etapa":"1ra Ronda Grupo A",
+                            "fecha": "dd/mm/YYYY"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "paises": [
+        {
+            "nombre": "Argentina",
+            "sede": [2014, 1950],
+            "participaciones": [
+                {
+                    "mundial": 2010,
+                    "grupo": "Grupo B",
+                    "posicion": 6,
+                    "partidos": [
+                        {
+                            "etapa":"1ra Ronda Grupo A",
+                            "local": "Brasil",
+                            "visitante": "Mexico",
+                            "goles_local": 2,
+                            "goles_visitante": 1,
+                            "fecha": "dd/mm/YYYY"
+                        }
+                    ],
+                    "jugadores": [
+                        {
+                            "nombre":"Diego Pozo",
+                            "posicion": "Delantero",
+                            "dorsal": "1"
+                        }
+                    ]
+                }
+            ],
+            "premios": [
+                {
+                    "mundial": 2006,
+                    "nombre":"FIFA Fair Play"
+                }
+            ]
+        }
+    ]
+}

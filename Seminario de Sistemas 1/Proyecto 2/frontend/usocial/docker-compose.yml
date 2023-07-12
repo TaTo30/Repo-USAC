@@ -1,0 +1,35 @@
+version: '3.1'
+
+networks:
+  seminet:
+    ipam:
+      config:
+        - subnet: 10.0.0.0/24
+
+services:
+  api:
+    image: tato30/ss1-p2-api
+    restart: unless-stopped
+    environment:
+      - MONGO_URI=mongodb://18.216.211.144:27017/u-social-mongo
+      - USER_POOL=us-east-2_dUo242Q9Q
+      - CLIENT_ID=6on6n4q135uemafunj8fc5c591
+      - PORT=3300
+      - BUCKET_S3=semi1archivosg34
+      - BUCKET_URI=https://semi1archivosg34.s3.us-east-2.amazonaws.com/
+    networks:
+      seminet:
+        ipv4_address: 10.0.0.5  
+  
+  web:
+    image: tato30/ss1-p2-front
+    restart: unless-stopped
+    ports:
+      - 80:80
+    environment:
+      - API_URL=http://10.0.0.5:3300/
+      - AWS_API=https://5lif2pbxj8.execute-api.us-east-2.amazonaws.com/v1
+      - COVID_API=https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/ncov_cases2_v1/FeatureServer/2/query?outFields=Confirmed,Deaths,Incident_Rate,Mortality_Rate,Country_Region&returnGeometry=false&outSR=4326&f=json
+    networks:
+      seminet:
+        ipv4_address: 10.0.0.4 

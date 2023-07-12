@@ -1,0 +1,137 @@
+﻿<ConfigurationSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Database>
+    <DataSources>
+      <DataSource>
+        <ID>F2SS2_Linear</ID>
+        <ConnectionString>Data Source=localhost,10200;Initial Catalog=seminariodos201800585;Persist Security Info=True;User ID=;Password=</ConnectionString>
+        <ManagedProvider>System.Data.SqlClient</ManagedProvider>
+        <ImpersonationInfo>
+          <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">ImpersonateServiceAccount</ImpersonationMode>
+          <ImpersonationInfoSecurity xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">Unchanged</ImpersonationInfoSecurity>
+        </ImpersonationInfo>
+      </DataSource>
+      <DataSource>
+        <ID>Seminariodos201800585columnar</ID>
+        <ConnectionString>Provider=SQLNCLI11.1;Data Source=localhost,10200;Persist Security Info=True;Password=;User ID=;Initial Catalog=seminariodos201800585columnar</ConnectionString>
+        <ImpersonationInfo>
+          <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">ImpersonateServiceAccount</ImpersonationMode>
+          <ImpersonationInfoSecurity xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">Unchanged</ImpersonationInfoSecurity>
+        </ImpersonationInfo>
+      </DataSource>
+    </DataSources>
+    <Dimensions>
+      <Dimension>
+        <ID>Proveedor</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Producto</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Tiempo</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Sucursal</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Vendedor</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Cliente</ID>
+      </Dimension>
+      <Dimension>
+        <ID>LV_Producto</ID>
+      </Dimension>
+      <Dimension>
+        <ID>LV_Sucursal</ID>
+      </Dimension>
+      <Dimension>
+        <ID>LV_Tiempo</ID>
+      </Dimension>
+      <Dimension>
+        <ID>ProductoC</ID>
+      </Dimension>
+      <Dimension>
+        <ID>ProveedorC</ID>
+      </Dimension>
+      <Dimension>
+        <ID>SucursalC</ID>
+      </Dimension>
+      <Dimension>
+        <ID>TiempoC</ID>
+      </Dimension>
+      <Dimension>
+        <ID>ClienteC</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Vendedor 1</ID>
+      </Dimension>
+      <Dimension>
+        <ID>CV_Producto</ID>
+      </Dimension>
+      <Dimension>
+        <ID>CV_Sucursal</ID>
+      </Dimension>
+      <Dimension>
+        <ID>CV_Tiempo</ID>
+      </Dimension>
+    </Dimensions>
+    <Cubes>
+      <Cube>
+        <ID>CuboCompras_Linear</ID>
+        <MeasureGroups>
+          <MeasureGroup>
+            <ID>Fact Compras</ID>
+            <Partitions>
+              <Partition>
+                <ID>Fact Compras</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+        </MeasureGroups>
+      </Cube>
+      <Cube>
+        <ID>VistaVentas_Linear</ID>
+        <MeasureGroups>
+          <MeasureGroup>
+            <ID>Fact Ventas</ID>
+            <Partitions>
+              <Partition>
+                <ID>Fact Ventas</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+        </MeasureGroups>
+      </Cube>
+      <Cube>
+        <ID>CuboCompras_Columnar</ID>
+        <MeasureGroups>
+          <MeasureGroup>
+            <ID>Fact Compras</ID>
+            <Partitions>
+              <Partition>
+                <ID>Fact Compras</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+        </MeasureGroups>
+      </Cube>
+      <Cube>
+        <ID>CuboVentas_Columnar</ID>
+        <MeasureGroups>
+          <MeasureGroup>
+            <ID>Fact Ventas</ID>
+            <Partitions>
+              <Partition>
+                <ID>Fact Ventas</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+        </MeasureGroups>
+      </Cube>
+    </Cubes>
+    <DataSourceImpersonationInfo>
+      <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">Default</ImpersonationMode>
+      <ImpersonationInfoSecurity xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">Unchanged</ImpersonationInfoSecurity>
+    </DataSourceImpersonationInfo>
+  </Database>
+</ConfigurationSettings>

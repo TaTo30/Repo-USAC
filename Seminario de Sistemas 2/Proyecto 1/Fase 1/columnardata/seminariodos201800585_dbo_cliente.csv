@@ -1,0 +1,300 @@
+idCliente,codigo,nombre,tipo,direccion,numero
+1,C0001,Jose Arturo Bayardi Lozano,Minorista,"calzada atanasio tzul 22-00 zona 12, el cortijo ii, oficina 100",69555645
+2,C0002,Nora Alicia Annunziatto Martino,Mayorista,"avenida centroamerica 13-42 zona 1,",72863896
+3,C0003,Roberto Baz Cogo,Minorista,"13 calle 3-40 zona 10, edificio atlantis, nivel 12, oficina 1202,",52760274
+4,C0004,Maria Del Carmen Berois Quinteros,Mayorista,"calle los pinos 17-09 col san ignacio, z7",38886848
+5,C0005,Miguel Brechner Frey,Minorista,"2a. av 8-32 z 8 col panorama  san cristobal, ,",36053243
+6,C0006,Pablo Emiliano Alvarez Lopez,Mayorista,"8a. calle 2-60, zona 9, ,",79270545
+7,C0007,Pedro Emilio Buonomo De Leon,Mayorista,"6a. calle 5-47 zona 9, 1° nivel edificio vasil,",77515273
+8,C0008,Victor Barragan Caraballo,Mayorista,"4a. calle 18-59 zona 6,",65890035
+9,C0009,Ernesto Gabriel Beltrame Lemole,Minorista,"5a. calle 9-69 zona 7, quinta samayoa,",48495005
+10,C0010,Jose Antonio Alem Deaces,Mayorista,"7a. avenida 6-53 zona 4 edificio el triangulo, 4to nivel,",68141465
+11,C0011,Fernando Tomas Alvarez Alonzo,Mayorista,"""10 calle """"a"""" 8-13 zona 2, jardines de san jose, ,""",46876403
+12,C0013,Mirta Graciela Abreu Nunez ,Minorista,calzada aguilar batres  45-55 zona 12,34120047
+13,C0014,Haroldo Antonio Canoniero Marr,Minorista,"49 calle 24-37 zona 12, ,",27976383
+14,C0015,Mario Nelson Barbato Almandos,Minorista,"centro uno, la maquina, calle principal, lote 117, cuyotenango, suchitepequez",26811570
+15,C0016,Veronica Maria Alonso Montano,Mayorista,"kilometro 293 carretera ca-9 norte, ruta al atlantico,  de puerto barrios y  de isabal",59469132
+16,C0017,Inocencio Victor Bertoni Mendaro,Minorista,10a. avenida 15-24 zona 14,77189845
+17,C0018,Juan Atilio Tapia,Minorista,km. 15.6 carretera al pacifico,79029431
+18,C0019,Maria De Los Angeles Camilo  Moreno,Minorista,"2 ave 30-01 z12, col el carmen,",46516009
+19,C0020,Ana Carolina Alvez Hourcade,Mayorista,"5a. calle 4-71 zona 9,  y  de",27659285
+20,C0021,Gerardo E. Cabrera Rocha,Mayorista,"avenida reforma 13-70 edificio real reforma, zona 9,",68380575
+21,C0022,Niria Anastasia Suarez,Mayorista,"5a. calle poniente no. 20, antigua , sacatepequez",56350810
+22,C0023,Eduardo Ignacio Bandeira Castells,Mayorista,"2 calle 24-00 z15, vista hermosa 2, edif domani oficina 1105, nivle 11",54309353
+23,C0024,Silvia Raquel Cabrera Luzardo,Minorista,"""2 calle """"b"""" 10-80 zona 17, colonia lourdes,""",70946662
+24,C0025,Eva Myrian Alvez Vila,Mayorista,"avenida hincapie 14-71 zona 13,  y  de",57357441
+25,C0026,Ricardo Arigon Bachini,Mayorista,"1a. calle 2-48 zona 7, colonia jardinesde san juan,  de ,  de",39491952
+26,C0027,Jesus Bentancor Dodera,Minorista,"diagonal 6, 10-01 zona 10, edificio las margaritas torre 2, nivel 1101,",61186774
+27,C0028,Alba Esmeralda Bonino Peirano,Mayorista,"4a. calle 2-10. colinas de monte maria sur, zona 7",49646367
+28,C0029,Alvaro Bolivar Alvarez Fernandez,Mayorista,"19 avenida 16-56 zona 10, centro empresarial santa fe, bodega no 5,",59272203
+29,C0030,Juan Andres Canessa Franco,Mayorista,"3 ave 13.18 z9,",22762516
+30,C0031,Isabelino Wilson Bauer De Souza,Minorista,"calzada aguilar batres 5-24, zona 11,  y  de",22596310
+31,C0032,Maria Mercedes Antia Beherens,Minorista,"3 ave 13-18 z9,",63014083
+32,C0033,Pablo Hugo Barletta Aillaume,Minorista,"""6 calle """"a"""" 10-20 zona 7, colonia quinta samayoa,""",28973086
+33,C0034,Ricardo Carlos Berois Quinteros,Minorista,"carretera al mayan golf, kilómetro 18.5,",58634306
+34,C0035,Walter Enrique Bergara Santillano,Minorista,"km 19.5 carretera pavon, casa 198 jardines de arrazola, fraijanes",76492916
+35,C0036,Daniel Aldecosea Pedrozza,Mayorista,"12 calle 1-25 zona 10, edificio géminis 10, oficina 1203, torre norte",25313473
+36,C0037,Silvana Bello Suarez,Minorista,"7 avenida 16-27 zona 1,",70150438
+37,C0038,Andrea Brugman Pozzi,Mayorista,"25 avenida 4-84 zona 13, colonia cañadas del rio, san miguel petapa",62888093
+38,C0039,Jose Maria Burone Mendez,Minorista,"calazada san juan 13-20  zona 7,  y  de",42966443
+39,C0040,Esteban Raul Agustoni Rijo,Mayorista,"2 calle 4-08 z10,",43380462
+40,C0041,Jorge Gualberto Cabrera Lestegas,Minorista,14 avenida 3-35 zona 14,70875507
+41,C0042,Rodrigo Arocena Linn,Minorista,"calz aguilar batres 35-35 z12,",61479043
+42,C0043,María  Cristina Bidegain Lutz,Mayorista,"""8 avenida 3-90 zona 14 oficina 4""""b"""", edificio la rambla,""",52887405
+43,C0044,Nelson Eduardo Acosta Martinez,Minorista,"km 274, carretera hacia peten, el relleno rio dulce, livingston izabal",57216892
+44,C0045,Jose Alberto Balcaldi Tesauro,Minorista,"avenida las americas 18-81 zona 14, edificio columbus center nivel 11 sur",49589509
+45,C0046,Sandra Boragno Delfino,Minorista,"42 calle 18-70 zona 8,",63460163
+46,C0047,Adriana Balcarcel Nicoletti,Minorista,"3 avenida 17-52 zona 14,",35161895
+47,C0048,Manuel Burgos Lezama,Minorista,"21 calle 6-25 zona 1, 01001",37348672
+48,C0049,María  Cristina Cabrera Costa,Mayorista,"6a. avenida 0-60 zona 4, centro comercial torre profesional i, 7o. nivel, oficina 710, ,",58248065
+49,C0050,Gladys Bouzon Novelli,Mayorista,"1a. avenida 25-26 zona 3,",39035369
+50,C0051,Hector Ciceron Barrios Sanchez,Mayorista,"kilometro 1.50 calzada miguel garcia granados,  y  de",32307035
+51,C0052,Roni Lucas Bejerez Pereira Das Neves,Minorista,"2a. avenida 23-09 zona 14,  y  de",51891124
+52,C0053,Matilde Isabel Cairello Sosa,Mayorista,"15 avenida 19-25 zona 13,",46928030
+53,C0054,Enzo Benech Bounous,Mayorista,ave las americas 16.39 z14,62894282
+54,C0055,Gloria Del Carmen Benitez Garcia,Minorista,"23 calle 8-02 zona 16, san gaspar, residenciales el cafetal",26954013
+55,C0056,Gonzalo Balseiro Giglio,Mayorista,"10 avenida 33-40 colonia las charcas, zona 11,",62222872
+56,C0057,Alfredo Angel Asti Carli,Mayorista,"avenida las americas 12-34 zona 13,",75199889
+57,C0058,Ariel Cancela Vila,Minorista,"3a. avenida finca el zapote 28-75 zona 2,",49322401
+58,C0059,Hugo Ariel Amaral Rocca,Minorista,"13 calle 8-44 zona 10, edyma plaza oficina 501 5o nivel, ,",38604864
+59,C0060,Mauricio Danilo Caceres Carro,Minorista,"9a. avenida 00-06 zona 16 acatan, ,",27534361
+60,C0061,Jose Eduardo Aguilar Corbo,Mayorista,"16 calle 4-53 zona 10, edificio marbella nivel 7",71283929
+61,C0062,Sergio Artazu D`Apolito,Minorista,"ruta 6, 4-34, zona 4,",57758409
+62,C0063,Graciela Teresa Barcelona Campelo,Mayorista,"19 avenida 14-00, zona 7, condominio palos altos suites, apartamento 214, ,",67018228
+63,C0064,Veronica Alles Vedain,Mayorista,"5 avenida 2-50 zona 9,",78779881
+64,C0065,Maria Cristina Cantero Albrieux,Mayorista,"14 calle 12-52 zona 17, colegio de maestros,",41957861
+65,C0066,Silvia Arroyo Ferreiro,Minorista,"boulevard liberación 2-48 zona 13,",48563670
+66,C0067,Maria Del Carmen Alonso Rodriguez,Mayorista,"3a. avenida 12-32, zona 10, edificio paseo plaza, 6to nivel, oficina 604-605",36131583
+67,C0068,Ruben Anibal Bacigalupe Aunes,Mayorista,"3a. avenida 41-42 colonia monte maría, zona 12, bodega 102, ,",31948526
+68,C0069,Huberto Nilson Alvarez Samudio,Mayorista,"41 calle 8-69 zona 8,",59989140
+69,C0070,Jose Sebastian Arellano Ayala,Minorista,"""10a. avenida """"b"""" 7-63 zona 3, nueva monserrat,  de ,  de""",28563671
+70,C0071,Jose Bartolome Acosta Madera,Minorista,"6a. calle periferico sur 2-14 zona 8, coban, alta verapaz",41962159
+71,C0072,Mateo Daniel Arbulo Ferreira,Minorista,"5a. av. 28-78 z. 8, sector 2, residenciales boulevard sur,  san cristobal,  de ,  de",44482727
+72,C0073,Irupe Carmen Buzzetti Fraga,Minorista,"12 calle 14-30 zona 11 carabanchell,",54460634
+73,C0074,María  Patricia Borges Marini,Mayorista,"2a. avenida 3-42 zona 8, balcones de san cristobal, apartamento 4,  de , depto. de",38070990
+74,C0075,Rafael Enrique Brum Castro,Mayorista,7a. calle 3-21 zona 10,30667209
+75,C0076,Antonio Alvarez,Mayorista,"7a. avenida 8-44 zona 4, municpio y  de",50514919
+76,C0077,Ivonne Baldomir Felipez,Minorista,anillo periferico 17-36 zona 11,33514092
+77,C0078,Mario Isidro Bandera Perg,Mayorista,"2 avenida 10-30 zona 9,",35389691
+78,C0079,Adela Isabel Hounie Gonzalez,Minorista,"kilómetro 18.5 carretera a man golf club,",55770579
+79,C0080,Dora Bagdassarian Ketenyian,Mayorista,13 avenida 3-26 zona 1,49288036
+80,C0081,Miguel Medardo Asqueta Soloa ,Minorista,7a. avenida 13-63 residenciales atlántida zona 18,47216448
+81,C0082,Julia Susana Bella Grassi,Minorista,"30 avenida 4-87 zona 11,",22457557
+82,C0083,Luis Alberto Avellanal Suarez,Mayorista,"lote 55, monte maria, aldea el pajon, santa catarina pinula,",23858829
+83,C0084,Marcel David Bonnet Monnet,Minorista,"km 8 carret. a el salvador, centro corporativo muxbal, ofic. 1004, 10° nivel, torre oeste,  de santa catarina pinula",30993710
+84,C0085,Alejandro Bidegain,Mayorista,"kilometro 38 residenciales las victorias casa no. 4 sector 21, palin,",45093348
+85,C0086,Carlos Bueno Pereyra,Mayorista,"6a. calle a 38-70 zona 2, santa rita ii, ,",57617138
+86,C0087,Alvaro Martin Alza Sastre,Mayorista,"kilometro 18-5 carretera al mayan golf, ,",39321603
+87,C0088,Martha Vanda Acosta Pereira,Minorista,"3a. avenida 2-62 zona 9,  y  de",69902922
+88,C0089,Enrique Andres Antia Behrens,Minorista,"km. 16.5 carretera a el salvador, llanos de arrazola, lote 16",76304062
+89,C0090,Victor Bachmann,Mayorista,"11 calle 4-12 zona 4, monserrat,  de ,  de",59572585
+90,C0091,Juan Carlos Barreto Bentancor,Minorista,"kilometro 40 aldea pachaj,  de sumpango,  de sacatepéquez",33039308
+91,C0092,Luis Pablo Bonet Cabrera,Mayorista,"6 calle 4-25 zona 9,",76668874
+92,C0093,Carlos Debelqui Campos Silva,Minorista,"avenida petapa 23-01 zona 12,",40138083
+93,C0094,Oldemar Jacinto Avero Diverio,Mayorista,"aldea sajcavilla, sector 3 lote 214 la cumbre, san juan sacatepequez,",41127521
+94,C0095,Julio Roberto Cabral Barreto,Minorista,"""4a. avenida """"a"""" lote 15, manzana """"r"""", 17-94 zona 11, ,""",24150709
+95,C0096,Edgar Fitzgerald Cantero Piali,Minorista,"colonia los sauces no. 22 kilómetro 33.5 carretera al pacífico, palín,",68526880
+96,C0097,Elder Diego Amendola Mazzula,Minorista,avenida petapa 18-63 zona 12,25719498
+97,C0098,Rosa M Alpuy Casas,Mayorista,"3a. calle 1-85 zona 3,  de esquipulas",50920371
+98,C0099,Hugo Roman Araujo Mena,Minorista,"kilometro 120 carretera interamericana, aldea pupujil ii, zona 0, sector 1, solola, solola",43757667
+99,C0100,Carlos Francisco Aunchayna Polla,Mayorista,"6 ave 9-18 z10, edif sixtino 2, ala 2, ofic 901,",32564177
+100,C0101,Maria Del Rosario Borges Esqueff,Mayorista,avenida reforma 12-01 zona 10 edificio reforma montufar oficina 16-02,36898274
+101,C0102,Yamandu Alcantara Sanchez,Mayorista,"kilometro 156 carretera al semillero, tiquisate,",24581192
+102,C0103,Victor Esteban Acura  Gutierrez,Minorista,"2da. calle 24-00 vista hermosa ii, zona 15, nivel 12, oficina 1205,",65238557
+103,C0104,Hector Daniel Ancheta Franca,Minorista,"kilometro 44.5 carretera al pacificio, bodega c, palin,",61649002
+104,C0105,Alvaro Juan Francisc Beyhaut Bonilla,Minorista,"diagonal 30 boulevar san rafael 20-01 zona 18,",43348775
+105,C0106,Daniel Isidro Bruzzone Martinez,Minorista,avenida las americas 18-81 zona 14 edificio columbus center of 903 y 904 sur,40950505
+106,C0107,Manuel Ernesto Arias Pichon,Mayorista,"kilometro 15.5 carretera al pacífico, lote 28, los tanques,  de ,  de",47362540
+107,C0108,Jose  Alberto Baccaro Blanc,Minorista,"boulevard los proceres 4-96 zona 10, local 230, nivel 2, centro comercial plaza cemaco,",68232570
+108,C0109,Julio Cesar Campo Chiarla,Mayorista,"1a. calle 4-35 zona 4, barrio la galera,  de estanzuela  de",59381525
+109,C0110,Stella Serrana Aguerre Pereiro,Minorista,"5 avenida 5-04 zona 1, san lucas sacatepequez, sacatepequez",27395519
+110,C0111,Teresita Azambuya Aguerre,Minorista,"calzada aguilar batres y 21calle 0-29 zona 12,",57390259
+111,C0112,Carlos Baraibar Ponce De Leon,Mayorista,"35 calle 5-43 zona 11,",72285887
+112,C0113,Gonzalo Alonso May,Minorista,"7a. avenida 1-20 zona 4, edificio torre café, oficina 730,",77236867
+113,C0114,Luis Alberto Camacho Silveira,Minorista,"16 avenida 6-15 zona 4, ,",57624486
+114,C0115,Marcelo Amado Chalela,Minorista,"1 calle 37-74 zona 11,",39837955
+115,C0116,Alejandro Antonelli Corbi,Minorista,"km. 251 interior ruta a tecun uman, san marcos",66972778
+116,C0117,Juan Pablo Bernengo Castro,Minorista,"calzada aguilar batres 43-27 zona 12,",72191671
+117,C0118,Senovio Billar Larrosa,Minorista,"3a. avenida 13-18, zona 9,  y  de",53770932
+118,C0119,Diego Astiazaran Perez,Mayorista,"9a. avenida 7-01 zona 1, aldea santa elena barillas, villa canales,",33259730
+119,C0120,Ana Maria Calzada Santa Cruz,Minorista,"""14 avenida """"a"""", zona 12, villa sol ii,  y  de""",32509019
+120,C0121,Francisco Eduardo Caamazo  Cernadas,Mayorista,"17 alle 15-77 zona 11, colonia jardines de minerva i,  de ,  de",55681898
+121,C0122,Gerardo Andres Amarilla De Nicola,Mayorista,"""14 ave, 1-28 z14, apart """"f"""",""",35452629
+122,C0123,Juan Jose Bruno Olveira,Minorista,"diagonal 3, 22-41 zona 12,",54022870
+123,C0124,Miriam Guiomar Areosa Cazajous,Minorista,"7a. ave. 1-20 edificio torre café, zona 4, oficina 1030, decimo nivel,",55669412
+124,C0125,Silvia Buzo Del Puerto,Mayorista,"ruta 5, 07-69, zona 4,",59700053
+125,C0126,Wiliton Cabral Rodriguez,Minorista,"kilometro 8.6 carretera antigua a el salvador, centro corporativo muxbal, torre oeste, oficina 503 y 504,",35031689
+126,C0127,Ana Monica Angelini Iguini,Minorista,"7a. avenida 14-78, zona 9,",47880645
+127,C0128,Raul Heraldo Bodeant GraÃ±a,Mayorista,"20 calle 26-30 pradera bodega no 4, z10,",68902703
+128,C0129,Manuel Narciso Albisu Britos,Minorista,"""23 ave """"a"""" 41-11, z12""",43415233
+129,C0130,Mario Anza Leon,Mayorista,"""6a. calle """"a"""" 10-69, zona 11, colonia roosevelt, ,""",47913801
+130,C0131,Adela Isabel Hounie Gonzalez,Mayorista,"""1ra. calle """"a"""" 07-04 zona 16,""",58822406
+131,C0132,Alvaro Bentancur Cortabaria,Minorista,"5a. avenida 6-17, zona 9",45130091
+132,C0133,Jorge Buriani Pardo,Minorista,"diagonal 6, 10-65 z10, edif centro gerencial las margaritas, torre 1, nivel 18 y 19,",58132491
+133,C0134,Martha Elizabeth Alves De Simas Grimon,Minorista,"38 avenida lote 13b  montebello ii, km. 10 carretera a el salvador,",62196429
+134,C0135,Ruben Dario Camirotti Tejera,Mayorista,"""21 avenida """"b"""" 0-10, zona 15 vista hermosa ii""",75216100
+135,C0136,Enrique Arezo Nande,Mayorista,"1 calle 1-04 zona 6, 01006",76215574
+136,C0137,Fabriela Barreiro,Minorista,"km. 7, carretera al atlántico, zona 18,",57243293
+137,C0138,Rodolfo Andres Caram Martinez,Minorista,"avenida reforma 12-01 zona 10, edificio reforma montufar, torre b oficina 204,",41521782
+138,C0139,Raul Guilermo Caraballo Acosta,Minorista,"""9a. calle """"a"""" 12-36, colonia roosevelt, zona 11,""",53741847
+139,C0140,Washington Ulises Balliva Gimenez,Mayorista,"km 34.5 lotificacion los sauces, palin,",34074228
+140,C0141,Ismael Raul Barreiro Carsoglio,Mayorista,"boulevard industrial norte no. 440, el naranjo, zona 4 de",49570457
+141,C0142,Ramon Francisco Appratto Lorenzo,Minorista,"7 avenida 7-78 zona 4 edificio centroamericano, oficina 502,",39312141
+142,C0143,Roberto Airaldi Gomez,Mayorista,"5a. ave 5-55 z.14 europlaza world bussines center, torre 2 nivel 9, oficina 903,",45883638
+143,C0144,Sylvia Amado Aparicio,Mayorista,"""2a. calle """"a"""" 10-52 zona 15, colonia tecun uman, colonia tecún uman,  y  de""",33034617
+144,C0145,Rivera Arias Morales,Minorista,"10a. cale 26-20 zona 4, finca el naranjo, ,",41221489
+145,C0146,Eulogio Blanco Ibarra,Minorista,"avenida reforma 7-62 zona 9, edificio aristos oficina 710,  y  de",72837378
+146,C0147,Juliana Barrios Viana,Mayorista,"""lote 65 """"a"""" aldea modelo esso, puerto de san josé,""",63122203
+147,C0148,Hector Francisco Bergonzoni Alvarez,Minorista,"calzada aguilar batres 45-54, empresariales monte zona 11",59596514
+148,C0149,Maria Graciela Almanza De Los Santos,Mayorista,"avenida petapa 47-31 zona 12,  de",29243349
+149,C0150,Raquel Elizabet Abal Nicolari,Minorista,"11 avenida 17-21 zona 10,",33797068
+150,C0151,Gerardo Addiego Prospero,Mayorista,"10a. avenida 13-60, zona 14 apartamento f-4 condominio las conchas,",66985279
+151,C0152,Jimmy Wilson Berny Moraes,Mayorista,"km. 19 carretera al pacifico, ,",40905151
+152,C0153,Wilson Ramon Barite Perez,Minorista,"kilómetro 60.5 carretera antigua al puerto san josé,",62447711
+153,C0154,Laura Aquino Dominguez,Minorista,"43 avenida 7-25 zona 5, colonia monja blanca,  y  de",44656276
+154,C0155,Julio Jose Battistoni Spinelli,Mayorista,"1 avenida 10-81 zona 10,",23826295
+155,C0156,Tacuabe Cabrera Ziegler,Mayorista,avenida del ferrocarril 16-67 zona 12,23420221
+156,C0157,Daniel Apatia Santini,Mayorista,"1a. avenida 15-17 zona 1,",66526404
+157,C0158,Heber Isidro Berto Sosa,Mayorista,"8 avenida 17-74 zona 13, aurora i,",26897887
+158,C0159,Nilson Angel Alcarraz Barrio,Mayorista,"12 calle 1-28 edificio mol zona 9,",49437267
+159,C0160,Oscar Gustavo Barrera Pereyra,Minorista,"3a. avenida 13-74 zona 3, colonia el rosario, bodega no. 5, ,",71630121
+160,C0161,Pedro Felipe Bielemberg1 Golan,Minorista,"6a. calle 5-47 zona 9,",32775374
+161,C0162,Raquel Amalia Barreiro Carsoglio,Minorista,"""18 avenida """"a"""" 1-22 zona 1,  y  de""",36053998
+162,C0163,Alba Maria Betolaza Cafferata,Mayorista,"avenida petapa 42-85, ofibodega, no. 7, empresarial petapa zona 12,  y  de",74758092
+163,C0164,Alicia Araujo Refresquini,Mayorista,"avenida reforma 13-70 edificio real reforma, local 10 zona 9,",38929475
+164,C0165,Julio Cesar Bonino Bonino,Minorista,"20 calle 20-84 zona 10,",57530847
+165,C0166,Juan Daniel Balbis Gallo,Minorista,"km. 17.5 carretera a san jose pinula, empresarial san jose, bodega no 8,",48805820
+166,C0167,Maria Teresa Artecona Gulla,Minorista,"calzada roosevelt, kilometro 14.325 zona 7,",56742662
+167,C0168,Alvaro Bertoni,Mayorista,"anillo periferico 18-37 local d, zona 11,",46629194
+168,C0169,Adriana María  Bozzolasco Romero,Mayorista,"5a. avenida 11-51 zona 1,",44327782
+169,C0170,Nino Baez Ferraro,Minorista,"2da. calle 6-40 zona 9,",67874098
+170,C0171,Veronica Baranzano Cibils,Minorista,"5 avenida 5-55 zona 14 edificio euro plaza torre 2 nivel 16 oficina 1602,",79218289
+171,C0172,Ismael Arguello Rodriguez,Mayorista,"km. 14.1 carretera a el salvador, la escondida, puerta parada",55339034
+172,C0173,Nestor Campal Gennari,Mayorista,"7a. avenida 14-44 zona 9, edificio la galería 5o. nivel, oficina 501,",57674819
+173,C0174,Oscar Arrambide Monce,Minorista,"35 avenida 8-95 zona 7, colonia el rodeo,",43683655
+174,C0175,Sergio Gustavo Cabrera Herrera,Mayorista,"12 calle 1-25 zona 10, edificio geminis 10, torre sur, oficina 801,",75265616
+175,C0176,Alcides Abreu Hernandez,Minorista,"""17 calle """"a"""" 6-81 colonia aurora i, zona 13,""",65143023
+176,C0177,Beatriz Maria Azambuja Patrone,Minorista,"""15 avenida """"a"""" 5-70 zona 13,  y  de""",71783658
+177,C0178,Mauricio Berton Leunda,Mayorista,"12 calle 7-49 zona 14, edificio la bohemia oficina 2,",52913044
+178,C0179,Flavio Gustavo Beltran Caula,Minorista,"6a. avenida 0.-60 zona 4, centro comercial zona 4, torre 2, oficina 709",45064959
+179,C0180,Humberto Barrella Rosa,Minorista,"28 calle, lote 88 zona 6, colonia el molina chinautla,",50268542
+180,C0181,Miguel Angel Alves Ortiz,Minorista,"6 calle 5-47 zona 9, edificio vasil, nivel 6, 01009",53388527
+181,C0182,Roberto Benjamin Bavosi Luchini,Mayorista,"10 avenida 1-14 zona 4,",66594751
+182,C0183,Alejandro Alvarez Izetta,Mayorista,"3a. avenida 13-74 b-17 zona 3, colonia el rosario , ,",40112497
+183,C0184,Maria Isabel Andreoni Da Maria,Minorista,"4a. avenida 40-050 pb, zona 1,  de estanzuela,  de",77814043
+184,C0185,Maria Lilian Bendahan Silvera,Minorista,"km 102 autopista a  zona 1 y 5, finca portuaria, puerto quetzal, san josé",35063388
+185,C0186,Teresa Bortoli Estellano,Minorista,"2a. avenida 2-68 zona 1,  y  y  de",49815739
+186,C0187,Hebert Bagnoli DImperio,Mayorista,"3a. calle 15-48, zona 4, colonia  valle del sol, ,",44516575
+187,C0188,Julio Guillermo Besozzi Arocena,Mayorista,"2 calle 6-40 zona 9,",66516924
+188,C0189,Maricel Caltieri Elosegui,Minorista,15 avenida 1-69 zona 6,73795626
+189,C0190,Ernesto Agazzi Sarasola,Mayorista,"2a. avenida 6-48 zona 1,",70187313
+190,C0191,Gonzalo Brum,Minorista,"12 calle 1-25 zona 10, edificio geminis 10, torre norte nivel 14 oficinas 1403 y 1404",48106618
+191,C0192,Pablo Eduardo Azcue Aizpun,Mayorista,"3 calle 4-11 zona 9,",30459714
+192,C0193,Felipe Jose Algorta Brit,Mayorista,"14 avenida 17-65 zona 4, , distribodegas  c-1,",47724165
+193,C0194,Carlos Bergeret Carrau,Minorista,"1ra. calle 0-95 ofigodegas 3 zona 4, centro de bodegas,",47847045
+194,C0195,Jorge Atilio Caffera Juri,Mayorista,"7a. calle 10-26 zona 12, colonia roosevelt,  y  de",67221181
+195,C0196,Alberto Manuel Camacho Rodriguez,Minorista,"5a. ave 5-55 z.14 euro plaza world bussines center torre 1  nivel 19 penthouse,",46700212
+196,C0197,Wilson Jesus Bentancur Pais,Minorista,"avenida reforma 8-95 zona 10, edificio avenida, oficina 202e-1",35163787
+197,C0198,Liliana Beatriz Capece Silveira,Mayorista,"1a. calle 1-08 zona 2, colonia el mirador,",28979848
+198,C0199,Mario Alberto Calabuig Fernandez,Mayorista,"avendia petapa 40-18 zona 12,",28481729
+199,C0200,Pedro Roque Apezteguia Setelich,Minorista,"1a. avenida 2-49 zona 9,  y  de",45548148
+200,C0201,Alberto Balostro Campos,Minorista,"13 calle 18-30 zona 12,",60209437
+201,C0202,Carlos Waldemar Aguirre Daniele,Mayorista,"2da. calle 6-76 zona 10,",60776040
+202,C0203,Azucena Estefania Berrutti Reboredo,Minorista,"diagonal 19, 8-95  zona 21",72568778
+203,C0204,Luis Maria Bajac Massone,Mayorista,"av. las americas 7-20 zona 13 c.com las americas local 8,",41786651
+204,C0205,Juan Pedro Cantera Sencion,Minorista,"avenida ferrocarril 19-97 zona 12, bodega 709, empresarial el cortijo,",30468992
+205,C0206,Roque Daniel Arambula Leal,Minorista,"4 calle 16-15 zona 1,",39266536
+206,C0207,Gary Astul Benavides Nobre,Minorista,"""12 calle """"b"""" 39-19  zona 5, colononia jardines de asuncion,""",75359671
+207,C0208,Elizabeth Maria Bertassi Flores,Minorista,"1 calle 33-78 zona 11 colonia toledo, 01011",43107493
+208,C0209,Luis Aldabe Dini,Minorista,"14 av. 24-37 zona 13,",33698741
+209,C0210,Irle Maider Amir Amy,Minorista,"calle real, 17-60 zona 10, ofibodega no. 36, centro empresarial san diego, san miguel petapa,",47409451
+210,C0211,Juan Justo Amaro Cedres,Mayorista,"km. 20 carretera a linda vista, zona 4 interior 1, ,",41822337
+211,C0212,Luis Hector Anastasia Correa,Minorista,"avenida reforma 7-62 zona 9, edificio aristos reforma, oficina 401, 4o. nivel",69176070
+212,C0213,Marcelo Daniel Cabral Laborde,Mayorista,"7ma. calle 20-32 zona 4 bosques de san nicolás, ,",49940337
+213,C0214,Laura Burgoa Gonzalez,Minorista,"4 avenida 4-23 zona 6, ,",24633495
+214,C0215,Hector Carlos Baptista Etchatz,Minorista,"""37 calle """"b"""" 19-30 zona 12, residenciales san carlos,""",60128359
+215,C0216,Liliana Beatriz Berna,Minorista,"17 avenida 19-70 zona 10, edificio torino, oficina 609,  y  de",39188914
+216,C0217,Luis Alberto Andrade Defelipo,Mayorista,"km 14 carretera a el salvador residencial puerta parada, casa 6, santa catarina pinula, gua",38925850
+217,C0218,Myriam Graciela Caceres Toncheff,Minorista,"kilometro 6.5 carretera al atlantico, zona 18,",37620195
+218,C0219,Cesar Alfredo Briozzo Clivio,Minorista,"avenida hincapie 18-05 zona 13, aeropuerto la aurora hangar i-3, 01013",53522554
+219,C0220,Eduardo Berton,Mayorista,"""43 calle """"a"""" 5-59 zona 12, colonia monte maria 3, ,""",52968910
+220,C0221,Rodrigo Blas Simoncelli,Minorista,"""lote 105 manzana """"a"""" sector 3, prados de , zona 7, san miguel petapa,""",40999922
+221,C0222,Antonio Benitez Cheveste,Minorista,"""11 avenida """"a"""" 3-60 zona 2, oficina 4,""",28336221
+222,C0223,Alberto Gustavo Brusa Gonzalez,Minorista,"1a. avenida, lote 87a, los eucaliptos, lotificación pantaleoncito, santa lucia  cotzumalguapa,",61312827
+223,C0224,Carlos Valerio Arezo Posada,Minorista,"carretera a el salvador kilometro 19.9 lote 7, residenciales isabella,  de villa canales,",41478849
+224,C0225,Mario Santiago Borgno Buschiazzo,Mayorista,"8a. calle 9-19 zona 3, totonicapan",28672149
+225,C0226,Ricardo Aldabe Dini,Minorista,"diagonal 20, 6-79 zona 11, colonia mariscal,",39039621
+226,C0227,Gustavo Roberto Belarra Muniz,Mayorista,"9 calle 21-50 zona 12, 01012",23842584
+227,C0228,Jorge Bianchi Barella,Minorista,"avendia hincapie 14-47 zona 13,",22645775
+228,C0229,Luis Fernando Cabezudo Ramirez,Mayorista,"4 avenida 8-58 zona 11 colonia el progreso,",35449390
+229,C0230,Silvana Jacquline Almeda Moreira,Mayorista,"calzada aguilar batres 17-58 zona 11,",34221180
+230,C0231,Jose Pablo Arroyal Rodriguez,Mayorista,"calzada aguilar batres, 31 calle 0-53 zona 12,",37651896
+231,C0232,Eduardo Nicasio Borges Duarte,Minorista,"1 calle 7-69 zona 9,",71722691
+232,C0233,Lidia Araujo Serron,Mayorista,"kilometro 37.5 carretera al  de palín ,",37824075
+233,C0234,Claudia Arriaga Villamil,Mayorista,"16 calle 4-53 zona 10, edificio marbella, oficina 4, 1er. nivel,",36828630
+234,C0235,HÃ©ctor Eduardo Bonilla Irigoyen,Minorista,"12 calle 5-05 zona 5 colonia enriqueta, ,",60356197
+235,C0236,Julio Cesar Bango Alvarez,Mayorista,"avenida la americas, 18-81 zona 14, nivel 12,",27296908
+236,C0237,Elizabeth Arrieta Lucchetti,Minorista,"molino de las flores, ,",72331804
+237,C0238,Victor Maria Barrenechea De La Fuente,Minorista,"km. 16 carretera a el salvador, san jose pinula,",28012851
+238,C0239,Alberto Gustavo Boix Vilaro,Minorista,"kilometro 15.6 carretera al pacífico, ,",24092179
+239,C0240,Noemi Lydia Alonso Firpi,Minorista,"km. 14.5 ruta a san miguel petapa,",64667581
+240,C0241,Pedro Besozzi Cerchi,Minorista,"5ta avenida 5-55 zona 14 eutoplaza world businnes center nivel 9 oficina 1208,",28710458
+241,C0242,Angel Manuel Cal Shaban,Minorista,"11 avenida final y 39 calle, el roble 1, zona 11, casa 32 las charcas,",24414324
+242,C0243,Eduardo Arbulo,Minorista,"avenida las americas 7-20 local 17, zona 13,",67232725
+243,C0244,SebastiÂµn Brun Etcheverry,Minorista,"""22 avenida """"a"""" 15-50 zona 10 colonia alcazar, 01010""",78603042
+244,C0245,Daniel Bernabe Baldassari Barboza,Mayorista,"11 calle 12-28 zona 11 colonia roosevelt,",40871038
+245,C0246,Jose Maria Aunchain Esponda,Minorista,"6 avenida 0-60 zona 4, torre ii, 7 nivel, oficina 705,",74822039
+246,C0247,Juan Carlos Alfaro Chiappa,Mayorista,"5a. avenida 5-55 zona 14, edificio europlaza world business center, torre 4, nivel 12,",44302948
+247,C0248,Javier Bermudez Aboal,Minorista,"39 calle 18-45 zona 12,",73201954
+248,C0249,Victor Hugo Aguilar Aguilar,Minorista,"6 avenida 1-36 zona 14, edificio los arcos, 4 nivel,",43106076
+249,C0250,Diamela Bello Canzani,Minorista,"calzada aguilar batres final 57-51 zona 12 condominio flexibodegas bodega # 20, ,",44547277
+250,C0251,Hector Baston Maio,Minorista,"10 avenida 0-19 zona 7,",40807687
+251,C0252,Nelson Bosch Soca,Minorista,"4 calle 0-74 zona 13, 01013",54631573
+252,C0253,Fernando Antia Behrens,Mayorista,"20 calle 10-66 zona 10,",63855493
+253,C0254,Karina Azuriz Cannella,Minorista,"""9 calle """"a"""" 1-33 zona 1,""",58741109
+254,C0255,Miguel Alegretti Cammarano,Mayorista,"30 avenida 10-10 zona 11,",40495688
+255,C0256,Gustavo Adrian Bares Silva,Minorista,"12 calle 2-04 zona 9, edificio plaza del sol, 4 nivel oficina 405,",61135315
+256,C0257,Maria Claudia Bonnecarrere Martinez,Minorista,"12 av 16-66 zona 10,",56923026
+257,C0258,Winston Franklin Abascal Beloqui,Minorista,"avenida la reforma 1-50 zona 9, 10° nivel, edificio reformador,",54092284
+258,C0259,Gianna Maria Campanella Saad,Mayorista,"26 avenida 2-28 zona 14, ,",66296568
+259,C0260,Juan Gonzalo Blasina Viera,Minorista,"avenida atanasio tzul 19-97 zona 12, centro empresarial el cortijo i, interior 506",35917345
+260,C0261,Alfredo Alvarez Bogliolo,Minorista,"2 calle 20-15 zona 15, vista hermosa i,",51267509
+261,C0262,Jorge Maria Abin De Maria,Mayorista,"43 calle 7-51 zona 12 monte maria iii, 01012",45087970
+262,C0263,Pablo Daniel Abdala Schwarz,Minorista,"6a. calle 5-28 zona 9, edificio torre cristal, oficina 602,  y  de",34066389
+263,C0264,Maria Jimena Alonso Hauw,Minorista,"30 calle 9-61 zona 11, condominio san antonio las charcas,",60001576
+264,C0265,Alberto Oscar Abalos Rochon,Minorista,recepcion: municipalidad de,35847060
+265,C0266,Gonzalo Ramon Ballestrino Severo,Minorista,"calzada roosevelt 40-14 zona 7,",26574759
+266,C0267,Juan Antonio Cabrera Orga,Mayorista,"5ta. avenida 13-43 zona 1,",49297161
+267,C0268,Javier Isidro Book Silva,Minorista,"av. reforma 13-70, zona 9 3er. nivel",75839178
+268,C0269,Juan Angel Berruti Macagno,Mayorista,"12 avenida 12-38 zona 19, colonia la florida,",56299600
+269,C0270,Jorge Luis Burgos Arias,Minorista,"5 avenida 4-75 zona 6, lotificacion los alamos, san miguel petapa,",70064756
+270,C0271,Efrain Andres Acura  Cabrera,Minorista,"14 avenida 15-56 zona 1,",57872537
+271,C0272,Martin Bueno,Minorista,"la danta, pasaco, jutiapa",28265155
+272,C0273,Carlos Humberto Baldassini Balatti,Mayorista,"4 calle 9-30 zona 12, 01012",75853349
+273,C0274,Edison Eduardo Bonomi Varela,Minorista,"6 avenida y 18 calle, puerto barrios, izabal",60212452
+274,C0275,Jorge Ricardo Bruni Machin,Minorista,"10 avenida 4-54 zona 12,",58664785
+275,C0276,Ruben Ari Alvez Viera,Mayorista,"17 calle y 19 avenida, bodega 3, zona 10,",58614559
+276,C0277,Claudio Martin Aguilar Pais,Minorista,"""6 avenida 8-08 apartamento """"a"""" zona 10,""",56920323
+277,C0278,Eduardo Baubeta Silvera,Minorista,"2 avenida 15-98 colonia primero de julio, zona 5 de ,",29777335
+278,C0279,Sergio Raul Arrigoni Beraza,Minorista,"km. 14 carretera a el salvador, santa catarina pinula,",28255907
+279,C0280,Fernando Carlos Capote Lopez,Minorista,"0 calle 22-70 zona 15, vista hermosa ii,",27405262
+280,C0281,Ana Patricia Ayala Sanchis,Mayorista,"calzada roosevelt  38-39 zona 11 colonia toledo,",34477038
+281,C0282,Sergio Leonel Berton Bonjour,Minorista,"diagonal 6, 10-65 zona 10, centro gerencial las margaritas torre i, nivel 9, oficina 901a,",56743056
+282,C0283,Susana Cabrera Re,Mayorista,"37 avenida 0-63 zona 7,",30497954
+283,C0284,Daniel Jose Borrelli Uberti,Minorista,"33 calle 8-95 zona 8,",51981037
+284,C0285,Gonzalo Mauricio Barboza Silva,Mayorista,"calzada aguilar batres 30-61 zona 12, 01012",69181591
+285,C0286,Mario Bernabe Albornoz De Mello,Mayorista,"km. 26 carretera a amatitlan,",30399775
+286,C0287,Olga Graciela Caitano Acosta,Mayorista,"41 calle 6-27 zona 8,",58874016
+287,C0288,Ana Maria Blanco Ricceto,Minorista,"lotificacion los tanques lote 55, san jose ,",39068016
+288,C0289,Jose Andres Arocena Argul,Mayorista,"6 avenida 5-50 zona 2,",79514625
+289,C0290,Jose Luis Aramburu De La Rosa,Mayorista,"lote 3, manzana f, sector 5, san cristobal, zona 8, ,",25013260
+290,C0291,Julio Cesar Artigas Lema,Minorista,"7a. avenida 10-40 zona 9,  y  de",39867300
+291,C0292,Ana Maria Bentaberri Alouy,Mayorista,"kilometro 20 carretera al pacifico, parque industrial unisur, local no. 1, delta barcenas,",58848850
+292,C0293,Asucena Alcina Pesa ,Minorista,"kilometro 18.5 a san juan sacatepequez, colonia avance de serramonte, # 26, zona 6,  de ,  de",51537382
+293,C0294,Francisco C. Bustillo Bonasso,Minorista,"12 calle 1-25 zona 10, edificio geminis, torre sur, oficina 1510,  y  de guatemla",52846148
+294,C0295,Haydee Emilia Basterrech Rios,Minorista,"17 calle 11-24, zona 2,  y  de",61580958
+295,C0296,Jose Gerardo Amorin Batlle,Minorista,"""lote 12 """"a"""" jardines de san lucas 2, san lucas sacatepequez, sacatepequez""",27336219
+296,C0297,Fernando Calloia Raffo,Minorista,"10 calle 9-68 zona 1, edificio rosanca oficina 413,",79401572
+297,C0298,Gerardo Almeida Berdi ,Minorista,"6 avenida 9-80 zona 1, edificio plaza vivar 4 nivel oficina 5-4,",31958970
+298,C0299,Roberto Borrelli Marchi,Minorista,"3 avenida 4-64 zona 2,",28250993
+299,C0300,Teresita Capurro Silva,Minorista,"km. 16 carretera interamericana  zona 1, ,",35838719

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Proyecto 2</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+<body style="background-color: #3b3938;">  
+  
+  <div style="padding: 25px;">
+    <!-----------------------------ESPACIO PARA MOSTRAR LA PLANTILLA DE LOS DATOS DE ENTRADA---------------------------------->
+    <form action="/scan" method="POST">    
+      <div class="form-row">
+        <div class="col-md-10 mb-1">
+          <div class="input-group mb-3">
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="inputGroupFileAddon01">Subir</span>
+            </div>
+            <div class="custom-file">
+              <input type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01">
+              <label class="custom-file-label" for="inputGroupFile01" id="fileNameJava"><input type="text" name="inputFileName" id="inputFileName" style="background-color: transparent;border: transparent;text-align: left;" value="{{ .Filename }}" disabled></label>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-1 mb-1">
+          <div class="dropdown show">
+            <a class="btn btn-secondary dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Archivos
+            </a>          
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+              <button class="dropdown-item" type="submit">Analizar</button>
+              <a class="dropdown-item" href="/">Nuevo</a>
+              <button class="dropdown-item" id="btnGuardar">Guardar</button>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-1 mb-1">
+          <div class="dropdown show">
+            <a class="btn btn-primary dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Bajar
+            </a>          
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+              <a class="dropdown-item" id="btnJS">JavaScript</button>
+              <a class="dropdown-item" id="btnPY">Python</a>
+              <a class="dropdown-item" id="btnJSPY">Ambos</a>
+              <a class="dropdown-item" id="btnAST" href="./ASTPY.jpg">AST Python</a>
+              <a class="dropdown-item" id="btnAST" href="./ASTJS.jpg">AST JavaScript</a>
+            </div>
+          </div>
+        </div>
+      </div>      
+      <div class="input-group">
+        <div class="input-group-prepend">
+          <span class="input-group-text">Java:</span>
+        </div>
+        <textarea placeholder="codigo java..."  rows="15" class="form-control" aria-label="With textarea" id="inputJavaText" name="inputJavaText">{{ .Entrada }}</textarea>
+      </div>
+    </form>
+    <!---------------------------ESPACIO PARA MOSTRAR LA PLANTILLA DE SALIDA EN CODIGO JAVASCRIPT--------------------------->
+    <div>
+    <div class="text-center">
+      <div class="display-4" style="color: aliceblue ;">Outputs</div>
+    </div>
+    <div>
+      <div class="row">
+        <div class="col">
+          <div class="input-group">
+            <div class="input-group-prepend">
+              <span class="input-group-text">JS</span>
+            </div>
+            <textarea placeholder="codigo javascript..." rows="17" class="form-control" aria-label="With textarea" id="outputJS" disabled>{{ .JSOutput }}</textarea>
+          </div>
+        </div>
+        <div class="col">
+          <div class="input-group">
+            <div class="input-group-prepend">
+              <span class="input-group-text">PY</span>
+            </div>
+            <textarea placeholder="codigo python..." rows="17" class="form-control" aria-label="With textarea" id="outputPY" disabled>{{ .PYOutput }}</textarea>
+          </div>
+        </div>
+      </div>
+    </div> 
+    </div>   
+    <!---------------------------ESPACIO PARA MOSTRAR LAS TABLAS DE ERRORES Y TOKENS JAVASCRIPT----------------------------->
+    <div class="text-center">
+      <div class="display-4" style="color: aliceblue ;">Datos JavaScript</div>
+    </div>
+  <div>
+    <div class="row">
+
+      <div class="col">
+        <table class="table table-light" style="margin-bottom: 0%;">
+          <thead class="thead-dark">
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Tipo</th>
+              <th scope="col">Fila</th>
+              <th scope="col">Columna</th>
+              <th scope="col">Descripcion</th>
+            </tr>
+          </thead>
+        </table>
+        <div class="table-responsive" style="overflow-y: auto; height: 390px;display: inline-flexbox; background-color: white;" >
+          <table class="table table-light">     
+            <tbody >
+              {{ .HTMLErrjs }}
+            </tbody>
+          </table>
+          </div>
+      </div>
+
+      <div class="col">
+        <table class="table table-light" style="margin-bottom: 0%;">
+          <thead class="thead-dark">
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Fila</th>
+              <th scope="col">Columna</th>
+              <th scope="col">Tipo</th>
+              <th scope="col">Valor</th>
+            </tr>
+          </thead>
+        </table>
+        <div class="table-responsive"  style="overflow-y: auto; height: 390px;display: inline-flexbox; background-color: white;">            
+          <table class="table table-light">             
+            <tbody>
+              {{ .HTMLTknjs }}
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <!----------------------------ESPACIO PARA MOSTRAR LAS TABLAS DE ERRORES Y TOKENS PYTHON---------------------------------->
+  <div class="text-center">
+    <div class="display-4" style="color: aliceblue ;">Datos Python</div>
+  </div>
+  <div>
+    <div class="row">
+      <div class="col">
+        <table class="table table-light" style="margin-bottom: 0%;">
+          <thead class="thead-dark">
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Tipo</th>
+              <th scope="col">Fila</th>
+              <th scope="col">Columna</th>
+              <th scope="col">Descripcion</th>
+            </tr>
+          </thead>
+        </table>
+        <div class="table-responsive" style="overflow-y: auto; height: 390px;display: inline-flexbox; background-color: white;" >
+          <table class="table table-light">
+            
+            <tbody >
+              {{ .HTMLErrpy }}
+            </tbody>
+          </table>
+          </div>
+      </div>
+      <div class="col">
+        <table class="table table-light" style="margin-bottom: 0%;">
+          <thead class="thead-dark">
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Fila</th>
+              <th scope="col">Columna</th>
+              <th scope="col">Tipo</th>
+              <th scope="col">Valor</th>
+            </tr>
+          </thead>
+        </table>
+        <div class="table-responsive"  style="overflow-y: auto; height: 390px;display: inline-flexbox; background-color: white;">            
+          <table class="table table-light">             
+            <tbody>
+              {{ .HTMLTknpy }}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+    <!-----------------------------------------ESPACIO PARA SCRIPTS Y OTRAS FUNCIONES--------------------------------------->
+    <script text="text/javascript">
+        document.getElementById("inputGroupFile01").addEventListener("change", function () {
+           var fr = new FileReader();
+           fr.onload = function () {
+               document.getElementById("inputJavaText").innerHTML = fr.result;
+           } 
+           fr.readAsText(this.files[0]);
+           document.getElementById("inputFileName").value = this.files[0].name;           
+        });
+
+        document.getElementById("btnGuardar").addEventListener("click", function () {
+          var name = "input.java";
+          var entrada = document.getElementById("inputJavaText").innerHTML;
+          createFile(name, entrada)
+        });
+
+        document.getElementById("btnJS").addEventListener("click", function () {
+          var name = "output.js";
+          var salida = document.getElementById("outputJS").innerHTML;
+          createFile(name, salida);
+        });
+
+        document.getElementById("btnPY").addEventListener("click", function () {
+          var name = "output.py";
+          var salida = document.getElementById("outputPY").innerHTML;
+          createFile(name, salida);
+        });
+
+        document.getElementById("btnJSPY").addEventListener("click", function () {
+          var name0 = "output.js";
+          var name1 = "output.py";
+          var salida0 = document.getElementById("outputJS").innerHTML;
+          var salida1 = document.getElementById("outputPY").innerHTML;
+          createFile(name0, salida0);
+          createFile(name1, salida1);
+        });
+        
+        function createFile(name, content) {
+          var element = document.createElement('a');
+          element.setAttribute("href","data:text/plain;charset=utf-8,"+encodeURIComponent(content));
+          element.setAttribute("download", name);
+          element.style.display = "none";
+          document.body.appendChild(element);
+          element.click();
+          document.body.removeChild(element);
+        }
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</body>
+</html>

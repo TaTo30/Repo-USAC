@@ -1,0 +1,22 @@
+{
+
+
+//Definicion de mis conjuntos 
+CONJ: vocales -> a,e,i,o,u;
+CONJ: otrasLetras -> m,r,c,l,g,s;
+CONJ: abecedario -> a~z;
+CONJ: conjnum -> 2~6;
+CONJ: digito -> 0~9;
+<!
+	Definicion de mis expresiones regulares
+!>
+//Expresion regular 
+
+operaciones -> . +{digito} + . |"+" |"-" |"*" "/" +{digito}
+
+
+%%
+%%
+
+
+}

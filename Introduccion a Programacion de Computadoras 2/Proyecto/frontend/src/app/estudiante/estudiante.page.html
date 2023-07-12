@@ -1,0 +1,111 @@
+ <ion-app>
+    <ion-menu side="start">
+      <ion-header>
+        <ion-toolbar translucent>
+          <div text-center class="header-menu">
+              <img width="100" height="100" src="../../../assets/icon/favicon.png" />
+          </div>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content>
+        <ion-list>
+          <ion-item (click)="paginaInicio()">
+            <ion-icon name="exit" slot="start"></ion-icon>
+            <ion-label>Salir</ion-label>
+          </ion-item>
+        </ion-list>
+      </ion-content>
+    </ion-menu>    
+    <div class="ion-page" main>
+      <ion-header>
+        <ion-toolbar>
+          <ion-buttons slot="start">
+            <ion-menu-button></ion-menu-button>
+          </ion-buttons>
+          <ion-title>Estudiante</ion-title>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content class="ion-padding">
+
+<ion-tabs>
+  <ion-tab-bar slot="bottom">
+    <ion-tab-button tab="contacts" >
+      <ion-icon name="contacts"></ion-icon>
+      <ion-label>Foro</ion-label>
+    </ion-tab-button>
+    <ion-tab-button tab="mensajes" >
+      <ion-icon name="map"></ion-icon>
+      <ion-label>Mensajes</ion-label>
+    </ion-tab-button>
+    <ion-tab-button tab="evaluaciones">
+      <ion-icon name="information-circle"></ion-icon>
+      <ion-label>Evaluaciones</ion-label>
+    </ion-tab-button>
+    <ion-tab-button tab="actividades" >
+      <ion-icon name="information-circle"></ion-icon>
+      <ion-label>Actividades</ion-label>
+    </ion-tab-button>
+  </ion-tab-bar>
+</ion-tabs>
+      </ion-content>
+    </div>
+  </ion-app>
+
+
+
+<!--
+ <ion-app>
+    <ion-menu side="start">
+      <ion-header>
+        <ion-toolbar translucent>
+          <div text-center class="header-menu">
+              <img width="100" height="100" src="../../../assets/icon/favicon.png" />
+          </div>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content>
+        <ion-list>
+          <ion-item (click)="paginaInicio()">
+            <ion-icon name="exit" slot="start"></ion-icon>
+            <ion-label>Salir</ion-label>
+          </ion-item>
+        </ion-list>
+      </ion-content>
+    </ion-menu>    
+    <div class="ion-page" main>
+      <ion-header>
+        <ion-toolbar>
+          <ion-buttons slot="start">
+            <ion-menu-button></ion-menu-button>
+          </ion-buttons>
+          <ion-title>Estudiante</ion-title>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content class="ion-padding">
+
+<ion-tabs>
+  <ion-tab-bar slot="bottom">
+    <ion-tab-button tab="contacts" >
+      <ion-icon name="contacts"></ion-icon>
+      <ion-label>Foro</ion-label>
+    </ion-tab-button>
+    <ion-tab-button tab="mensajes" >
+      <ion-icon name="map"></ion-icon>
+      <ion-label>Mensajes</ion-label>
+    </ion-tab-button>
+    <ion-tab-button tab="evaluaciones">
+      <ion-icon name="information-circle"></ion-icon>
+      <ion-label>Evaluaciones</ion-label>
+    </ion-tab-button>
+    <ion-tab-button tab="actividades" >
+      <ion-icon name="information-circle"></ion-icon>
+      <ion-label>Actividades</ion-label>
+    </ion-tab-button>
+  </ion-tab-bar>
+</ion-tabs>
+      </ion-content>
+    </div>
+  </ion-app>
+
+-->
+

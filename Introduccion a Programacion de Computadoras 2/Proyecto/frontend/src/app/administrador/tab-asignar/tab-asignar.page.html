@@ -1,0 +1,193 @@
+ <ion-app>
+    <ion-menu side="start">
+      <ion-header>
+        <ion-toolbar translucent>
+        	<div text-center class="header-menu">
+          		<img width="100" height="100" src="../../../assets/icon/favicon.png" />
+        	</div>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content>
+        <ion-list>
+          <ion-item (click)="paginaAuxiliares()">
+            <ion-icon name="person" slot="start"></ion-icon>
+            <ion-label>Auxiliares</ion-label>
+          </ion-item>
+          <ion-item (click)="paginaCursos()">
+            <ion-icon name="bookmarks" slot="start"></ion-icon>
+            <ion-label>Cursos</ion-label>
+          </ion-item>
+          <ion-item (click)="paginaAsignaciones()">
+            <ion-icon name="filing" slot="start"></ion-icon>
+            <ion-label>Asignaciones</ion-label>
+          </ion-item>
+          <ion-item (click)="paginaConsultas()">
+            <ion-icon name="calendar" slot="start"></ion-icon>
+            <ion-label>Consultas</ion-label>
+          </ion-item>
+          <ion-item (click)="paginaInicio()">
+            <ion-icon name="exit" slot="start"></ion-icon>
+            <ion-label>Salir</ion-label>
+          </ion-item>
+        </ion-list>
+      </ion-content>
+    </ion-menu>
+    <div class="ion-page" main>
+      <ion-header>
+        <ion-toolbar>
+          <ion-buttons slot="start">
+            <ion-menu-button></ion-menu-button>
+          </ion-buttons>
+          <ion-title>Asignacion de Auxiliares</ion-title>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content class="ion-padding">
+ 
+		<ion-tabs>
+			<ion-tab-bar slot="botton">
+				<ion-tab-button tab="crear">
+					<ion-label>Auxiliar</ion-label>
+					<ion-icon name="person"></ion-icon>
+				</ion-tab-button>
+				
+				<ion-tab-button tab="editar">
+					<ion-label>Curso</ion-label>
+					<ion-icon name="albums"></ion-icon>
+				</ion-tab-button>
+			</ion-tab-bar>
+		</ion-tabs>
+        
+      </ion-content>
+    </div>
+  </ion-app>
+
+
+
+
+<!--
+<ion-header>
+  <ion-toolbar>
+    <ion-title>tabAsignar</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+<div class="div-nav-group">
+	<div class="div-nav-top">
+	    <div class="div-nav-son">
+	    	<label class="label-title">Asignacion de Auxiliares</label>
+	    </div>
+	    <div class="div-nav-son">
+	        <button class="btn-first" (click)="cslAuxiliar()">Consulta por Auxiliar</button>
+	        <button class="btn-first" (click)="cslCurso()">Consulta por Curso</button>
+	    	<button class="btn-first" (click)="regresar()">Regresar</button>
+	    </div>
+	</div>
+
+
+
+    <div class="div-section" *ngIf="showSeccionExtra==0">
+	    <input type="text" [(ngModel)]="carnet" name="carnet" [ngModelOptions]="{standalone: true}" class="text-control">
+	    <button class="btn-first" (click)="consultar(carnet)">Consultar Auxiliar</button>
+    </div>
+
+    <div class="div-section" *ngIf="showSeccion==0 && showSeccionExtra==0">
+    <label class="label-second">Datos Auxiliar:</label>
+	    <table>
+	    	<tr>
+	    		<th>Carnet</th>
+	    		<th>Nombre</th>
+	    		<th>Apellido</th>
+	    		<th>Email</th>
+	    		<th></th>
+	    	</tr>
+	    	<tr *ngFor="let auxiliar of listaAuxiliares; index as i">
+	    		<td>{{auxiliar.Carnet}}</td>
+	    		<td>{{auxiliar.Nombre}}</td>
+	    		<td>{{auxiliar.Apellido}}</td>
+	    		<td>{{auxiliar.Email}}</td>
+	    		<td><button class="btn-second" (click)="asignarNuevo()">Asignar nuevo curso</button></td>
+	    	</tr>
+	    </table>
+    </div>
+
+    <div class="div-section" *ngIf="showSeccion==0 && showSeccionExtra==0">
+    <label class="label-second">Cursos asignados a {{auxiliarNombre+" "+auxiliarApellido}}</label>
+	    <table>
+	    	<tr>
+	    		<th>Codigo</th>
+	    		<th>Nombre</th>
+	    		<th>Horario</th>
+	    		<th>Seccion</th>
+	    		<th>Semestre</th>
+	    		<th>Año</th>
+	    		<th></th>
+	    	</tr>
+	    	<tr *ngFor="let seccion of listaSecciones; index as i">
+	    	    <td>{{seccion.IdCurso}}</td>
+	    	    <td>{{seccion.Nombre}}</td>
+	    	    <td>{{seccion.Horario}}</td>
+	    	    <td>{{seccion.Seccion}}</td>
+	    	    <td>{{seccion.Semestre}}</td>
+	    	    <td>{{seccion.Ano}}</td>
+	    	    <td><button class="btn-second" (click)="Desasignar(seccion.IdCurso, seccion.Seccion, seccion.Semestre, seccion.Ano)">Desasignar Curso</button></td>	    		
+	    	</tr>
+	    </table>
+    </div>
+
+
+    <div class="div-section" *ngIf="showSeccion==2 && showSeccionExtra==0">
+	    <table>
+	    	<tr>
+	    		<th>Codigo</th>
+	    		<th>Nombre</th>
+	    		<th>Horario</th>
+	    		<th>Seccion</th>
+	    		<th>Semestre</th>
+	    		<th>Año</th>
+	    		<th></th>
+	    	</tr>
+	    	<tr *ngFor="let seccion of listaSecciones2; index as i">
+	    	    <td>{{seccion.IdCurso}}</td>
+	    	    <td>{{seccion.Nombre}}</td>
+	    	    <td>{{seccion.Horario}}</td>
+	    	    <td>{{seccion.Seccion}}</td>
+	    	    <td>{{seccion.Semestre}}</td>
+	    	    <td>{{seccion.Ano}}</td>
+	    	    <td><button class="btn-second" (click)="addAuxiliarSeccion(seccion.IdCurso, seccion.Seccion, seccion.Semestre, seccion.Ano)">Asignar</button></td>	    		
+	    	</tr>
+	    </table>
+    </div>QUIE SE LE ASIGNA EL CURSO NUEVO
+
+    <div class="div-section" *ngIf="showSeccionExtra==1">
+    	<table>
+	    	<tr>
+	    		<th>Codigo</th>
+	    		<th>Nombre</th>
+	    		<th>Horario</th>
+	    		<th>Seccion</th>
+	    		<th>Semestre</th>
+	    		<th>Año</th>
+	    		<th>Auxiliar (Carnet)</th>
+	    		<th></th>
+	    	</tr>
+	    	<ng-container *ngFor="let seccion of listaAllSecciones; index as i">
+            <tr *ngIf="seccion.Auxiliar > 0">
+	    	    <td>{{seccion.IdCurso}}</td>
+	    	    <td>{{seccion.Nombre}}</td>
+	    	    <td>{{seccion.Horario}}</td>
+	    	    <td>{{seccion.Seccion}}</td>
+	    	    <td>{{seccion.Semestre}}</td>
+	    	    <td>{{seccion.Ano}}</td>
+	    	    <td>{{seccion.Auxiliar}}</td>
+	    	    <td><button class="btn-second" (click)="DesasignarCurso(seccion.IdCurso, seccion.Seccion, seccion.Semestre, seccion.Ano, seccion.Auxiliar)">Desasignar Auxiliar</button></td>	    		
+	    	</tr>
+	    	</ng-container>
+	    </table>
+    </div>
+
+</div>
+
+</ion-content>
+
+-->

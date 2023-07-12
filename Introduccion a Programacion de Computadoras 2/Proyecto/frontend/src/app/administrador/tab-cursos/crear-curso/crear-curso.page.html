@@ -1,0 +1,63 @@
+
+
+<ion-content>
+	<div>
+	<form #curso = "ngForm" (ngSubmit) = "crearCurso(curso)">
+		<div>
+			<ion-item lines="none">
+				<ion-label  class="label-info">Codigo Asignado: <ion-text color="danger">*</ion-text></ion-label>
+			</ion-item>
+			<ion-item lines="none">	
+				<ion-input placeholder="0-9" class="text-control" type="text" required="true" autofocus="true" [(ngModel)]="codigo" name="codigo"></ion-input>
+			</ion-item>			
+		</div>
+		<div>
+			<ion-item lines="none">
+				<ion-label class="label-info">Nombre: <ion-text color="danger">*</ion-text></ion-label>
+			</ion-item>
+			<ion-item lines="none">	
+				<ion-input  class="text-control" type="text" required="true" autofocus="true" [(ngModel)]="nombre" name="nombre"></ion-input>
+			</ion-item>
+		</div>
+      <ion-item lines="none">
+          <ion-button expand="block" type="submit" style="width: 100%; height: 40px">
+          <ion-icon name="save" style="margin-right: 7px"></ion-icon>
+              Crear Curso</ion-button>
+      </ion-item>
+	</form>		
+	</div>
+	<div class="list-background" *ngIf="editarForm == false">
+		<ion-list>
+		 	<ion-list-header>
+   				<ion-label>Cursos existentes</ion-label>
+  			</ion-list-header>
+			<div class="lista-curso" *ngFor="let curso of listaCursos; index as i">
+				<p style="color: black">{{curso.idCurso + "  " + curso.nombre}}</p>				
+				<ion-button (click)="mostrarFormEdicion(curso.idCurso, curso.nombre)" class="btn-curso" fill="outline" color="primary">
+					<ion-icon name="create" style="margin-right: 7px"></ion-icon>
+				    Editar
+				</ion-button>
+				<ion-button (click)="eliminarCurso(curso.idCurso)" class="btn-curso" fill="outline" color="primary">
+					<ion-icon name="close-circle" style="margin-right: 7px"></ion-icon>
+				    Eliminar
+				</ion-button>
+			</div>
+		</ion-list>
+	</div>
+
+	<div *ngIf="editarForm == true" class="list-background-edit">
+	    <div class="div-section-son">
+	    	<ion-label class="atribute-label">Codigo de Curso:</ion-label><br>
+	    	<ion-input class="text-control" type="text" [(ngModel)]="Ecodigo" name="Ecodigo" [ngModelOptions]="{standalone: true}" disabled="true"></ion-input>
+	    </div>
+	    <div class="div-section-son">
+	    	<ion-label class="atribute-label">Nombre:</ion-label><br>
+	    	<ion-input class="text-control" type="text" [(ngModel)]="Enombre" name="Enombre" [ngModelOptions]="{standalone: true}"></ion-input>
+	    </div>
+	    <div class="div-section-son" id="botonCrear">
+	    	<ion-button color="light" expand="block" style="width: 100%" (click)="editarCurso(Ecodigo, Enombre)"><h4>Editar Curso</h4></ion-button>
+	    	<ion-button color="light" expand="block" style="width: 100%" (click)="cancelarEdicion()"><h4>Cancelar</h4></ion-button>
+	    </div>		
+	</div>
+
+</ion-content>

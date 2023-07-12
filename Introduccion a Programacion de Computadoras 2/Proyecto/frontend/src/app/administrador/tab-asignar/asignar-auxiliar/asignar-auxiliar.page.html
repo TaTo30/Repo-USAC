@@ -1,0 +1,51 @@
+<ion-content>
+	<div style="margin:5px">
+	<ion-button style="width:100%" (click)="refrescarPagina()" fill="outline" color="primary">
+	<ion-icon name="refresh-circle" style="margin-right: 7px"></ion-icon>
+	Actualizar</ion-button>
+	</div>
+    <div style="margin:10px;">
+	    <ion-input type="text" [(ngModel)]="carnet" name="carnet" [ngModelOptions]="{standalone: true}" class="text-control"></ion-input>
+	    <ion-button style="width:100%" color="primary" (click)="consultarAuxiliar(carnet)">Consultar Auxiliar</ion-button>
+    </div>
+    <div *ngIf="auxiliarConsultado==true" >
+    <ion-label>Datos Auxiliar:</ion-label>
+    <ng-container *ngFor="let auxiliar of listaAuxiliares; index as i">  						
+			<ng-container *ngIf="auxiliar.carnet==carnetConsultado">
+				<div class="lista-curso" >
+				<p style="color: black; font-size:17px;">{{auxiliar.nombre + "  " + auxiliar.apellido}}</p>
+				<p style="color: #979a9b; font-size:15x;">{{auxiliar.carnet}}</p>
+				<p style="color: #979a9b; font-size:12px;">{{auxiliar.email}}</p>	
+				<ion-button style="width:100%" (click)="asignarCurso(auxiliar.carnet)" fill="outline" color="primary">
+		       		<ion-icon name="search" style="margin-right: 7px"></ion-icon>
+		    		Asignar Curso</ion-button>
+		    	</div>
+			</ng-container>		
+	</ng-container>
+    </div>
+    <div *ngIf="auxiliarConsultado==true">
+    	<label class="label-second">Cursos asignados a {{carnetConsultado}}</label>
+    	<ng-container *ngFor="let seccion of listaSeccionesAuxiliar; index as i">
+	    <ng-container *ngIf="seccion.carnet == carnetConsultado">
+	    <div class="lista-curso" >				
+			<p style="color: black; font-size:17px;">{{seccion.idCurso + "   " + seccion.nombre}}</p>
+			<p style="color: #979a9b; font-size:15x;">{{seccion.semestre+" Seccion: "+seccion.seccion+" Año:"+seccion.ciclo}}</p>
+			<ion-button style="width:100%" (click)="desasignarCurso(seccion.carnet, seccion.idSeccion)" fill="outline" color="primary">
+		       	<ion-icon name="search" style="margin-right: 7px"></ion-icon>
+		    Desasignar</ion-button>
+		</div>
+		</ng-container>
+		</ng-container>
+    </div>
+
+    <div *ngIf="asignarForm==true">
+	    	<div class="lista-curso" *ngFor="let seccion of listaSecciones; index as i">
+
+	    	    <p style="color: black; font-size:17px;">{{seccion.idCurso + "   " + seccion.nombre}}</p>
+				<p style="color: #979a9b; font-size:15x;">{{seccion.semestre+" Seccion: "+seccion.seccion+" Año:"+seccion.ciclo}}</p>
+	    	    <button class="btn-second" (click)="agregarAuxiliarSeccion(seccion.idSeccion)">Asignar</button>   
+	
+	    	</div>
+    </div>
+
+</ion-content>

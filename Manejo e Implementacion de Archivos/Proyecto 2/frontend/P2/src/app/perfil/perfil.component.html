@@ -1,0 +1,94 @@
+<form #update = "ngForm" (ngSubmit)="ActualizarDatos(update)">
+<div style="margin-left: 5%; margin-right: 5%;">
+    <div class="row">
+        <div class="col">
+            <p>
+                <input name="nombre" style="border: 0px; width: 100%;" class="display-2" type="text" [(ngModel)]="user.nombre" >
+                <input name="apellido" style="border: 0px; width: 100%;" class="display-2" type="text" [(ngModel)]="user.apellido">
+                <span class="display-4 text-muted">#{{user.id}}</span>
+            </p>
+        </div>
+        <div class="col" >
+            <div class="text-right">
+                <div style="width: 100%; height: 100%;">
+                    <img style="width: 50%;" alt="..." src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/600px-No_image_available.svg.png">
+                </div>
+            </div>
+        </div>        
+    </div>
+    <!--
+        #update = "ngForm" (ngSubmit)="ActualizarDatos(update)"
+        <p><span class="display-2">{{usr_nombre}} {{usr_apellido}}</span><span class="display-4 text-muted">#{{usr_id}}</span></p>-->
+    <div class="row">
+        <p><span class="text-muted">{{user.creditos}} créditos</span></p>
+    </div>
+    <div class="row">
+        <div style="border: rgb(75, 73, 73) 2px solid; width: 100%;"></div>
+    </div>
+    <div class="text-center" style="margin-left: 25%; margin-right: 25%;">
+        <label for="l_correo">Correo:</label>
+        <div class="input-group mb-3">            
+            <input value="{{user.mail}}" type="text" class="form-control rounded-right" disabled>           
+        </div>
+    </div>
+    <div style="margin-right: 25%; margin-left: 25%;" class="row">
+        <div class="col">
+            <label  for="r_nacimiento">Fecha de Nacimiento:</label>
+            <div class="input-group mb-3">
+                <input [(ngModel)]="user.nac" name="nac"  type="date" class="form-control" id="r_nacimiento">
+            </div>
+        </div>
+        <div class="col">
+            <label for="r_pais">Pais:</label>
+            <div class="input-group mb-3">
+                <select [(ngModel)]="user.pais" name="pais" class="custom-select" id="r_pais">
+   
+                        <option>Argentina</option>
+                        <option>Belice</option>
+                        <option>Bolivia</option>
+                        <option>Brasil</option>
+                        <option>Canada</option>
+                        <option>Chile</option>
+                        <option>Colombia</option>
+                        <option>Costa Rica</option>
+                        <option>Cuba</option>
+                        <option>Republica Dominicana</option>
+                        <option>Ecuador</option>
+                        <option>El Salvador</option>
+                        <option>Guatemala</option>
+                        <option>Honduras</option>
+                        <option>Mexico</option>
+                        <option>Nicaragua</option>
+                        <option>Panama</option>
+                        <option>Uruguay</option>
+                        <option>Paraguay</option>
+
+                </select>
+            </div>        
+        </div>
+    </div>
+
+    <div style="margin-right: 25%; margin-left: 25%;" class="row collapse" id="collapsePassword">
+
+            <div class="col">
+                <label>Nueva contraseña:</label>
+                <input ngModel name="pass" class="form-control mb-3" type="password" id="pass">
+            </div>
+            <div class="col">
+                <label>Repita la nueva contraseña:</label>
+                <input ngModel name="cpass" class="form-control mb-3" type="password" id="cpass">
+            </div>
+
+    </div>
+
+    <div style="margin-right: 25%; margin-left: 25%; margin-bottom: 10%;" class="row">
+        <div class="col">
+            <button id="passbutton" class="btn btn-danger" style="width: 100%;" data-toggle="collapse" data-target="#collapsePassword" aria-controls="collapsePassword" aria-expanded="false" type="button">Cambiar Constraseña</button>
+        </div>
+        <div class="col">
+            <button class="btn btn-primary" style="width: 100%;" type="submit">Actualizar Datos</button>
+        </div>
+    </div>
+
+</div>
+</form>

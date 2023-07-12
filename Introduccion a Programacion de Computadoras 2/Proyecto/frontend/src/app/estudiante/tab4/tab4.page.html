@@ -1,0 +1,33 @@
+
+<ion-content>
+    <div *ngIf="mostrarFormEnviar == false">
+        <ng-container *ngFor="let actividades of datosActividades; index as i">
+        <ng-container *ngIf="actividades.idSeccion == datosSeccion[0].idSeccion">
+        <div class="lista-curso" style="border: 1px solid #d6d6d6" (click)="ingresarActividad(actividades.idActividades, actividades.titulo, actividades.enunciando)">
+            <ion-label>
+                <p style="font-size: 25px; color:black; margin-bottom:3px;">{{actividades.titulo}}</p>
+                <p>{{actividades.fecha}}</p>
+                <p>{{actividades.enunciado}}</p>
+                <ng-container *ngFor="let respuesta of datosRespuestas; index as i">
+                <ng-container *ngIf="respuesta.idActividad == actividades.idActividades && respuesta.carnet == datosUsuario[0].carnet">
+                <p>Actividad hecha</p>
+                <p>{{"Nota: "+respuesta.notas+"/100"}}</p>
+                </ng-container>
+                </ng-container>
+            </ion-label>
+        </div>
+        </ng-container>
+        </ng-container>
+    </div>
+    <div *ngIf="mostrarFormEnviar == true">
+        <div class="lista-curso" style="background-color: #404142">
+        <ion-label position="fixed"><p style="color:white; font-weight:bold; font-size:25px"><ion-icon  (click)="regresarAnterior()" name="arrow-dropleft-circle"></ion-icon>{{actividadTitulo}}</p>
+        <p>{{actividadEnunciado}}</p></ion-label>
+        </div>
+        <div class="lista-curso" style="border: 1px solid #c2c2c2">
+            <label>Respuesta:</label>
+            <ion-textarea class="control-textArea" [(ngModel)]="respuestaActividad"></ion-textarea>
+            <ion-button color="dark" style="width:100%" (click)="enviarRespuesta(respuestaActividad)">Entregar</ion-button>
+        </div>
+    </div>
+</ion-content>

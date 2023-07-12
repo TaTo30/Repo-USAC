@@ -1,0 +1,20 @@
+digraph g { rankdir=LR; node [shape=box];
+hola->AR
+hola->UV
+AR->BE
+AR->hola
+BE->CA
+BE->AR
+CA->BC
+CA->BE
+BC->BR
+BC->CA
+BR->SA
+BR->BC
+SA->ST
+SA->BR
+ST->UV
+ST->SA
+UV->hola
+UV->ST
+}

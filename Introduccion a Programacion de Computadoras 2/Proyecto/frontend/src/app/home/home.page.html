@@ -1,0 +1,69 @@
+
+<ion-content class="content">
+  <div >
+  <div text-center> 
+      <img width="120" height="120" src="../../assets/icon/favicon.png" />
+    <ion-item class="item-back" lines="none" text-center>
+      <ion-label class="my-label"> Plataforma Virtual Ingenieria</ion-label>
+    </ion-item>
+  </div>
+
+<!--SECCION DEL LOGIN-->
+  <div class="div-form" *ngIf="registro==false">
+   <form #logear = "ngForm" (ngSubmit)="iniciarSesion(logear)" class="form-group">
+      <ion-item lines="none"><ion-label  class="label-info">Carnet: <ion-text color="danger">*</ion-text></ion-label></ion-item>
+      <ion-item lines="none">          
+          <ion-input class="text-control" type="text" required="true" autofocus="true" [(ngModel)]="carnet" name="carnet"></ion-input>
+      </ion-item>
+      <ion-item lines="none"><ion-label  class="label-info">Contraseña: <ion-text color="danger">*</ion-text></ion-label></ion-item>
+      <ion-item lines="none">          
+          <ion-input class="text-control" type="password" required="true" [(ngModel)]="pass" name="pass"></ion-input>
+      </ion-item >
+      <ion-item lines="none">
+          <ion-button expand="block" type="submit">Login</ion-button>
+      </ion-item>
+   </form>
+      <ion-item lines="none">
+          <ion-button expand="block" (click)="formRegistro()">Registrar</ion-button>
+      </ion-item>
+  </div>
+
+  <!--SECCION DE REGISTRO-->
+    <div class="div-form" *ngIf="registro==true">
+   <form #registrar = "ngForm" (ngSubmit)="registar(registrar)" class="form-group">
+      <ion-item lines="none"><ion-label  class="label-info">Carnet: <ion-text color="danger">*</ion-text></ion-label></ion-item>
+      <ion-item lines="none">          
+          <ion-input class="text-control" type="text" required="true" autofocus="true" [(ngModel)]="carnet" name="carnet"></ion-input>
+      </ion-item>
+      <ion-item lines="none"><ion-label  class="label-info">Nombre: <ion-text color="danger">*</ion-text></ion-label></ion-item>
+      <ion-item lines="none">          
+          <ion-input class="text-control" type="text" required="true" autofocus="true" [(ngModel)]="nombre" name="nombre"></ion-input>
+      </ion-item>
+      <ion-item lines="none"><ion-label  class="label-info">Apellido: <ion-text color="danger">*</ion-text></ion-label></ion-item>
+      <ion-item lines="none">          
+          <ion-input class="text-control" type="text" required="true" autofocus="true" [(ngModel)]="apellido" name="apellido"></ion-input>
+      </ion-item>
+      <ion-item lines="none"><ion-label  class="label-info">E-mail: <ion-text color="danger">*</ion-text></ion-label></ion-item>
+      <ion-item lines="none">          
+          <ion-input class="text-control" type="email" required="true" autofocus="true" [(ngModel)]="email" name="email"></ion-input>
+      </ion-item>
+      <ion-item lines="none"><ion-label  class="label-info">Contraseña: <ion-text color="danger">*</ion-text></ion-label></ion-item>
+      <ion-item lines="none">          
+          <ion-input class="text-control" type="password" required="true" [(ngModel)]="pass" name="pass"></ion-input>
+      </ion-item >
+      <ion-item lines="none">
+          <ion-button expand="block" type="submit">Registrarse</ion-button>
+      </ion-item>
+   </form>
+      <ion-item lines="none">
+          <ion-button expand="block" (click)="formLogin()">Login</ion-button>
+      </ion-item>
+  </div>
+
+
+
+  </div>
+
+
+</ion-content>
+

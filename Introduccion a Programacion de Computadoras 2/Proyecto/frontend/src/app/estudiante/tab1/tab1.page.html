@@ -1,0 +1,38 @@
+
+
+<ion-content>
+<div *ngIf="mensajesForoForm == false">
+	<ion-label><p style="font-size:12px; padding:10px;">TEMAS PARA HABLAR:</p></ion-label>
+	<ng-container *ngFor="let foro of datosForo; index as i">
+	<ng-container *ngIf="foro.idSeccion == datosSeccion[0].idSeccion">
+		<div class="lista-curso" (click)="ingresarTema(foro.idForo, foro.nombre)" style="background:#e7e7e7">
+			<ion-label style="padding:5px; font-size:17px;" position="fixed">{{foro.nombre}}</ion-label>
+		</div>
+	</ng-container>
+	</ng-container>
+</div>
+<div *ngIf="mensajesForoForm == true">
+	<div class="lista-curso" style="background-color: #404142">
+		<ion-label position="fixed"><p style="color:white; font-weight:bold; font-size:25px"><ion-icon  (click)="regresarAnterior()" name="arrow-dropleft-circle"></ion-icon>{{"   "+foroNombre}}</p></ion-label>
+	</div>
+	<ng-container *ngFor = "let mensajes of datosMensajesForo; index as i">
+	<ng-container *ngIf = "mensajes.idForo == foroSeleccionado">
+		<div class="lista-curso" style="background-color: #efefef">
+			<ion-label>
+				<p  style="font-size: 25px; color:black; margin-bottom:3px;">{{mensajes.nombre + " " + mensajes.apellido}}</p>
+				<p style="margin-top:5px"><span style="font-size:10px;background:#f73e3e; border-radius:3px; padding:1px; color:white">{{mensajes.fecha}}</span></p>
+				<p style="font-size: 17px; color:#686565; margin-top:7px;">{{mensajes.mensaje}}</p>
+			</ion-label>
+		</div>
+	</ng-container>
+	</ng-container>
+	<ion-item lines="none">
+		<ion-textarea maxlength="255" placeholder="Comparte algo en este tema..." [(ngModel)]="mensajeForo" name="mensajeForo"></ion-textarea>
+	</ion-item>
+	<ion-item lines="none">
+		<ion-button fill="outline" color="dark" style="width:100%" (click)="enviarMensajeForo(mensajeForo)">Enviar Mensaje</ion-button>
+
+	</ion-item>
+</div>
+
+</ion-content>

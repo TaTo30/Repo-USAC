@@ -1,0 +1,138 @@
+
+
+<ion-content>
+    <div class="lista-curso" >
+        <ion-item lines="none" >
+        <ion-input type="text" placeholder="Nombre de la actividad" style="--background: white; --padding-start:5px" class="text-control" [(ngModel)]="tituloActividad"></ion-input>
+        </ion-item>
+        <ion-item >
+        <ion-textarea style="--background: white; --padding-start:5px" placeholder="Enunciado..." [(ngModel)]="enunciadoActividad"></ion-textarea>
+        </ion-item>
+        <ion-item >
+          <ion-label>Start Time</ion-label>
+          <ion-datetime style="--color: white; --padding-start:5px" display-format="DD/MM/YYYY, HH:mm" picker-format="DD/MM/YYYY, HH:mm" [(ngModel)]="fechaActividad"></ion-datetime>
+        </ion-item>
+        <ion-item>       
+        <ion-button color="dark" style="width:100%" (click)="agregarActividad(tituloActividad, enunciadoActividad, fechaActividad)">Agregar Actividad</ion-button>
+        </ion-item>
+    </div>
+    <div *ngIf="listaRespuesta == false">
+        <ng-container *ngFor="let actividades of datosActividades; index as i">
+        <ng-container *ngIf="actividades.idSeccion == datosSeccion[0].idSeccion">
+        <div class="lista-curso" style="border: 1px solid #d6d6d6" (click)="verActividad(actividades.idActividades)">
+            <ion-label>
+                <p style="font-size: 25px; color:black; margin-bottom:3px;">{{actividades.titulo}}</p>
+                <p>{{actividades.fecha}}</p>
+                <p>{{actividades.enunciado}}</p>
+            </ion-label>
+        </div>
+        </ng-container>
+        </ng-container>
+    </div>
+    <div *ngIf="listaRespuesta == true">
+    <ng-container *ngFor="let res of datosRespuestas; index as i">
+    <ng-container *ngIf="res.idActividad == actividadSeleccionada">
+        <div class="lista-curso" style="border: 1px solid #d6d6d6">
+            <ion-label>
+            <p style="font-size: 25px; color:black; margin-bottom:3px;">{{res.carnet}}</p>
+            <p>{{res.fecha}}</p>
+            <ion-input class="text-control" [(ngModel)]="res.notas" type="text"></ion-input>
+            <ion-button style="width:100%" (click)="actualizarNota(res.notas, res.carnet)">Actualizar Nota</ion-button>
+            </ion-label>
+        </div>
+    </ng-container>
+    </ng-container>
+     <ion-button color="dark" style="width:100%" (click)="regresar()">Regresar</ion-button>   
+    </div>
+</ion-content>
+
+
+<!--DD/MM/YYYY, HH:MM A
+        <div *ngIf="showConThird==0">
+            <div>
+                <ng-container *ngFor="let act of dataActividades">
+                <div *ngIf="act.curso==globalCourseCode" class="div-evaluation" (click)="verEntregas(act.Id)">
+                    <h2>{{act.titulo}}</h2>  
+                    <h6>{{act.fecha + " " + act.hora}}</h6>
+                    <h4>{{act.enunciado}}</h4>                  
+                </div>
+                </ng-container>
+                
+            </div>
+
+            <div class="add-question" (click)="showAFORM()" *ngIf="showAdd==1">
+                + Añadir Actividad
+            </div>
+
+            <div class="add-question" (click)="cancelAFORM()" *ngIf="showAdd==0">
+                Cancelar
+            </div>
+
+            <div *ngIf="showMakeActivity == 1" class="div-activiy-form">
+                <div>
+                    <label><h2>Nueva Actividad</h2></label>
+                    <input placeholder="Titulo..." type="text" [(ngModel)]="tituloActividad" name="tituloActividad" class="text-control">
+                </div>  
+                <br>              
+                <div>
+                    <textarea class="control-textArea" placeholder ="Enunciado..." [(ngModel)]="enunciadoActividad" name="enunciadoActividad"></textarea>
+                </div>
+                <br>
+                <div class="activity-container">
+                    <div class="activity-form-son">
+                    <label>Fecha de Entrega</label>
+                    <input type="date" [(ngModel)]="fechaActividad" name="fechaActividad" class="date-control"></div>
+                    <div class="activity-form-son">
+                        <label>Hora de entrega</label>
+                        <select [(ngModel)]="horaActividadF" class="select-control-act">
+                            <option selected="true">1:00</option>
+                            <option>2:00</option>
+                            <option>3:00</option>
+                            <option>4:00</option>
+                            <option>5:00</option>
+                            <option>6:00</option>
+                            <option>7:00</option>
+                            <option>8:00</option>
+                            <option>9:00</option>
+                            <option>10:00</option>
+                            <option>11:00</option>
+                            <option>12:00</option>
+                        </select>
+                    </div>
+                    <div class="activity-form-son">
+                    <label>Rango de hora:</label>
+                        <select [(ngModel)]="horaActividadA" class="select-control-act">
+                            <option selected="true">AM</option>
+                            <option>PM</option>
+                        </select>
+                    </div>
+                    
+                </div>
+                <br>
+                <div><button class="btn-back" (click)="crearActividad(tituloActividad, enunciadoActividad, fechaActividad, horaActividadF, horaActividadA)">Crear Actividad</button></div>
+            </div>
+
+
+        </div>
+
+
+        <div *ngIf="showConThird==3">
+            <label><h1>Respuestas de Estudiantes:</h1></label>
+            <table class="table-student">
+                <tr class="tr-student">
+                    <th>Carnet</th>
+                    <th>Respuesta</th>
+                    <th>Url (archivo)</th>
+                    <th>Nota</th>
+                </tr>
+                <tr class="tr-student" *ngFor="let res of dataResAct; index as i">
+                    <td>{{res.carnet}}</td>
+                    <td>{{res.respuesta}}</td>
+                    <td><a href="{{res.url}}">{{res.url}}</a></td>
+                    <td>{{res.nota}}</td>
+                    
+                </tr>
+            </table>
+        </div>
+
+-->

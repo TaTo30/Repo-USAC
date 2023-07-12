@@ -1,0 +1,69 @@
+
+<ion-content>
+   <div *ngIf="configuracionForm==false">
+    <ng-container *ngFor="let evaluacion of datosEvaluaciones; index as i">
+    <ng-container *ngIf="evaluacion.idSeccion == datosSeccion[0].idSeccion && evaluacion.habilitado == 1">
+        <div class="lista-curso" style="background:#e7e7e7" (click)="ingresarEvaluacion(evaluacion.idEvaluacion, evaluacion.nombre)">
+            <ion-label style="padding:5px; font-size:17px;" position="fixed"><p style="color:black; font-size:25px">{{evaluacion.nombre}}</p></ion-label>
+            <ng-container *ngFor="let notas of datosNotas; index as i">
+            <ng-container *ngIf="notas.idEvaluacion == evaluacion.idEvaluacion && notas.carnet == datosUsuario[0].carnet">
+            <p>Evaluacion Resuelta</p>
+            <p>{{"Nota: "+notas.nota+"/100"}}</p>
+            </ng-container>
+            </ng-container>
+        </div>
+    </ng-container>
+    </ng-container>
+    </div>
+
+    <div *ngIf="configuracionForm==true">
+    <div class="lista-curso" style="background-color: #404142">
+        <ion-label position="fixed"><p style="color:white; font-size:25px"><ion-icon  (click)="regresarAnterior()" name="arrow-dropleft-circle"></ion-icon>{{"   "+evaluacionNombre}}</p></ion-label>
+    </div>
+        <div>
+        <ng-container *ngFor = "let pregunta of datosPreguntas; index as i">
+        <ng-container *ngIf="pregunta.idEvaluacion == evaluacionSeleccionada">
+            <div class="lista-curso" style="background-color: #efefef">
+                <p style="font-size: 25px; color:black; margin-bottom:3px;">{{pregunta.noPregunta + " " + pregunta.enunciado}}</p>
+                <p style="margin-top:5px; font-size:10px">{{pregunta.tipo}}</p>
+                <ng-container *ngIf="pregunta.tipo == 'Opcion Multiple'">
+                <ion-list>
+                <ion-list-header>
+                <ion-label>Seleccione la respuesta correcta:</ion-label>
+                </ion-list-header>
+                <ion-radio-group>
+                <ng-container *ngFor="let respuestas of datosRespuestas">
+                <ng-container *ngIf="respuestas.noPregunta == pregunta.noPregunta && respuestas.idEvaluacion == evaluacionSeleccionada">
+                    <ion-item (click)="respondiendoPreguntas(pregunta.noPregunta, pregunta.respuesta, respuestas.respuesta)">
+                    <ion-label>{{respuestas.respuesta}}</ion-label>
+                    <ion-radio  color="success" [value]="respuestas.respuesta" [disabled]="disponibilidad(pregunta.noPregunta)"></ion-radio>
+                    </ion-item>
+                </ng-container>
+                </ng-container>
+                </ion-radio-group>
+                </ion-list>
+                </ng-container>
+                <ng-container *ngIf="pregunta.tipo == 'Falso - Verdadero'">
+                <ion-list>
+                <ion-list-header>
+                <ion-label>Seleccione la respuesta correcta:</ion-label>
+                </ion-list-header>
+                <ion-radio-group>
+                    <ion-item (click)="respondiendoPreguntas(pregunta.noPregunta, pregunta.respuesta, 'Verdadero')">
+                    <ion-label>Verdadero</ion-label>
+                    <ion-radio slot="start" color="success" [value]="verdadero" [disabled]="disponibilidad(pregunta.noPregunta)"></ion-radio>
+                    </ion-item>
+                    <ion-item (click)="respondiendoPreguntas(pregunta.noPregunta, pregunta.respuesta, 'Falso')">
+                    <ion-label>Falso</ion-label>
+                    <ion-radio slot="start" color="success" [value]="falso" [disabled]="disponibilidad(pregunta.noPregunta)"></ion-radio>
+                    </ion-item>
+                </ion-radio-group>
+                </ion-list>
+                </ng-container>
+            </div>
+        </ng-container>
+        </ng-container>
+        </div>
+    </div>
+
+</ion-content>

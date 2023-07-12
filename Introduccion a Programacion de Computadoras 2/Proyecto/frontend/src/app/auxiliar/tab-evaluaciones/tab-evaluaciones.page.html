@@ -1,0 +1,239 @@
+
+<ion-content>
+<div *ngIf="configuracionForm==false">
+    <div class="lista-curso" style="background-color: #404142">
+        <ion-item lines="none" style="--background: #404142">
+            <ion-input  class="text-control"  style="--background: white; --padding-start:5px" type="text" [(ngModel)]="nombreEvaluacion" placeholder="Nombre de Evaluacion"></ion-input>
+        </ion-item>
+        <ion-item  lines="none" style="--background: #404142">
+            <ion-button fill="solid" color="light"  style="width:100%" (click)="crearEvaluacion(nombreEvaluacion)">Crear Evaluacion</ion-button>
+        </ion-item>
+    </div>
+    <ng-container *ngFor="let evaluacion of datosEvaluaciones; index as i">
+    <ng-container *ngIf="evaluacion.idSeccion == datosSeccion[0].idSeccion">
+        <div class="lista-curso" style="background:#e7e7e7" (click)="ingresarEvaluacion(evaluacion.idEvaluacion, evaluacion.nombre)">
+            <ion-label position="fixed"><p style="color:black; font-size:25px">{{evaluacion.nombre}}</p>
+                <p *ngIf="evaluacion.aleatorio==1">Aleatorio</p>
+                <p *ngIf="evaluacion.aleatorio==0">Orden</p>
+                <p *ngIf="evaluacion.habilitado==1">Habilitado</p>
+                <p *ngIf="evaluacion.habilitado==0">Deshabilitado</p>
+            </ion-label>
+        </div>
+    </ng-container>
+    </ng-container>
+</div>
+<div *ngIf="configuracionForm==true">
+    <div class="lista-curso" style="background-color: #404142">
+        <ion-label position="fixed"><p style="color:white; font-size:25px"><ion-icon  (click)="regresarAnterior()" name="arrow-dropleft-circle"></ion-icon>{{"   "+evaluacionNombre}}</p></ion-label>
+    </div>
+    <ion-item  (click)="aleatorioSet(aleatorio)" >
+       <ion-label>Aleatorio</ion-label>
+       <ion-toggle [(ngModel)]="aleatorio" color="secondary" checked></ion-toggle>
+    </ion-item>
+    <ion-item (click)="habilitadoSet(habilitado)">
+        <ion-label >Habilitado</ion-label>  
+        <ion-toggle  [(ngModel)]="habilitado" color="primary" checked></ion-toggle>
+    </ion-item>
+    <div>
+        <ng-container *ngFor = "let pregunta of datosPreguntas; index as i">
+        <ng-container *ngIf="pregunta.idEvaluacion == evaluacionSeleccionada">
+            <div class="lista-curso" style="background-color: #efefef">
+                <p style="font-size: 25px; color:black; margin-bottom:3px;">{{pregunta.noPregunta + 1 + " " + pregunta.enunciado}}</p>
+                <p style="margin-top:5px; font-size:10px">{{"Respuesta Correcta: "+pregunta.respuesta}}</p>
+                <p style="margin-top:5px; font-size:10px">{{pregunta.tipo}}</p>
+                <ng-container *ngIf="pregunta.tipo == 'Opcion Multiple'">
+                <ng-container *ngFor="let respuestas of datosRespuestas">
+                <ng-container *ngIf="respuestas.noPregunta == pregunta.noPregunta && respuestas.idEvaluacion == evaluacionSeleccionada">
+                    <ion-item lines="none">{{"- "+respuestas.respuesta}}</ion-item>
+                </ng-container>
+                </ng-container>
+                </ng-container>
+            </div>
+        </ng-container>
+        </ng-container>
+    </div>
+    <div>
+        <ion-item lines="none">
+            <ion-input type="texto" [(ngModel)]="enunciadoPregunta" placeholder="Pregunta"></ion-input>
+        </ion-item>
+        <ion-item>
+            <select class="select-control" [(ngModel)]="tipoPregunta">
+                <option (click)="desplegarVerdaderoFalso()">Falso - Verdadero</option>
+                <option (click)="desplegarOpcionMultiple()">Opcion Multiple</option>
+            </select>
+        </ion-item>
+        <div class="lista-curso" style="border: 1px solid #d6d6d6" *ngIf="falsoVerdaderoForm==true">
+            <ion-label>Seleccione la respuesta correcta</ion-label>
+            <select class="select-control" [(ngModel)]="falsoVerdaderoCorrecto" name="falsoVerdaderoCorrecto">
+                <option>Falso</option>
+                <option>Verdadero</option>
+            </select>
+            <ion-button (click)="agregarPregunta(enunciadoPregunta, falsoVerdaderoCorrecto, tipoPregunta)" style="width:100%">Agregar Pregunta</ion-button>
+        </div>
+        <div *ngIf="OpcionMultipleForm==true">
+            <div>
+            <ion-list>
+                <ion-list-header>Respuestas añadidas</ion-list-header>
+                <ng-container *ngFor="let respuestas of datosRespuestas">
+                <ng-container *ngIf="respuestas.noPregunta == contadorDePreguntas && respuestas.idEvaluacion == evaluacionSeleccionada">
+                     <ion-item>{{"- "+respuestas.respuesta}}</ion-item>
+                </ng-container>
+                </ng-container>
+            </ion-list>
+            </div>
+            <div class="lista-curso" style="border: 1px solid #d6d6d6">  
+                <ion-input type="texto" placeholder="Posible respuesta" [(ngModel)]="posibleRespuesta"></ion-input>       
+            
+                <ion-button style="width:100%" (click)="agregarRespuesta(posibleRespuesta)">Agregar respuesta</ion-button>
+            
+                <select [(ngModel)]="opcionMultipleCorrecto" class="select-control">
+                <ng-container *ngFor="let respuestas of datosRespuestas">
+                <ng-container *ngIf="respuestas.noPregunta == contadorDePreguntas && respuestas.idEvaluacion == evaluacionSeleccionada">                    
+                         <option>{{respuestas.respuesta}}</option>                     
+                </ng-container>
+                </ng-container>
+                </select>
+                <ion-button style="width:100%" (click)="agregarPregunta(enunciadoPregunta, opcionMultipleCorrecto, tipoPregunta)">Agregar Pregunta</ion-button>
+            </div>
+        </div>
+    </div>
+</div>
+    	
+
+</ion-content>
+
+
+
+<!--
+<div class="div-evaluation-parent" *ngIf="showConfigEvaluation==0">
+            <div class="create-evaluation">
+                <div class="create-evaluation-son" id="idText">
+                    <input placeholder="Nombre de la evaluacion..." class="text-control" type="text" [(ngModel)]="nombreEvaluacion">
+                </div>
+                <div class="create-evaluation-son" id="idButton">
+                    <button class="button-evaluation" (click)="crearEvaluacion(nombreEvaluacion)">Crear Nueva Evaluacion</button>
+                </div>
+            </div>
+            <div>
+                <div (click)="configurarEvaluacion(Evaluacion.clave, Evaluacion.curso, Evaluacion.nombre, Evaluacion.noPreguntas,Evaluacion.habilitado, Evaluacion.aleatorio)" *ngFor="let Evaluacion of dataEvaluaciones; index as i" class="div-evaluation">
+                    <div>
+                        <h1>{{Evaluacion.nombre}}</h1>
+                    </div>
+                    <div>
+                        <h5 *ngIf="Evaluacion.habilitado==1">Habilitado</h5>
+                        <h5 *ngIf="Evaluacion.habilitado==0">Deshabilitado</h5>
+                    </div>
+                    <div>
+                        <h5 *ngIf="Evaluacion.aleatorio==0">Aleatorio: Desactivado</h5>
+                        <h5 *ngIf="Evaluacion.aleatorio==1">Aleatorio: Activado</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div *ngIf="showConfigEvaluation==1">
+            <div class="div-message">
+                <div class="div-ev-son-first">{{evaluacionNombre}}</div>
+                <div class="div-gadget">
+                <div class="div-ev-son">
+                <label class="container">Habilitado
+                <input type="checkbox" [(ngModel)]="checkHabilitar" value="1" [checked]="checkH">
+                <span class="checkmark"></span>
+                </label>
+                <label class="container">Aleatorio
+                <input type="checkbox"  [(ngModel)]="checkAleatorio" value="1" checked="false">
+                <span class="checkmark"></span>
+                </label>
+
+                </div>
+                <div class="div-ev-son"><button class="btn-back-two" (click)="guardarEvaluacionConfig(checkHabilitar, checkAleatorio)">Guardar Configuracion</button></div>
+                <div class="div-ev-son"><button class="btn-back-two" (click)="cancelarEvaluacionConfig()">Cancelar</button></div>
+                </div>
+                
+            </div>
+
+            <div class="div-message">
+                <ng-container *ngFor="let pregunta of dataPreguntas; index as i">
+                    <ng-container *ngIf="pregunta.clave == evaluacionId">
+                     <div class="div-message" *ngIf="pregunta.tipo == 'Falso/Verdadero'">
+                     <h4>{{"#"+pregunta.noPregunta + " " +pregunta.enunciado +"  ("+pregunta.tipo+")"}}</h4>
+                     <h4 class="foro-fecha">{{"Respuesta Correcta: "+pregunta.Rcorrecta}}</h4>
+                    </div>
+
+
+                    <div class="div-message" *ngIf="pregunta.tipo=='Seleccion Multiple'">
+                     <h4>{{"#"+pregunta.noPregunta + " " +pregunta.enunciado +"  ("+pregunta.tipo+")"}}</h4>
+                     <h4 class="foro-fecha">{{"Respuesta Correcta: "+pregunta.Rcorrecta}}</h4>
+                     <ng-container *ngFor="let res of dataPRespuestas">
+                     <h5 *ngIf="res.noQ == pregunta.noPregunta && res.IdEv == evaluacionId">{{"- " +res.res}}</h5>
+                     </ng-container>
+                    </div>
+
+
+                    </ng-container>
+                </ng-container>             
+            </div>
+            
+
+
+            <div *ngIf="SeccionAddPreguntas==1">
+                <div class="div-form-ev">
+                    <div>
+                    <label><h3>Enunciado</h3></label><br>
+                    <input class="text-control" type="text" [(ngModel)]="textEnunciado" name="textEnunciado">
+                </div>
+                <div>
+                    <label><h3>Tipo de pregunta:</h3></label><br>
+                    <select class="select-control" [(ngModel)]="tipoPregunta">
+                        <option (click)="tipoFV()">Falso/Verdadero</option>
+                        <option (click)="tipoSM()">Seleccion Multiple</option>
+                    </select>
+                </div>
+                </div>
+
+                <div *ngIf="Qtipo==0" class="div-form-ev">
+                    <label>Seleccione la opcion correcta:</label>
+                    <select class="select-control" [(ngModel)]="correctoFv">
+                        <option>Falso</option>
+                        <option>Verdadero</option>
+                    </select>
+                    <button class="btn-back-forth" (click)="addPreguntaFV(textEnunciado, correctoFv, tipoPregunta)">Aceptar</button>
+                </div>
+
+
+                <div *ngIf="Qtipo==1" class="div-form-ev">
+                    <div>
+                        Respuestas añadidas:
+                    </div>
+                    <div>
+                        
+                             <ng-container *ngFor="let res of dataPRespuestas; index as i">
+                             <h5 *ngIf="res.IdEv == evaluacionId && res.noQ == (evaluacionQN+1) ">{{"- "+res.res}}</h5>
+                             </ng-container>                            
+                        
+                    </div>
+                    <div>
+                        <label>Añade una posible respuesta:</label>
+                        <input placeholder="posible respuesta..." type="text" [(ngModel)]="posibleRespuesta" name="posibleRespuesta" class="text-control"><br>
+                        <button class="btn-back-forth" (click)="addRespuesta(posibleRespuesta)">Añadir Respuesta</button>
+                    </div>
+                    <div>
+                        <label>Respuesta Correcta</label>
+                        <select placeholder="respuesta correcta" class="select-control" [(ngModel)]="correctoSMP" name="correctoSMP">
+                            <ng-container *ngFor="let res of dataPRespuestas; index as i">
+                                <option *ngIf="res.IdEv == evaluacionId && res.noQ == (evaluacionQN+1) " selected="true">{{res.res}}</option>
+                            </ng-container>
+                        </select>
+                        <button class="btn-back-forth" (click)="addPreguntaSM(textEnunciado, correctoSMP, tipoPregunta)">Aceptar</button>
+                    </div>
+                </div>
+            </div>
+
+            <div (click)="showSAP()" class="add-question" *ngIf="showsap==0">
+                + Añadir pregunta
+            </div>
+            <div (click)="hideSAP()" class="add-question" *ngIf="showsap==1">
+                Cancelar
+            </div>
+        </div>
+-->

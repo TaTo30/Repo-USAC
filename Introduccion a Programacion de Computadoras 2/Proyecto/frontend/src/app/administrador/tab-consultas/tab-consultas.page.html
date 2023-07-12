@@ -1,0 +1,111 @@
+ <ion-app>
+    <ion-menu side="start">
+      <ion-header>
+        <ion-toolbar translucent>
+          <ion-title>Menu</ion-title>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content>
+        <ion-list>
+          <ion-item (click)="paginaAuxiliares()">
+            <ion-icon name="person" slot="start"></ion-icon>
+            <ion-label>Auxiliares</ion-label>
+          </ion-item>
+          <ion-item (click)="paginaCursos()">
+            <ion-icon name="bookmarks" slot="start"></ion-icon>
+            <ion-label>Cursos</ion-label>
+          </ion-item>
+          <ion-item (click)="paginaAsignaciones()">
+            <ion-icon name="filing" slot="start"></ion-icon>
+            <ion-label>Asignaciones</ion-label>
+          </ion-item>
+          <ion-item (click)="paginaConsultas()">
+            <ion-icon name="calendar" slot="start"></ion-icon>
+            <ion-label>Consultas</ion-label>
+          </ion-item>
+          <ion-item (click)="paginaInicio()">
+            <ion-icon name="exit" slot="start"></ion-icon>
+            <ion-label>Salir</ion-label>
+          </ion-item>
+        </ion-list>
+      </ion-content>
+    </ion-menu>
+    
+    <div class="ion-page" main>
+      <ion-header>
+        <ion-toolbar>
+          <ion-buttons slot="start">
+            <ion-menu-button></ion-menu-button>
+          </ion-buttons>
+          <ion-title>Consultas</ion-title>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content class="ion-padding">
+        <ion-select placeholder="seleccionar consulta" [(ngModel)]="consultasSeleccion">
+        	<ion-select-option>Asignaciones</ion-select-option>
+        	<ion-select-option>Evaluaciones</ion-select-option>
+        	<ion-select-option>Publicaciones</ion-select-option>
+          <ion-select-option>Ticket</ion-select-option>
+        </ion-select>
+        <ion-button color="light" style="width:100%" (click)="consultar(consultasSeleccion)">Consultar</ion-button>
+
+        <div *ngIf="asignadosList==true">
+        <ng-container *ngFor="let asg of datosAsignados">
+        <div class="lista-curso" style="border: 1px solid #c2c2c2">
+        	<ion-label>
+        	<p>{{asg.carnet}}</p>
+        	<p>{{"Asignado a: "+asg.nombre+" Seccion "+asg.seccion+" "+asg.semestre+" "+asg.ciclo}}</p>
+        	</ion-label>
+        </div>
+        </ng-container>        	
+        </div>
+
+        <div *ngIf="evaluacionesList==true">
+        <ng-container *ngFor="let eva of datosEvaluaciones">
+        <div class="lista-curso" style="border: 1px solid #c2c2c2">
+        	<ion-label>
+        	<p>{{"Nombre: "+eva.nombre}}</p>
+        	<p *ngIf="eva.habilitado==1">{{"Habilitado"}}</p>
+        	<p *ngIf="eva.habilitado==0">{{"Deshabilitado"}}</p>
+        	<p *ngIf="eva.aleatorio==1">{{"Aleatorio"}}</p>
+        	<p *ngIf="eva.aleatorio==0">{{"Orden"}}</p>
+        	</ion-label>
+        </div>
+        </ng-container>
+        </div>
+
+        <div *ngIf="publicacionesList==true">
+        <ng-container *ngFor="let publi of datosPublicaciones">
+        	<div class="lista-curso" style="border: 1px solid #c2c2c2">
+        		<ion-label>
+        		<p>{{"Emisor: "+publi.nombre+" "+publi.apellido}}</p>
+        		<p>{{publi.fecha}}</p>
+        		<p>{{publi.mensaje}}</p>
+        		</ion-label>
+        	</div>
+        </ng-container>
+        </div>
+
+        <div *ngIf="ticketList==true">
+        <ng-container *ngFor="let ticket of datosTickets">
+        <div class="lista-curso" style="border: 1px solid #c2c2c2">
+        <p style="font-size: 25px; color:black; margin-bottom:3px;">{{ticket.asunto}}</p>
+        <p>{{ticket.queja}}</p>
+        <p>{{"Enviado por: "+ticket.nombre+" "+ticket.apellido}}</p>
+        <p *ngIf="ticket.estado=='Pendiente'"><span style="font-size:14px;background:#c2c2c2; border-radius:3px; padding:1px; color:white">Pendiente</span></p>
+        <p *ngIf="ticket.estado=='En Proceso'"><span style="font-size:14px;background:#93a6de; border-radius:3px; padding:1px; color:white">En Proceso</span></p>
+        <p *ngIf="ticket.estado=='Resuelto'"><span style="font-size:14px;background:#99de93; border-radius:3px; padding:1px; color:white">Resuelto</span></p>
+        <ion-select [(ngModel)]="estadoTicket" placeholder="Actualice el estado">
+          <ion-select-option>Pendiente</ion-select-option>
+          <ion-select-option>En Proceso</ion-select-option>
+          <ion-select-option>Resuelto</ion-select-option>
+        </ion-select>
+        <ion-button color="dark" style="width:100%" (click)="actualizarTicket(ticket.idTicket, estadoTicket)">Actualizar</ion-button>
+        </div>
+        </ng-container>
+        </div>
+
+
+      </ion-content>
+    </div>
+  </ion-app>

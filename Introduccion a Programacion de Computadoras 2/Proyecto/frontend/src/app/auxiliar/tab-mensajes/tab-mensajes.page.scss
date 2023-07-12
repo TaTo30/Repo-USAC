@@ -1,0 +1,410 @@
+.lista-curso{
+	margin: 7px;
+	padding: 10px;
+	border-radius: 8px;
+	border: 0px solid #c0c0c0;
+	background: white;
+}
+
+
+ .div-nav-group{
+
+	border-radius: 5px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.div-course{
+	margin: 20px;
+	border: 2px solid #0bb8b8;
+	border-radius: 5px;
+	padding: 15px;
+	transition: transform .2s
+}
+
+.div-course:hover{
+	transform: scale(1.05);
+	background: #e4e6e6;
+	cursor:pointer;
+}
+
+.course-title{
+	color: #0bb8b8;
+}
+.toolbar-group{
+	text-align: center;
+	border-radius: 5px;
+	border:1px solid #e4e6e6;
+}
+
+.toolbar-son{
+	font-size: 25px;
+	padding: 7px;
+	font-family: sans-serif;
+	color: #0bb8b8;
+	display: inline-block;
+	background: white;
+	width: 33.33%;
+}
+.toolbar-son:hover{
+	background: #e4e6e6;
+	cursor: pointer;
+}
+
+.nav-son{
+	display: inline-block;
+}
+
+#titulo{
+	width: 85%
+}
+#boton{
+	width: 15%
+}
+.btn-back{
+	color: white;
+	border: 0px;
+	padding: 5px;
+	margin: 10px;
+	width: 100%;
+	height: 100%;
+	font-size: 15px;
+	border-radius: 5px;
+	background: #0bb8b8; 
+}
+.btn-back:hover{
+	background: #059595;
+}
+
+.div-message{
+	margin: 10px;
+	border: 1px solid #dfe0e0;
+	border-radius: 5px;
+	padding: 15px;
+	box-shadow: 5px 5px 5px #dfe0e0;
+}
+
+.foro-textarea{
+	margin: 10px;
+	border: 1px solid #dfe0e0;
+	border-radius: 5px;
+	padding: 15px;
+	box-shadow: 5px 5px 5px #dfe0e0;
+}
+.div-foro-parent{
+	border: 1px solid #dfe0e0;
+}
+.control-textArea{
+	width: 100%;
+	border: 1px solid #dfe0e0;
+	border-radius: 5px;
+	padding: 5px;
+	
+}
+
+.control-textArea:focus{
+	box-shadow: 0px 0px 2px #04a4a4;
+}
+
+.foro-fecha{
+	color: #9ea0a0;
+	font-size: 13px;
+	font-family: sans-serif;
+}
+
+
+.table-student{
+	width: 100%;
+}
+
+.tr-student{
+	font-family: sans-serif;
+	border-bottom: 1px solid #dfe0e0;
+	font-size: 25px; 
+	padding: 30px;
+	text-align: center;
+	margin: 20px;
+}
+
+
+
+.td-student:hover{
+	color: #10bbb6;
+	cursor: pointer;
+}
+
+.button-son{
+	display: inline-block;
+	width: 50%;
+
+}
+.button-parent{
+	text-align: center;
+	width: 100%;
+
+}
+
+.btn-back-two{
+	color: white;
+	border: 0px;
+	padding: 5px;
+	margin: 10px;
+	width: 80%;
+	height: 100%;
+	font-size: 20px;
+	border-radius: 5px;
+	background: #0bb8b8; 
+}
+.btn-back-two:hover{
+	background: #059595;
+}
+
+.title-person{
+	background: #0bb8b8;
+	width: 100%;
+	padding: 6px;
+	font-family: sans-serif;
+	color: white;
+	border: 5px;
+
+}
+
+.div-activity-option{
+	
+	width: 100%;
+	text-align: center;
+	margin-bottom: 8px;
+	background: #01d4ce;
+	border-radius: 5px;
+}
+.div-activity-option-son{
+	
+	display: inline-block;
+	width: 50%;
+	font-size: 20px;
+	color: white;	
+}
+
+.div-activity-option-son:hover{
+	background: #02bbb5;
+	border-radius: 5px;
+
+}
+
+.div-evaluation-parent{
+	border: 1px solid #dfe0e0;
+}
+
+.create-evaluation{
+	width: 100%;
+
+}
+
+.create-evaluation-son{
+	display: inline-block;
+	padding: 20px;
+}
+
+.text-control{
+	width: 100%;
+	padding: 6px 12px;
+	border-radius: 3px;
+	border:1px solid #dfe0e0;
+}
+
+.text-control:hover{
+	box-shadow: 0 0 5px #6298e5;
+}
+.text-control:focus{
+	box-shadow: 0 0 5px #6298e5;
+}
+
+#idText{
+    width: 60%;
+}
+#idButton{
+	width: 40%;
+}
+
+.button-evaluation{
+	padding: 5px;
+	width: 100%;
+	border-radius: 5px;
+	font-size: 17px;
+	font-family: sans-serif;
+	border: 2px solid #01d4ce;
+	background: white;
+}
+.button-evaluation:hover{
+	background: #01d4ce;
+	color: white;
+}
+
+.div-evaluation{
+	margin: 10px;
+	border: 1px solid #dfe0e0;
+	border-radius: 5px;
+	padding: 15px;	
+	transition: transform .2s;
+}
+
+.div-evaluation:hover{
+	cursor: pointer;
+	transform: scale(1.015);
+
+}
+
+
+.div-ev-son{
+	display: inline-block;
+
+	width: 33.33%;
+}
+
+.div-ev-son-first{
+	width:100%;
+	font-family: sans-serif;
+	font-size: 45px;
+
+}
+
+.ev-check{
+	display: inline-block;
+	font-style: sans-serif;
+	padding: 7px;
+
+}
+
+.div-gadget{
+	width: 100%;
+
+}
+
+
+ /* Customize the label (the container) */
+.container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.container input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+} 
+
+.add-question{
+	width: 98.5%;
+	border: 3px solid #3bb7db;
+	font-size: 35px;
+	text-align: center;
+	font-family: sans-serif;
+	border-radius: 7px;
+	color:#0059ff;
+	background: white;
+	margin: 10px;
+
+}
+.add-question:hover{
+	background: #f1f3f4;
+	cursor: pointer;
+}
+
+.select-control{
+	width: 100%;
+	padding: 6px 12px;
+	border-radius: 3px;
+	border:1px solid #dfe0e0;
+}
+.select-control:hover{
+	box-shadow: 0 0 5px #6298e5;
+}
+.select-control:focus{
+	box-shadow: 0 0 5px #6298e5;
+}
+
+
+.div-form-ev{
+	margin: 10px;
+	border: 1px solid #dfe0e0;
+	border-radius: 5px;
+	padding: 15px;
+
+}
+
+.btn-back-forth{
+	color: white;
+	border: 0px;
+	padding: 5px;
+	margin: 10px;
+	width: 98%;
+	height: 100%;
+	font-size: 20px;
+	border-radius: 5px;
+	background: #0bb8b8; 
+}
+.btn-back-forth:hover{
+	background: #059595;
+}
+
+.div-activiy-form{
+	padding: 15px;
+	border-radius: 3px;
+	border:1px solid #dfe0e0;
+}

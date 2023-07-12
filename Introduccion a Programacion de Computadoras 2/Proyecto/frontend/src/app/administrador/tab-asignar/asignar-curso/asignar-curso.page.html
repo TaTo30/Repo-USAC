@@ -1,0 +1,21 @@
+
+<ion-content>
+	<div style="margin:5px">
+	<ion-button style="width:100%" (click)="refrescarPagina()" fill="outline" color="primary">
+	<ion-icon name="refresh-circle" style="margin-right: 7px"></ion-icon>
+	Actualizar</ion-button>
+	</div>
+    <div>
+    	<ng-container *ngFor="let seccion of listaSeccionesAuxiliar; index as i">
+	    <div class="lista-curso" >				
+			<p style="color: black; font-size:17px;">{{seccion.idCurso + "   " + seccion.nombre}}</p>
+			<p style="color: #979a9b; font-size:15px;">{{seccion.semestre+" Seccion: "+seccion.seccion+" Año:"+seccion.ciclo}}</p>
+			<p style="color: #979a9b; font-size:15px">{{"Auxiliar: "+seccion.carnet}}</p>
+			<ion-button style="width:100%" (click)="desasignarCurso(seccion.carnet, seccion.idSeccion)" fill="outline" color="primary">
+		       	<ion-icon name="search" style="margin-right: 7px"></ion-icon>
+		    Desasignar Auxiliar</ion-button>
+		</div>
+		</ng-container>
+    </div>
+
+</ion-content>

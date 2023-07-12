@@ -1,0 +1,42 @@
+
+
+<ion-content>
+<div *ngIf="formEditar==false">
+	<ion-list>
+		<ion-list-header>
+   				<ion-label>Auxiliares existentes</ion-label>
+  		</ion-list-header>
+		<div class="lista-curso" *ngFor="let auxiliar of listaAuxiliares; index as i">				
+				<p style="color: black; font-size:17px;">{{auxiliar.nombre + "  " + auxiliar.apellido}}</p>
+				<p style="color: #979a9b; font-size:15x;">{{auxiliar.carnet}}</p>
+				<p style="color: #979a9b; font-size:12px;">{{auxiliar.email}}</p>	
+				<ion-button style="width:100%" (click)="editarForm(auxiliar.carnet)" fill="outline" color="primary">
+		       	<ion-icon name="create" style="margin-right: 7px"></ion-icon>
+		       	Editar</ion-button>
+		</div>
+	</ion-list>
+</div>
+<div *ngIf="formEditar==true" class="margin: 5px;">
+	<form >
+		<div>
+			<label class="label-info">Carnet:</label><br>
+			<ion-input type="text" class="text-control" [(ngModel)]="carnetUsuario" name="carnetUsuario" [ngModelOptions]="{standalone: true}" disabled="true"></ion-input>
+		</div>
+		<div>
+			<label class="label-info">Nombre:</label><br>
+			<ion-input type="text" class="text-control" [(ngModel)]="nombreUsuario" name="nombreUsuario" [ngModelOptions]="{standalone: true}" ></ion-input>
+		</div>
+		<div>
+			<label class="label-info">Apellido:</label><br>
+			<ion-input type="text" class="text-control" [(ngModel)]="apellidoUsuario" name="apellidoUsuario" [ngModelOptions]="{standalone: true}"></ion-input>
+		</div>
+		<div>
+			<label class="label-info">Email:</label><br>
+			<ion-input type="text" class="text-control" [(ngModel)]="emailUsuario" name="emailUsuario" [ngModelOptions]="{standalone: true}"></ion-input>
+		</div>
+		<div>
+			<ion-button class="btn-second"  style="width:100%" type="submit" color="primary" (click)="editarAuxiliar(carnetUsuario,nombreUsuario,apellidoUsuario,emailUsuario)">Editar Informacion</ion-button>
+		</div>
+	</form>
+</div>
+</ion-content>

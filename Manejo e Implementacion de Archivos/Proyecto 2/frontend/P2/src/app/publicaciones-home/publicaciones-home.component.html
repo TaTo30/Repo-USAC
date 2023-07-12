@@ -1,0 +1,199 @@
+<div class="container p-3">
+    <form #set = "ngForm" (ngSubmit)="FiltrarPublicaciones(set)">
+        <div class="row mb-2">
+            <div class="col-12">
+                <input ngModel name="busqueda" class="form-control" type="text" placeholder="Buscar...">
+            </div>
+        </div>
+        <div class="row mb-2">
+            <div class="col-6">
+                <select ngModel name="categoria" class="form-control">
+                    <option selected value="">Categorias...</option>
+                    <ng-container *ngFor="let cat of lista_categorias">
+                        <option value="{{cat[1]}}" >{{cat[1]}}</option>
+                    </ng-container>
+                </select>
+            </div>
+            <div class="col-6">
+                <select ngModel name="orden" class="form-control">
+                    <option selected value="" selected>Precio Ascendente</option>
+                    <option value="DESC">Precio Descendente</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <button type="submit" class="btn btn-primary mr-2">Aplicar Filtros</button>
+            </div>
+            <div class="col">
+                <button type="button" class="btn btn-danger" (click)="ObtenerPublicaciones()">Eliminar Filtros</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div class="container-fluid mt-3">
+    <div class="row">
+        <ng-container *ngFor="let publicacion of lista_publicaciones">
+            <div class="col m-3 shadow bg-light p-3">
+                <div class="row">
+                    <div class="col-8">
+                        <h2>{{publicacion.Producto.nombre}}</h2>
+                        <h6 class="text-muted">Publicado por: {{publicacion.Vendedor.nombre}} {{publicacion.Vendedor.apellido}}</h6>
+                    </div>
+                    <div class="col">
+                        <div class="text-muted h2">Q.{{publicacion.Producto.precio}}.00</div>
+                    </div>
+                </div>
+                <div class="row pl-3 font-italic font-weight-bold">
+                    Categoria: {{publicacion.Producto.categoria}}
+                </div>
+                <div class="row pl-3">
+                    {{publicacion.Producto.descripcion}}
+                </div>
+                <div class="row pl-3">
+                    <button (click)="SetPublicacionENV(publicacion)" type="button" class="btn btn-info" data-toggle="modal" data-target="#exampleModal">
+                        Ver Detalle
+                    </button>
+                </div>
+            </div>
+        </ng-container>
+    </div>
+</div>
+
+
+
+  
+  <!-- Modal -->
+  <div class="modal fade"  id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog {{modalType}}" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">{{publicacion.Producto.nombre}}</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+
+            <div class="container-fluid" *ngIf="!modalmode">
+                <div class="container-fluid">
+                    <div class="row mb-3">
+                        <svg class="mr-3" (click)="changeMode()" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                            <path d="M0 0h24v24H0z" fill="none"/>
+                            <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+                        </svg>
+                        Volver a la Publicacion
+                    </div>
+                    <div class="row">
+                        <ng-container *ngFor="let msg of lista_comentario">
+                            <h6 *ngIf="msg[2] == publicacion.Producto.id">
+                                {{msg[4]}}
+                            </h6>
+                        </ng-container>
+                    </div>
+                    <div class="row">
+                        <div class="col-8">
+                            <textarea [(ngModel)]="texto" maxlength="400" style="resize: none;" placeholder="escribe algo..." rows="1" class="form-control"></textarea>
+                        </div>
+                        <div class="col">
+                            <button (click)="Comentar()" class="btn btn-primary align-self-center">
+                                Comentar
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="container-fluid" *ngIf="modalmode">
+                <div class="row mb-2">
+                    <div class="col-4 mr-3">
+                        <div class="text-muted h2">Q.{{publicacion.Producto.precio}}.00</div>
+                        <div class="font-italic font-weight-bold">
+                            Categoria: {{publicacion.Producto.categoria}}
+                        </div>
+                        <div class="text-muted h6">
+                            Publicado por: {{publicacion.Vendedor.nombre}} {{publicacion.Vendedor.apellido}}
+                        </div>
+                        <div class="font-italic text-muted">
+                            Tags: {{publicacion.Producto.tags}}
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="h3">
+                            {{publicacion.Producto.descripcion}}
+                        </div>
+                    </div>
+                </div>
+                <div class="row pl-3">
+                    <button type="button" (click)="AgregarCarrito()" class="btn btn-success mr-2">
+                        <svg class="svgC" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                            <path d="M0 0h24v24H0z" fill="none"/>
+                            <path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/>
+                        </svg>
+                        Añadir al carrito
+                    </button>
+                    <button (click)="changeMode()" type="button" class="btn btn-primary" >
+                        <svg class="svgC" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                            <path d="M0 0h24v24H0z" fill="none"/>
+                            <path d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 9h12v2H6V9zm8 5H6v-2h8v2zm4-6H6V6h12v2z"/>
+                        </svg>
+                        Comentarios
+                    </button>
+                </div>
+                <div class="row pl-3 mt-3 collapse" id="denunciaCollapse">
+                    <div class="col-10">
+                        <textarea [(ngModel)]="texto" maxlength="400" style="resize: none;" placeholder="escribe tu denuncia..." rows="1" class="form-control"></textarea>
+                    </div>
+                    <div class="col">
+                        <button (click)="Denunciar()" class="btn btn-danger align-self-center">
+                            <svg class="svgC" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                                <path d="M0 0h24v24H0z" fill="none"/>
+                                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/>
+                            </svg>
+                            Denunciar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="modal-footer">
+            <div class="row">           
+                <button type="button" class="btn btn-danger mr-3" data-toggle="collapse" data-target="#denunciaCollapse" aria-controls="collapsePassword" aria-expanded="false" type="button">
+                    <svg class="svgC" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/>
+                    </svg>
+                    Reportar la publicacion
+                </button>
+
+                <svg (click)="DarLike()" *ngIf="likeSet" class="svgB mr-1" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                    <path d="M0 0h24v24H0V0z" fill="none"/>
+                    <path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z"/>
+                </svg>
+                <svg (click)="DarLike()" *ngIf="!likeSet" class="svgA mr-1" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                    <path d="M0 0h24v24H0V0z" fill="none"/>
+                    <path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z"/>
+                </svg>
+                <span class="text-muted mr-4">{{publicacion.Producto.likes}}</span>
+                
+                <svg (click)="DarDislike()" *ngIf="DislikeSet" class="svgB mr-1" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                    <path d="M0 0h24v24H0z" fill="none"/>
+                    <path d="M15 3H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 23l6.59-6.59c.36-.36.58-.86.58-1.41V5c0-1.1-.9-2-2-2zm4 0v12h4V3h-4z"/>
+                </svg>
+                <svg (click)="DarDislike()" *ngIf="!DislikeSet" class="svgA mr-1" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                    <path d="M0 0h24v24H0z" fill="none"/>
+                    <path d="M15 3H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 23l6.59-6.59c.36-.36.58-.86.58-1.41V5c0-1.1-.9-2-2-2zm4 0v12h4V3h-4z"/>
+                </svg>
+                <span class="text-muted">{{publicacion.Producto.dislikes}}</span>
+
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>

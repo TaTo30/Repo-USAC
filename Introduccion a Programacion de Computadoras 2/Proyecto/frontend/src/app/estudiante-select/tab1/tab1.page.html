@@ -1,0 +1,29 @@
+
+<ion-content>
+    <div class="lista-curso" style="border: 1px solid #c2c2c2">
+    	<ion-label>Realizar una Queja</ion-label>
+        <ion-item lines="none" >
+        <ion-input class="text-control" type="text" placeholder="Asunto" style="--background: white; --padding-start:5px" class="text-control" [(ngModel)]="asuntoTicket"></ion-input>
+        </ion-item>
+        <ion-item >
+        <ion-textarea style="--background: white; --padding-start:5px" placeholder="Queja..." [(ngModel)]="quejaTicket"></ion-textarea>
+        </ion-item>
+        <ion-item>       
+        <ion-button color="dark" style="width:100%" (click)="enviarTicket(asuntoTicket, quejaTicket)">Agregar Ticket</ion-button>
+        </ion-item>
+    </div>
+    <div>
+    	<ion-label style="padding: 5px;">Tus Tickets:</ion-label>
+    	<ng-container *ngFor="let ticket of datosTickets">
+    	<ng-container *ngIf="ticket.carnet == datosUsuario[0].carnet">
+    	<div class="lista-curso" style="border: 1px solid #c2c2c2">
+    		<p style="font-size: 25px; color:black; margin-bottom:3px;">{{ticket.asunto}}</p>
+    		<p>{{ticket.queja}}</p>
+    		<p *ngIf="ticket.estado=='Pendiente'"><span style="font-size:14px;background:#c2c2c2; border-radius:3px; padding:1px; color:white">Pendiente</span></p>
+    		<p *ngIf="ticket.estado=='En Proceso'"><span style="font-size:14px;background:#93a6de; border-radius:3px; padding:1px; color:white">En Proceso</span></p>
+    		<p *ngIf="ticket.estado=='Resuelto'"><span style="font-size:14px;background:#99de93; border-radius:3px; padding:1px; color:white">Resuelto</span></p>
+    	</div>
+    	</ng-container>
+    	</ng-container>
+    </div>
+</ion-content>

@@ -1,0 +1,62 @@
+{
+	"dimension":20,
+	"casillas":{
+		"dobles":[
+		{
+			"x":2,
+			"y":5
+		},
+		{
+			"x":4,
+			"y":10
+		},
+		{
+			"x":10,
+			"y":15
+		}			
+		],
+		"triples":[
+		{
+			"x":0,
+			"y":1
+		},
+		{
+			"x":6,
+			"y":10
+		},
+		{
+			"x":0,
+			"y":15
+		}
+		]
+	},
+	"diccionario":[
+		{
+			"palabra": "hola"
+		},
+		{
+			"palabra": "AB"
+		},
+		{
+			"palabra": "SB"
+		},
+		{
+			"palabra": "SC"
+		},
+		{
+			"palabra": "CE"
+		},
+		{
+			"palabra": "DE"
+		},
+		{
+			"palabra": "SA"
+		},
+		{
+			"palabra": "ST"
+		},
+		{
+			"palabra": "UV"
+		}
+	]
+}

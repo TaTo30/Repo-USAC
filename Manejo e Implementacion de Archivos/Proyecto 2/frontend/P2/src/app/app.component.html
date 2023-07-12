@@ -1,0 +1,84 @@
+
+  <nav class="navbar navbar-dark bg-dark sticky-top">
+  
+
+    <ul class="nav">
+      <li class="nav-item">
+        <a class="navbar-brand" href="/home">MIA</a>
+      </li>
+      <!--li class="nav-item">
+        <a class="nav-link" href="/home" style="color: white;">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/home" style="color: white;">Productos</a>
+      </li-->
+    </ul>
+  
+  <!-----------------------------TEMPLATE PARA EL ADMIN----------------------------------->
+  <div class="nav justify-contend-end" *ngIf="loguser == 2">
+    <ul class="nav">
+      <li class="nav-item">
+        <a href="administrador" class="nav-link">
+          <span class="nav-item font-weight-bold" style="color: white;">Dashboard</span>
+        </a>
+      </li>
+      <li class="nav-item" class="nav-link">
+        <a href="login" (click)="deslogin()">
+          <span class="nav-item" style="color: white;">Salir</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+        
+  <!-----------------------------TEMPLATE PARA USUARIOS----------------------------------->
+    <div class="nav justify-content-end" *ngIf="loguser == 1">
+      <ul class="nav">
+        <li class="nav-item">
+          <a style="padding: 15px;">
+            <span class="nav-item font-weight-bold" style="color: white;">
+              Bienvenido, {{user.nombre}} {{user.apellido}} 
+            </span> 
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="navbar-toggler"  type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </a>
+        </li>
+      </ul>
+    </div>    
+  
+  <!-----------------------------TEMPLATE PARA NO LOGIN----------------------------------->
+  <div *ngIf="loguser==0">
+    <ul class="nav justify-content-end">
+      <li class="nav-item">
+        <a class="nav-link font-weight-bold" style="color: white;" href="registro">Registrarse</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link  font-weight-bold" style="color: white;" href="login">Login</a>
+      </li>
+    </ul>
+  </div>
+  
+    
+  </nav>
+
+  
+<div class="collapse navbar-collapse bg-dark" id="navbarToggleExternalContent" >
+  <ul class="navbar-nav mr-auto mt-lg-0" style="margin-left: 2%;">
+    <li class="nav-item">
+      <a class="nav-link" href="perfil" style="color: white;">Mi Perfil</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="mis_publicaciones" style="color: white;">Mis publicaciones</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="mis_compras" style="color: white;">Mis compras</a>
+    </li>
+    <li>
+      <a class="nav-link" href="login" (click) = "deslogin()" style="color: white;">Salir</a>
+    </li>
+  </ul>
+</div>
+
+<router-outlet></router-outlet>

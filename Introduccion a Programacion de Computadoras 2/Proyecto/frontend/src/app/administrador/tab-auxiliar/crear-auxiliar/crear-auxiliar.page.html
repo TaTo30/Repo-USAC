@@ -1,0 +1,40 @@
+
+<ion-content>
+	<div class="div-nav-parent">
+		<div style="margin:5px; padding:5px">
+		    <form #BuscarForm = "ngForm" (ngSubmit) = "buscarEstudiante(BuscarForm)">
+		       	<div>
+		       		<ion-input class="text-control" type="text" [(ngModel)]="carnet" name="carnet" id="carnet"></ion-input>
+		       		<ion-button style="width:100%" type="submit" fill="outline" color="primary">
+		       		<ion-icon name="search" style="margin-right: 7px"></ion-icon>
+		       		Buscar</ion-button>
+		       	</div>
+		    </form>				    	
+		</div>
+		<div *ngIf = "formDatosEstudiante == true">
+			<div class="lista-curso">
+				<p style="color: black; font-size:17px;">{{nombreEstudiante + "  " + apellidoEstudiante}}</p>
+				<p style="color: #979a9b; font-size:15x;">{{carnetEstudiante}}</p>
+				<p style="color: #979a9b; font-size:12px;">{{emailEstudiante}}</p>				
+				<ion-button style="width:100%" (click)="cambiarAuxiliar()" class="btn-curso" fill="outline" color="primary">
+				<ion-icon name="create" style="margin-right: 7px"></ion-icon>
+    			Cambiar Auxiliar
+				</ion-button>
+			</div>
+		</div>
+	</div>
+	<ion-list>
+		<ion-list-header>
+   				<ion-label>Auxiliares existentes</ion-label>
+  		</ion-list-header>
+		<div class="lista-curso" *ngFor="let auxiliar of listaAuxiliares; index as i">				
+				<p style="color: black; font-size:17px;">{{auxiliar.nombre + "  " + auxiliar.apellido}}</p>
+				<p style="color: #979a9b; font-size:15x;">{{auxiliar.carnet}}</p>
+				<p style="color: #979a9b; font-size:12px;">{{auxiliar.email}}</p>	
+				<ion-button style="width:100%" (click)="eliminarAuxiliar(auxiliar.carnet)" class="btn-curso" fill="outline" color="primary">
+				<ion-icon name="close-circle-outline"></ion-icon>
+    			Eliminar Auxiliar
+				</ion-button>
+		</div>
+	</ion-list>
+</ion-content>

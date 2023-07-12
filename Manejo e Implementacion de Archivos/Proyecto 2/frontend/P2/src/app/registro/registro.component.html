@@ -1,0 +1,97 @@
+<div style="margin-left:8%; margin-right: 8%; margin-top: 3%; border-radius: 5px; border: black 1px solid; padding: 15px;">
+<form #r = "ngForm" (ngSubmit)="Registro(r)" class="was-validated" >
+    <div class="form-group">
+        <div class="form-row">
+            <label for="r_nombre">Nombre:</label>
+            <div class="input-group mb-3">            
+                <input ngModel name="nombre" type="text" placeholder="Nombre..." class="form-control rounded-right" id="r_nombre" required>
+                <div class="invalid-feedback">
+                    Nombre es obligatorio.
+                </div>
+            </div>
+        </div>
+        <div class="form-row">
+            <label for="r_apellido">Apellido:</label>
+            <div class="input-group mb-3">
+                <input ngModel name="apellido" type="text" placeholder="Apellido..." class="form-control rounded-right" id="r_apellido" required>
+                <div class="invalid-feedback">
+                    Apellido es obligatorio.
+                </div>
+            </div>
+        </div>
+        <div class="form-row">
+            <label for="r_correo">Correo Electronico:</label>
+            <div class="input-group mb-3">            
+                <input ngModel name="correo" type="text" placeholder="Correo..." class="form-control rounded-right" id="r_correo" required>
+                <div class="input-group-prepend">
+                    <span class="input-group-text">@example.com</span>
+                </div>
+                <div class="invalid-feedback">
+                    Correo es obligatorio.
+                </div>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="col">
+                <label for="r_pass">Contraseña:</label>
+                <div class="input-group mb-3">
+                    <input ngModel name="pass" type="password" placeholder="A-Za-z_0-9" class="form-control rounded-right" id="r_pass" required>
+                    <div class="invalid-feedback">
+                        Contraseña es obligatoria.
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <label for="r_cpass">Repita la Contraseña:</label>
+                <div class="input-group mb-3">
+                    <input ngModel name="cpass" type="password" placeholder="A-Za-z_0-9" class="form-control rounded-right" id="r_cpass" required>
+                </div>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="col">
+                <label for="r_nacimiento">Fecha de Nacimiento:</label>
+                <div class="input-group mb-3">
+                    <input ngModel name="date" type="date" class="form-control" id="r_nacimiento" required>
+                    <div class="invalid-feedback">
+                        Inserte una Fecha de Nacimiento.
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <label for="r_pais">Pais:</label>
+                <div class="input-group mb-3">
+                    <select ngModel name="pais" class="custom-select" id="r_pais">
+                        <option selected>Pais...</option>
+                        <option>Argentina</option>
+                        <option>Belice</option>
+                        <option>Bolivia</option>
+                        <option>Brasil</option>
+                        <option>Canada</option>
+                        <option>Chile</option>
+                        <option>Colombia</option>
+                        <option>Costa Rica</option>
+                        <option>Cuba</option>
+                        <option>Republica Dominicana</option>
+                        <option>Ecuador</option>
+                        <option>El Salvador</option>
+                        <option>Guatemala</option>
+                        <option>Honduras</option>
+                        <option>Mexico</option>
+                        <option>Nicaragua</option>
+                        <option>Panama</option>
+                        <option>Uruguay</option>
+                        <option>Paraguay</option>
+                    </select>
+                </div>
+            </div>
+        </div>   
+        <div class="form-row">
+            <button class="btn btn-primary ml-2" type="submit">Registrar</button>
+        </div>   
+        <div class="form-row" style="margin-top:2%;">
+            <span>Si ya estas registrado inicia sesion <a href="login"> aqui.</a></span>
+        </div>
+    </div>
+</form>
+</div>

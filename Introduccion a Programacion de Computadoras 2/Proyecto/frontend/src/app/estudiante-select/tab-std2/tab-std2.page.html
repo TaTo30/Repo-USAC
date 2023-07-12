@@ -1,0 +1,19 @@
+
+
+<ion-content>
+    <div *ngIf="cursoSeleccionado == false">
+        <ng-container *ngFor="let seccion of listaAsginados; index as i" >
+        <ng-container *ngIf="seccion.carnet == datosUsuario[0].carnet">
+        <div class="lista-curso" (click)="ingresarCurso(seccion.idSeccion)">            
+            <div>
+                <h1 class="course-title">{{seccion.nombre+" Seccion: "+seccion.seccion}}</h1>
+            </div>
+            <div>              
+                <h5>{{seccion.semestre+" "+seccion.ciclo}}</h5>             
+            </div>          
+        </div>
+        </ng-container>
+        </ng-container>
+    </div>
+
+</ion-content>

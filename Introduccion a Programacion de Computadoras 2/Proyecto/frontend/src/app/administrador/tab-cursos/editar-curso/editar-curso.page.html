@@ -1,0 +1,85 @@
+<ion-content>
+<div *ngIf="agregarSeccionForm == false" style="padding: 5px">
+	<select class="select-control" placeholder="Selecciona el Curso">
+		<option *ngFor="let curso of listaCursos" (click)="seleccionarCurso(curso.idCurso, curso.nombre)">{{curso.idCurso + ": " + curso.nombre}}</option>
+	</select>
+	<div>
+		<ion-list>
+		 	<ion-list-header>
+   				<ion-label>Secciones Creadas</ion-label>
+  			</ion-list-header>
+			<div class="lista-curso" *ngFor="let seccion of listaSecciones; index as i">
+				<h3><p>{{seccion.nombre}}</p></h3>
+				<h6><p style="color: #979a9b">{{seccion.horario}}</p></h6>
+				<h5><p style="color: #979a9b">{{seccion.semestre + "  " + seccion.seccion + "  " + seccion.ciclo}}</p></h5>
+				<ion-button (click)="eliminarSeccion(seccion.idSeccion)" class="btn-curso" fill="outline" color="primary">
+					<ion-icon name="close-circle" style="margin-right: 7px"></ion-icon>
+				    Eliminar
+				</ion-button>
+			</div>
+		</ion-list>
+	</div>
+</div>
+<div *ngIf="agregarSeccionForm == true" style="padding: 5px">
+	<div>
+	    	<ion-label >Codigo de Curso:</ion-label>
+	    	<ion-input class="text-control" type="text" [(ngModel)]="codigo" name="codigo" [ngModelOptions]="{standalone: true}" disabled="true"></ion-input>
+	    </div>
+	    <div>
+	    	<ion-label class="atribute-label">Nombre:</ion-label><br>
+	    	<ion-input class="text-control" type="text" [(ngModel)]="nombre" name="nombre" [ngModelOptions]="{standalone: true}" disabled="true"></ion-input>
+	    </div>
+	    <div>
+	    	<ion-label class="atribute-label">Horario Entrada:</ion-label><br>
+	    	<select placeholder="Hora de Entrada" class="select-control" [(ngModel)]="horarioE" name="horarioE" [ngModelOptions]="{standalone: true}" >
+	    		<option (click)="selectP1()" selected="true">7:10</option>
+	    		<option (click)="selectP2()">8:00</option>
+	    		<option (click)="selectP3()">8:50</option>
+	    		<option (click)="selectP4()">9:40</option>
+	    		<option (click)="selectP5()">10:30</option>
+	    		<option (click)="selectP6()">11:40</option>
+	    		
+	    	</select>
+	    </div>
+	    <div>
+	    	<ion-label class="atribute-label">Horario Salida:</ion-label><br>
+	    	<select placeholder="Hora de Salida" class="select-control" [(ngModel)]="horarioS" name="horarioS" [ngModelOptions]="{standalone: true}">
+
+	    		<option *ngIf="secondHoraView < 1">8:00</option>
+	    		<option *ngIf="secondHoraView < 2">8:50</option>
+	    		<option *ngIf="secondHoraView < 3">9:40</option>
+	    		<option *ngIf="secondHoraView < 4">10:30</option>
+	    		<option *ngIf="secondHoraView < 5">11:40</option>
+	    		<option *ngIf="secondHoraView < 6" selected="true">12:30</option>
+	    	</select>
+	    </div>
+	    <div>
+	    	<ion-label class="atribute-label">Seccion:</ion-label><br>
+	    	<ion-input class="text-control" placeholder="seccion" type="text" [(ngModel)]="seccion" name="seccion" [ngModelOptions]="{standalone: true}" style="text-transform:uppercase"></ion-input>
+	    </div>
+	    <div class="div-section-son">
+	    	<ion-label class="atribute-label">Semestre:</ion-label><br>
+	    	<select placeholder="Semestre" class="select-control" [(ngModel)]="semestre" name="semestre" [ngModelOptions]="{standalone: true}">
+	    		<option selected="true">Primer Semestre</option>
+	    		<option>Segundo Semestre</option>
+	    		<option>Vacaciones Junio</option>
+	    		<option>Vacaciones Diciembre</option>
+	    	</select>
+	    </div>
+	    <div class="div-section-son">
+	    	<ion-label class="atribute-label">Año:</ion-label><br>
+	    	<select placeholder="Ciclo" class="select-control" [(ngModel)]="ciclo" name="ciclo" [ngModelOptions]="{standalone: true}">
+	    		<option selected="true">2019</option>
+	    		<option>2020</option>
+	    		<option>2021</option>
+	    	</select>
+	    </div>
+
+	    <div class="div-section-son" id="botonCrear">
+	        <ion-button class="btn-first" (click)="cancelarEdicion()">Cancelar</ion-button>
+	    	<ion-button class="btn-first" (click)="agregarSeccion(codigo, nombre, horarioE, horarioS, seccion, semestre, ciclo)">Añadir Seccion</ion-button>
+	    	
+	    </div>	
+</div>
+
+</ion-content>

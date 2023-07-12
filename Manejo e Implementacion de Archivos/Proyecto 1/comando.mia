@@ -1,0 +1,4 @@
+#comentario de una linea
+mkdisk -path->home/misdiscos/particion1 \*
+-size->72 \*
+-name->"hola mundo"

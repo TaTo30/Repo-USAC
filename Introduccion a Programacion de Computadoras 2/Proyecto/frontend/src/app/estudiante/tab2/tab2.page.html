@@ -1,0 +1,65 @@
+<ion-content>
+	<div>
+		<div *ngIf="estudianteSeleccionado==false">
+			<ng-container *ngFor="let tutor of listaSeccionesAuxiliar; index as i">
+		    <ng-container *ngIf="tutor.idSeccion == datosSeccion[0].idSeccion">
+		    	<ion-item class="lista-curso" style="--background:#efefef" (click)="seleccionarUsuario(tutor.carnet)">
+		    		<ion-label>
+		    		<div style="color:black; font-size:35px">
+		    			<p>Tutor</p>
+		    			<p style="font-size:15px">{{tutor.carnet}}</p>
+		    		</div>
+		    		</ion-label>
+		    	</ion-item>
+		    </ng-container>
+		    </ng-container>
+		<div class="lista-curso" style="background:#efefef">
+			<p style="color:black; font-size:35px">Compañeros</p>
+		</div>
+
+		    <ng-container *ngFor="let user of datosInscritos; index as i">
+		    <ng-container *ngIf="user.idSeccion == datosSeccion[0].idSeccion && user.carnet != datosUsuario[0].carnet">
+		    	<ion-item (click)="seleccionarUsuario(user.carnet, user.nombre)">
+		    		<ion-avatar slot="start">
+            			<img src="../../assets/avatar.png">
+          			</ion-avatar>
+		    		<ion-label>
+		    			<p style="font-size:20px; color:black">{{user.nombre + " " + user.apellido}}</p>
+		    			<p style="font-size:15px">{{user.carnet}}</p>
+		    		</ion-label>
+		    	</ion-item>
+		    </ng-container>
+		    </ng-container>
+			
+		</div>
+		<div *ngIf="estudianteSeleccionado == true">
+	<div class="lista-curso" style="background-color: #404142">
+	
+		<ion-item lines="none" style="--background: #404142">
+		<ion-icon color="light" slot="start" (click)="regresarAnterior()" name="arrow-dropleft-circle"></ion-icon>
+			<ion-avatar slot="start">
+            	<img src="../../assets/avatar.png">
+          	</ion-avatar>
+		<ion-label position="fixed"><p style="color:white; font-weight:bold; font-size:25px">{{"   "+contactoNombre}}</p></ion-label>
+		</ion-item>
+	</div>		
+            <ng-container *ngFor="let mensaje of datosMensajes">
+            <ng-container *ngIf="(mensaje.emisor==carnetSeleccionado && mensaje.receptor==datosUsuario[0].carnet)||(mensaje.receptor==carnetSeleccionado && mensaje.emisor==datosUsuario[0].carnet)">
+            	<div class="lista-curso" style="background-color: #efefef">
+            		<ion-label>
+            			<p style="font-size: 25px; color:black; margin-bottom:3px;">{{mensaje.nombre}}</p>
+            			<p style="margin-top:5px"><span style="font-size:10px;background:#f73e3e; border-radius:3px; padding:1px; color:white">{{mensaje.fecha}}</span></p>
+            			<p style="font-size: 17px; color:#686565; margin-top:7px;">{{mensaje.mensaje}}</p>
+            		</ion-label>
+            	</div>
+            </ng-container>
+            </ng-container>
+            <ion-item>
+				<ion-textarea maxlength="255" placeholder="enviar un mensaje" [(ngModel)]="mensajePrivado" name="mensajePrivado"></ion-textarea>
+			</ion-item>
+			<ion-item>
+				<ion-button fill="outline" color="dark" style="width:100%" (click)="enviarMensajePrivado(mensajePrivado)">Enviar Mensaje</ion-button>
+			</ion-item>
+		</div>
+	</div>
+</ion-content>

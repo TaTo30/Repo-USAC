@@ -1,0 +1,261 @@
+<!--div class="container-fluid">
+    <div class="row"-->
+        <!--div class="col-3 position-fixed" style="background-color: rgb(62, 70, 87);"-->
+            <div class="sidebar bg-dark">
+                <!--a class="mb-3 text-white text-decoration-none ">                    
+                  <h1 class="font-weight-bold">Administrador</h1>
+                </a-->
+                <a (click)="setMode(0)" class="menuhov mb-2 text-white text-decoration-none">Categorias</a>
+                <a class="menuhov mb-2 text-white text-decoration-none">Denuncias</a>
+                <a class="menuhov mb-2 text-white text-decoration-none">Bitacora de Clientes</a>
+                <a (click)="setMode(1)" class="menuhov mb-2 text-white text-decoration-none">Productos más vendidos</a>
+                <a (click)="setMode(2)" class="menuhov mb-2 text-white text-decoration-none">Productos mejores vistos</a>
+                <a (click)="setMode(3)" class="menuhov mb-2 text-white text-decoration-none">Productos peores vistos</a>
+                <a (click)="setMode(4)" class="menuhov mb-2 text-white text-decoration-none">Creditos clientes</a>
+                <a (click)="setMode(5)" class="menuhov mb-2 text-white text-decoration-none">Creditos paises</a>
+                <a (click)="setMode(6)" class="menuhov mb-2 text-white text-decoration-none">Clientes mas vendedores</a>
+                <a (click)="setMode(7)" class="menuhov mb-2 text-white text-decoration-none">Clientes denunciantes</a>
+            </div>
+        <!--/div-->
+
+
+        <div class="content container">
+            <!--------------------------------DIV PARA CREAR CATEGORIAS-------------------------------------->
+            <div class="container" *ngIf="ADMIN_SET_MODE == 0">
+                <div class="row">
+                    <div class="col mt-3">
+                        <form #set = "ngForm" (ngSubmit)="agregarCategoria(set)">
+                            <label for="catname">
+                                Nombre de la Categoria:
+                            </label>
+                            <div class="form-group form-row">
+                                <div class="col-9">                                    
+                                    <input type="text" class="form-control" id="catname" name="categoria" ngModel>
+                                </div>
+                                <div class="col">
+                                    <button type="submit" class="btn btn-primary">Agregar</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col mt-3">
+                        <span style="font-size: xx-large;">Lista de Categorias</span>
+                        <div style="border-radius: 5px;">
+                            <ng-container *ngFor="let cat of categorias_list; index as i">
+                                <div style="background-color: rgb(248, 246, 246); padding: 3%;" *ngIf="i%2==0">
+                                    <span style="font-size:x-large;">{{cat[1]}}</span><span style="font-size: small;" class="text-muted"> #{{cat[0]}}</span>
+                                </div>
+                                <div style="background-color: rgb(235, 231, 231); padding: 3%;" *ngIf="i%2!=0">
+                                    <span style="font-size:x-large;">{{cat[1]}}</span><span style="font-size: small;" class="text-muted"> #{{cat[0]}}</span>
+                                </div>
+                            </ng-container>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!---------------------------------DIV PARA PRODUCTOS MAS VENDIDOS------------------------------------>
+            <div class="container" *ngIf="ADMIN_SET_MODE == 1">
+                <span style="font-size: xx-large;">Productos mas Vendidos</span>
+                <div style="border-radius: 5px;">
+                    <ng-container *ngFor="let p of PRODUCTOS_LIST; index as i">
+                        <div style="background-color: rgb(248, 246, 246); padding: 3%;" *ngIf="i%2==0">
+                            <span style="font-size: small;" class="text-muted"> #{{p.id}}</span>
+                            <span style="font-size:x-large;">{{p.nombre}} </span>
+                            <span style="font-size:large;" class="text-muted"> ---- {{p.precio}} Ventas</span>
+                        </div>
+                        <div style="background-color: rgb(235, 231, 231); padding: 3%;" *ngIf="i%2!=0">
+                            <span style="font-size: small;" class="text-muted"> #{{p.id}}</span>
+                            <span style="font-size:x-large;">{{p.nombre}}  </span>
+                            <span style="font-size:large;" class="text-muted"> ---- {{p.precio}} Ventas</span>
+                        </div>
+                    </ng-container>
+                </div>
+            </div>
+            <!------------------------DIV PARA LISTADO DR PRODUCTOS CON MAS LIKES--------------------------->
+            <div class="container" *ngIf="ADMIN_SET_MODE == 2">
+                <span style="font-size: xx-large;">Productos con mas Likes</span>
+                <div style="border-radius: 5px;">
+                    <ng-container *ngFor="let p of PUBLICACION_LIST; index as i">
+                        <div style="background-color: rgb(248, 246, 246); padding: 3%;" *ngIf="i%2==0">
+                            <div>
+                                <span style="font-size:x-large;" class="text-muted">{{i+1}}. </span>
+                                <span style="font-size:x-large;">{{p.Producto.nombre}} - </span>
+                                <span class="badge badge-primary">{{p.Producto.likes}} Likes</span>
+                            </div>
+                            <div>
+                                <span style="font-size:x-large;" class="text-muted">publicaco por: {{p.Vendedor.nombre}} {{p.Vendedor.apellido}} </span>
+                                
+                            </div>
+                        </div>
+                        <div style="background-color: rgb(235, 231, 231); padding: 3%;" *ngIf="i%2!=0">
+                            <div>
+                                <span style="font-size:x-large;" class="text-muted">{{i+1}}. </span>
+                                <span style="font-size:x-large;">{{p.Producto.nombre}} - </span>
+                                <span class="badge badge-primary">{{p.Producto.likes}} Likes</span>
+                            </div>
+                            <div>
+                                <span style="font-size:x-large;" class="text-muted">publicaco por: {{p.Vendedor.nombre}} {{p.Vendedor.apellido}} </span>
+                                
+                            </div>
+                        </div>
+                    </ng-container>
+                </div>
+            </div>
+            <!----------------------DIV PARA LISTADO DE PRODUCTOS CON MAS DISLIKES---------------------->
+            <div class="container" *ngIf="ADMIN_SET_MODE == 3">
+                <span style="font-size: xx-large;">Productos con mas Dislikes</span>
+                <div style="border-radius: 5px;">
+                    <ng-container *ngFor="let p of PUBLICACION_LIST; index as i">
+                        <div style="background-color: rgb(248, 246, 246); padding: 3%;" *ngIf="i%2==0">
+                            <div>
+                                <span style="font-size:x-large;" class="text-muted">{{i+1}}. </span>
+                                <span style="font-size:x-large;">{{p.Producto.nombre}} - </span>
+                                <span class="badge badge-danger">{{p.Producto.dislikes}} Dislikes</span>
+                            </div>
+                            <div>
+                                <span style="font-size:x-large;" class="text-muted">publicaco por: {{p.Vendedor.nombre}} {{p.Vendedor.apellido}} </span>          
+                            </div>
+                        </div>
+                        <div style="background-color: rgb(235, 231, 231); padding: 3%;" *ngIf="i%2!=0">
+                            <div>
+                                <span style="font-size:x-large;" class="text-muted">{{i+1}}. </span>
+                                <span style="font-size:x-large;">{{p.Producto.nombre}} - </span>
+                                <span class="badge badge-danger">{{p.Producto.dislikes}} Dislikes</span>
+                            </div>
+                            <div>
+                                <span style="font-size:x-large;" class="text-muted">publicaco por: {{p.Vendedor.nombre}} {{p.Vendedor.apellido}} </span>
+                                
+                            </div>
+                        </div>
+                    </ng-container>
+                </div>
+            </div>
+            <!----------------------DIV PARA EL LISTADO DE CLIENTES Y SUS CREDITOS-------------------------->
+            <div class="container" *ngIf="ADMIN_SET_MODE == 4">
+                <span style="font-size: xx-large;">Clientes con mas creditos</span>
+                <div style="border-radius: 5px;">
+                    <ng-container *ngFor="let u of USER_LIST; index as i">
+                        <div style="background-color: rgb(248, 246, 246); padding: 3%;" *ngIf="i%2==0">
+                            <div>
+                                <span class="text-muted h4">{{i+1}}. </span>
+                                <span class="h4">{{u.nombre}} {{u.apellido}} - </span>
+                                <span class="badge badge-secondary">{{u.creditos}} Creditos</span>
+                            </div>
+                            <div>
+                                <span class="text-muted h4">Nacido el {{u.nac}} </span>
+                                <span class="text-muted h5">Correo: {{u.mail}}</span>
+                            </div>
+                        </div>
+                        <div style="background-color: rgb(235, 231, 231); padding: 3%;" *ngIf="i%2!=0">
+                            <div>
+                                <span class="text-muted h4">{{i+1}}. </span>
+                                <span class="h4">{{u.nombre}} {{u.apellido}} - </span>
+                                <span class="badge badge-secondary">{{u.creditos}} Creditos</span>
+                            </div>
+                            <div>
+                                <span class="text-muted h4">Nacido el {{u.nac}} </span>
+                                <span class="text-muted h5">Correo: {{u.mail}}</span>
+                            </div>
+                        </div>
+                    </ng-container>
+                </div>
+            </div>
+            <!-----------------DIV PARA MOSTRAR EL LISTADO DE CREDITOS POR PAISES----------------->
+            <div class="container" *ngIf="ADMIN_SET_MODE == 5">
+                <span style="font-size: xx-large;">Creditos por paises</span>
+                <div style="border-radius: 5px;">
+                    <ng-container *ngFor="let p of PRODUCTOS_LIST; index as i">
+                        <div style="background-color: rgb(248, 246, 246); padding: 3%;" *ngIf="i%2==0">
+                            <div>
+                                <span class="text-muted h4">{{i+1}}. </span>
+                                <span class="h4">{{p.nombre}} - </span>
+                                <span class="badge badge-success">{{p.id}} Creditos</span>
+                            </div>
+                            <div>
+                                <span class="text-muted h4"># de vendedores: {{p.likes}} </span>                                
+                            </div>
+                            <div>
+                                <span class="text-muted h5"># de publicaciones: {{p.dislikes}}</span>
+                            </div>
+                        </div>
+                        <div style="background-color: rgb(235, 231, 231); padding: 3%;" *ngIf="i%2!=0">
+                            <div>
+                                <span class="text-muted h4">{{i+1}}. </span>
+                                <span class="h4">{{p.nombre}} - </span>
+                                <span class="badge badge-success">{{p.id}} Creditos</span>
+                            </div>
+                            <div>
+                                <span class="text-muted h4"># de vendedores: {{p.likes}} </span>                                
+                            </div>
+                            <div>
+                                <span class="text-muted h5"># de publicaciones: {{p.dislikes}}</span>
+                            </div>
+                        </div>
+                    </ng-container>
+                </div>
+            </div>
+            <!--------------DIV QUE CONTIENE EL LISTADO DE CLIENTES QUE MAS HAN VENDIDO----------------->
+            <div class="container" *ngIf="ADMIN_SET_MODE == 6">
+                <span style="font-size: xx-large;">Clientes con mas productos en venta</span>
+                <div style="border-radius: 5px;">
+                    <ng-container *ngFor="let u of USER_LIST; index as i">
+                        <div style="background-color: rgb(248, 246, 246); padding: 3%;" *ngIf="i%2==0">
+                            <div>
+                                <span class="text-muted h4">{{i+1}}. </span>
+                                <span class="h4">{{u.nombre}} {{u.apellido}} - </span>
+                                <span class="h5">{{u.id}} Productos Publicados</span>
+                            </div>
+                            <div>
+                                <span class="text-muted h4"># de creditos: {{u.creditos}} </span>                                
+                            </div>
+                            <div>
+                                <span class="text-muted h5">Correo: {{u.mail}}</span>
+                            </div>
+                        </div>
+                        <div style="background-color: rgb(235, 231, 231); padding: 3%;" *ngIf="i%2!=0">
+                            <div>
+                                <span class="text-muted h4">{{i+1}}. </span>
+                                <span class="h4">{{u.nombre}} {{u.apellido}} - </span>
+                                <span class="h5">{{u.id}} Productos Publicados</span>
+                            </div>
+                            <div>
+                                <span class="text-muted h4"># de creditos: {{u.creditos}} </span>                                
+                            </div>
+                            <div>
+                                <span class="text-muted h5">Correo: {{u.mail}}</span>
+                            </div>
+                        </div>
+                    </ng-container>
+                </div>
+            </div>
+            <!---------------DIV QUE LISTA LOS CLIENTES CON MAS COMENTARIOS---------------->
+            <div class="container" *ngIf="ADMIN_SET_MODE == 7">
+                <span style="font-size: xx-large;">Clientes que mas han comentado</span>
+                <div style="border-radius: 5px;">
+                    <ng-container *ngFor="let u of USER_LIST; index as i">
+                        <div style="background-color: rgb(248, 246, 246); padding: 3%;" *ngIf="i%2==0">
+                            <div>
+                                <span class="text-muted h4">{{i+1}}. </span>
+                                <span class="h4">{{u.nombre}} {{u.apellido}} - </span>
+                                <span class="h5">{{u.id}} Comentarios</span>
+                            </div>
+                            <div>
+                                <span class="text-muted h5">Nacido el: {{u.nac}}</span>
+                            </div>
+                        </div>
+                        <div style="background-color: rgb(235, 231, 231); padding: 3%;" *ngIf="i%2!=0">
+                            <div>
+                                <span class="text-muted h4">{{i+1}}. </span>
+                                <span class="h4">{{u.nombre}} {{u.apellido}} - </span>
+                                <span class="h5">{{u.id}} Comentarios</span>
+                            </div>
+                            <div>
+                                <span class="text-muted h5">Nacido el: {{u.nac}}</span>
+                            </div>
+                        </div>
+                    </ng-container>
+                </div>
+            </div>
+        </div>
+    <!--/div>
+</div-->

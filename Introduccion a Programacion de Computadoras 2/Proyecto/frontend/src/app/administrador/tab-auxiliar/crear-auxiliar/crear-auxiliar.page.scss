@@ -1,0 +1,22 @@
+.lista-curso{
+	margin: 7px;
+	padding: 5px;
+	border-radius: 3px;
+	border: 1px solid #c0c0c0;
+	background: white;
+}
+
+
+.text-control{
+	background: white;
+	border-radius: 5px;
+	color: black;
+	border: 1px solid #c0c0c0;
+	padding: 6px 12px;
+	--padding-start: 5px;
+	--padding-end: 5px;
+}
+
+.text-control:hover{
+	border: 1px solid black;
+}

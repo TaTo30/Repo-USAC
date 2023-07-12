@@ -1,0 +1,244 @@
+ <ion-app>
+    <ion-menu side="start">
+      <ion-header style="background: #0491bf;">
+        <ion-toolbar translucent>
+        	<div text-center class="header-menu">
+          		<img width="100" height="100" src="../../../assets/icon/favicon.png" />
+        	</div>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content>
+        <ion-list>
+          <ion-item (click)="paginaAuxiliares()">
+            <ion-icon name="person" slot="start"></ion-icon>
+            <ion-label>Auxiliares</ion-label>
+          </ion-item>
+          <ion-item (click)="paginaCursos()">
+            <ion-icon name="bookmarks" slot="start"></ion-icon>
+            <ion-label>Cursos</ion-label>
+          </ion-item>
+          <ion-item (click)="paginaAsignaciones()">
+            <ion-icon name="filing" slot="start"></ion-icon>
+            <ion-label>Asignaciones</ion-label>
+          </ion-item>
+          <ion-item (click)="paginaConsultas()">
+            <ion-icon name="calendar" slot="start"></ion-icon>
+            <ion-label>Consultas</ion-label>
+          </ion-item>
+          <ion-item (click)="paginaInicio()">
+            <ion-icon name="exit" slot="start"></ion-icon>
+            <ion-label>Salir</ion-label>
+          </ion-item>
+        </ion-list>
+      </ion-content>
+    </ion-menu>
+    <div class="ion-page" main>
+      <ion-header>
+        <ion-toolbar>
+          <ion-buttons slot="start">
+            <ion-menu-button></ion-menu-button>
+          </ion-buttons>
+          <ion-title>Administrador de Cursos</ion-title>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content class="ion-padding">
+ 
+		<ion-tabs>
+			<ion-tab-bar slot="botton">
+				<ion-tab-button tab="crear">
+					<ion-label>Crear</ion-label>
+					<ion-icon name="add-circle"></ion-icon>
+				</ion-tab-button>
+				
+				<ion-tab-button tab="editar">
+					<ion-label>Editar</ion-label>
+					<ion-icon name="create"></ion-icon>
+				</ion-tab-button>
+			</ion-tab-bar>
+		</ion-tabs>
+        
+      </ion-content>
+    </div>
+  </ion-app>
+
+
+  <!--
+     	<div class="div-parent-group">
+   		 <div class="div-nav-top">
+         <div class="div-nav-son">
+         	<label class="label-title">Gestion Cursos</label>
+         </div>
+         <div class="div-nav-son">
+         	<button class="btn-first" (click)="showCrear()">Crear</button>
+         	<button class="btn-first" (click)="showEditar()">Editar</button>
+         	<button class="btn-first" (click)="Regresar()">Regresar</button>
+         </div>
+
+    	
+    </div>
+
+
+	<div class="div-section" *ngIf="SectorView==0">
+	<form #crearCurso = "ngForm" (ngSubmit) = "AddCurso(crearCurso)">
+		<div class="div-section-son">
+			<label class="atribute-label">Codigo de Curso:</label><br>
+			<input class="text-control" type="text" placeholder="0-9" [(ngModel)]="cursoCod" name="cursoCod" id="cursoCod">
+		</div>
+		<div class="div-section-son">
+			<label class="atribute-label">Nombre de Curso:</label><br>
+			<input class="text-control" type="text" [(ngModel)]="cursoName" name="cursoName" id="cursoName">
+		</div >
+		<div class="div-section-son" id="botonCrear">
+			<button class="btn-first" type="submit"><h4>Crear Curso</h4></button>
+		</div>
+	</form>		
+	</div>
+
+
+
+
+	<div class="div-section" *ngIf="SectorView==1">
+	<div class="div-section-son">
+		<table>
+			<tr>
+				<th>Codigo</th>
+				<th>Nombre</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				
+			</tr>
+			<tr *ngFor ="let curso of listaCursos; index as i">
+			    <td>{{curso.IdCurso}}</td>
+			    <td>{{curso.Nombre}}</td>
+			    <td><button class="btn-second" (click)="editarCurso(curso.IdCurso, curso.Nombre)">Editar Curso</button></td>
+			    <td><button class="btn-second" (click)="eliminarCurso(curso.IdCurso)">Eliminar Curso</button></td>
+			    <td><button class="btn-second" (click)="agregarSeccion(curso.IdCurso, curso.Nombre)">Añadir Seccion</button></td>
+				
+			</tr>
+		</table>
+	</div>	
+	<div class="div-section-son">
+		<table>
+			<tr>
+				<th>Codigo</th>
+				<th>Nombre</th>
+				<th>Horario</th>
+				<th>Seccion</th>
+				<th>Semestre</th>
+				<th>Año</th>
+				<th>Inscritos</th>
+				<th></th>
+	
+			</tr>
+			<tr *ngFor ="let seccion of listaSecciones; index as i">
+				<td>{{seccion.IdCurso}}</td>
+				<td>{{seccion.Nombre}}</td>
+				<td>{{seccion.Horario}}</td>
+				<td>{{seccion.Seccion}}</td>
+				<td>{{seccion.Semestre}}</td>
+				<td>{{seccion.Ano}}</td>
+				<td>{{seccion.NoEstudiantes}}</td>
+				<td><button class="btn-second" (click)="EliminarSeccion(seccion.IdCurso, seccion.NoEstudiantes, seccion.Seccion, seccion.Ano, seccion.Semestre)">Eliminar Seccion</button></td>
+			</tr>
+		</table>
+	</div>	
+	</div>
+
+
+
+
+
+	<div class="div-section" *ngIf="SectorView==2">
+	    <div class="div-section-son">
+	    	<label class="atribute-label">Codigo de Curso:</label><br>
+	    	<input class="text-control" type="text" [(ngModel)]="Ecodigo" name="Ecodigo" [ngModelOptions]="{standalone: true}" disabled="true">
+	    </div>
+	    <div class="div-section-son">
+	    	<label class="atribute-label">Nombre:</label><br>
+	    	<input class="text-control" type="text" [(ngModel)]="Enombre" name="Enombre" [ngModelOptions]="{standalone: true}">
+	    </div>
+	    <div class="div-section-son" id="botonCrear">
+	    	<button class="btn-first"  (click)="editarCurso2(Ecodigo, Enombre)"><h4>Editar Curso</h4></button>
+	    </div>		
+	</div>
+
+
+
+
+	<div class="div-section" *ngIf="SectorView==3">
+	    <div class="div-section-son">
+	    	<label class="atribute-label">Codigo de Curso:</label><br>
+	    	<input class="text-control" type="text" [(ngModel)]="EcodigoS" name="EcodigoS" [ngModelOptions]="{standalone: true}" disabled="true">
+	    </div>
+	    <div class="div-section-son">
+	    	<label class="atribute-label">Nombre:</label><br>
+	    	<input class="text-control" type="text" [(ngModel)]="EnombreS" name="EnombreS" [ngModelOptions]="{standalone: true}" disabled="true">
+	    </div>
+	    <div class="div-section-son">
+	    	<label class="atribute-label">Horario Entrada:</label><br>
+	    	<select class="select-control" [(ngModel)]="EhorarioS1" name="EhorarioS" [ngModelOptions]="{standalone: true}" >
+	    		<option (click)="selectP1()">7:10</option>
+	    		<option (click)="selectP2()">8:00</option>
+	    		<option (click)="selectP3()">8:50</option>
+	    		<option (click)="selectP4()">9:40</option>
+	    		<option (click)="selectP5()">10:30</option>
+	    		<option (click)="selectP6()">11:40</option>
+	    		
+	    	</select>
+	    </div>
+	    <div class="div-section-son">
+	    	<label class="atribute-label">Horario Salida:</label><br>
+	    	<select class="select-control" [(ngModel)]="EhorarioS2" name="EhorarioS" [ngModelOptions]="{standalone: true}">
+
+	    		<option *ngIf="secondHoraView < 1">8:00</option>
+	    		<option *ngIf="secondHoraView < 2">8:50</option>
+	    		<option *ngIf="secondHoraView < 3">9:40</option>
+	    		<option *ngIf="secondHoraView < 4">10:30</option>
+	    		<option *ngIf="secondHoraView < 5">11:40</option>
+	    		<option *ngIf="secondHoraView < 6">12:30</option>
+	    	</select>
+	    </div>
+	    <div class="div-section-son">
+	    	<label class="atribute-label">Seccion:</label><br>
+	    	<input class="text-control" type="text" [(ngModel)]="EseccionS" name="EseccionS" [ngModelOptions]="{standalone: true}" style="text-transform:uppercase">
+	    </div>
+	    <div class="div-section-son">
+	    	<label class="atribute-label">Semestre:</label><br>
+	    	<select class="select-control" [(ngModel)]="EsemestreS" name="EsemestreS" [ngModelOptions]="{standalone: true}">
+	    		<option selected="true">Primer Semestre</option>
+	    		<option>Segundo Semestre</option>
+	    		<option>Vacaciones Junio</option>
+	    		<option>Vacaciones Diciembre</option>
+	    	</select>
+	    </div>
+	    <div class="div-section-son">
+	    	<label class="atribute-label">Año:</label><br>
+	    	<select class="select-control" [(ngModel)]="EanoS" name="EanoS" [ngModelOptions]="{standalone: true}">
+	    		<option selected="false">2019</option>
+	    		<option>2020</option>
+	    		<option>2021</option>
+	    		<option>2022</option>
+	    		<option>2023</option>
+	    		<option>2024</option>
+	    		<option>2025</option>
+	    		<option>2026</option>
+	    	</select>
+	    </div>
+
+	    <div class="div-section-son" id="botonCrear">
+	        <button class="btn-first" (click)="CancelarEdicion()">Cancelar</button>
+	    	<button class="btn-first" (click)="agregarSeccion2(EcodigoS, EnombreS, EhorarioS1, EhorarioS2, EseccionS, EsemestreS, EanoS)">Añadir Seccion</button>
+	    	
+	    </div>		
+	</div>
+
+	
+
+
+
+
+	
+</div>
+  -->
+

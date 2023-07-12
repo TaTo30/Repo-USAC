@@ -1,0 +1,25 @@
+
+
+<ion-content>
+<div>
+    <div>
+    	<div style="padding:5px;"><h5>Cursos Disponibles</h5></div>
+    </div>
+	<div class="div-section" >
+	    <ng-container *ngFor="let seccion of listaSecciones; index as i" >
+        <div class="lista-curso" (click)="asignarCurso(seccion.idSeccion)">            
+            <div>
+                <h1>{{seccion.nombre+" Seccion: "+seccion.seccion}}</h1>
+            </div>
+            <div>              
+                <h5>{{seccion.semestre+" "+seccion.ciclo}}</h5>             
+            </div>          
+        </div>
+        </ng-container> 
+    </div>
+
+</div>
+
+
+
+</ion-content>

@@ -1,0 +1,35 @@
+<div style="margin-left:8%; margin-right: 8%; margin-top: 3%; border-radius: 5px; border: black 1px solid; padding: 15px;">
+    <form #log="ngForm" (ngSubmit)="Login(log)" class="was-validated" >
+        <div class="form-group">
+            <div class="form-row">
+                <label for="l_correo">Correo:</label>
+                <div class="input-group mb-3">            
+                    <input ngModel name="correo" type="text" placeholder="Correo..." class="form-control rounded-right" id="l_correo" required>
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">@example.com</span>
+                    </div>
+                    <div class="invalid-feedback">
+                        Correo es obligatorio.
+                    </div>
+                </div>
+            </div>
+            <div class="form-row">
+                <label for="l_pass">Contraseña:</label>
+                <div class="input-group mb-3">
+                    <input ngModel name="pass" type="password" placeholder="Contraseña..." class="form-control rounded-right" id="l_pass" required>
+                    
+                    <div class="invalid-feedback">
+                        Contraseña es obligatoria.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="form-row">
+                <button class="btn btn-primary ml-2" type="submit">Iniciar Sesion</button>
+            </div>   
+            <div class="form-row" style="margin-top:2%;">
+                <span>Si no tienes una cuenta registrate<a href="registro"> aqui.</a></span>
+            </div>
+        </div>
+    </form>
+    </div>

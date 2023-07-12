@@ -1,0 +1,59 @@
+
+.text-control{
+	background: white;
+	border-radius: 5px;
+	color: black;
+	border: 1px solid #c0c0c0;
+	padding: 6px 12px;
+	--padding-start: 5px;
+	--padding-end: 5px;
+}
+
+.text-control:hover{
+	border: 1px solid black;
+}
+
+.my-label {
+  font-size: 25px;
+  font-family: Airstream ITC;
+}
+
+.form-group{
+	background: #032780;
+}
+
+.label-info{
+	font-size: 15px;
+}
+
+.div-form{
+	border: 1px solid white;
+	margin: 5px;
+	background: white;
+	border-radius: 4px; 
+}
+
+
+.lista-curso{
+	margin: 7px;
+	padding: 5px;
+	border-radius: 3px;
+	border: 1px solid #c0c0c0;
+	background: white;
+}
+
+.btn-curso{
+	margin: 10px;
+}
+.list-background{
+	background: #0491bf;
+}
+
+.list-background-edit{
+	background: #0491bf;
+	padding: 10px;
+}
+
+.atribute-label{
+	color: white;
+}
